@@ -41,7 +41,7 @@ python -m skillbridge.generator --employees 5000 --skills 500 --courses 1000 --e
 ```bash
 streamlit run app.py
 ```
-Open the local URL printed in the terminal (usually http://localhost:8501).
+Open the local URL printed in the terminal (usually http://localhost:8502).
 
 ## Run tests
 ```bash
