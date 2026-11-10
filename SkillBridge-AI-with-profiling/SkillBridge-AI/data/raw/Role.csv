@@ -1,0 +1,81 @@
+role_id,role_name,department,level
+ROL-0001,Specialist - Product 01,Finance,Mid
+ROL-0002,Manager - Data 02,Operations,Senior
+ROL-0003,Associate - Customer Support 03,Operations,Senior
+ROL-0004,Engineer - Finance 04,Operations,Lead
+ROL-0005,Analyst - Operations 05,Customer Support,Senior
+ROL-0006,Analyst - Customer Support 06,Customer Support,Senior
+ROL-0007,Analyst - Operations 07,Data,Mid
+ROL-0008,Analyst - Product 08,Human Resources,Senior
+ROL-0009,Manager - Data 09,Finance,Lead
+ROL-0010,Associate - Data 10,Human Resources,Lead
+ROL-0011,Specialist - Finance 11,Data,Lead
+ROL-0012,Specialist - Operations 12,Finance,Mid
+ROL-0013,Engineer - Product 13,Human Resources,Junior
+ROL-0014,Associate - Finance 14,Product,Junior
+ROL-0015,Associate - Data 15,Finance,Senior
+ROL-0016,Manager - Customer Support 16,Finance,Senior
+ROL-0017,Analyst - Data 17,Engineering,Mid
+ROL-0018,Specialist - Engineering 18,Finance,Junior
+ROL-0019,Engineer - Data 19,Data,Mid
+ROL-0020,Associate - Engineering 20,Data,Mid
+ROL-0021,Specialist - Customer Support 21,Customer Support,Mid
+ROL-0022,Analyst - Data 22,Customer Support,Senior
+ROL-0023,Specialist - Engineering 23,Customer Support,Mid
+ROL-0024,Manager - Finance 24,Customer Support,Mid
+ROL-0025,Analyst - Engineering 25,Engineering,Lead
+ROL-0026,Analyst - Finance 26,Operations,Lead
+ROL-0027,Manager - Data 27,Data,Junior
+ROL-0028,Analyst - Human Resources 28,Human Resources,Lead
+ROL-0029,Associate - Engineering 29,Product,Senior
+ROL-0030,Specialist - Human Resources 30,Customer Support,Junior
+ROL-0031,Specialist - Data 31,Product,Junior
+ROL-0032,Manager - Finance 32,Data,Mid
+ROL-0033,Specialist - Engineering 33,Operations,Senior
+ROL-0034,Associate - Data 34,Finance,Senior
+ROL-0035,Manager - Product 35,Operations,Junior
+ROL-0036,Associate - Data 36,Human Resources,Junior
+ROL-0037,Analyst - Customer Support 37,Finance,Mid
+ROL-0038,Specialist - Customer Support 38,Product,Lead
+ROL-0039,Engineer - Human Resources 39,Data,Junior
+ROL-0040,Specialist - Finance 40,Operations,Junior
+ROL-0041,Engineer - Data 41,Human Resources,Junior
+ROL-0042,Specialist - Customer Support 42,Customer Support,Junior
+ROL-0043,Associate - Product 43,Human Resources,Junior
+ROL-0044,Specialist - Human Resources 44,Operations,Junior
+ROL-0045,Manager - Customer Support 45,Product,Senior
+ROL-0046,Specialist - Product 46,Operations,Lead
+ROL-0047,Engineer - Data 47,Human Resources,Junior
+ROL-0048,Specialist - Data 48,Finance,Mid
+ROL-0049,Analyst - Human Resources 49,Engineering,Senior
+ROL-0050,Engineer - Operations 50,Data,Mid
+ROL-0051,Engineer - Engineering 51,Operations,Lead
+ROL-0052,Analyst - Human Resources 52,Human Resources,Junior
+ROL-0053,Manager - Finance 53,Product,Junior
+ROL-0054,Associate - Data 54,Operations,Mid
+ROL-0055,Associate - Operations 55,Operations,Mid
+ROL-0056,Engineer - Data 56,Data,Senior
+ROL-0057,Engineer - Product 57,Human Resources,Mid
+ROL-0058,Analyst - Human Resources 58,Finance,Mid
+ROL-0059,Analyst - Finance 59,Human Resources,Mid
+ROL-0060,Associate - Engineering 60,Customer Support,Senior
+ROL-0061,Manager - Product 61,Data,Lead
+ROL-0062,Manager - Data 62,Human Resources,Senior
+ROL-0063,Engineer - Human Resources 63,Customer Support,Mid
+ROL-0064,Analyst - Operations 64,Data,Senior
+ROL-0065,Analyst - Finance 65,Customer Support,Mid
+ROL-0066,Engineer - Customer Support 66,Customer Support,Senior
+ROL-0067,Engineer - Engineering 67,Human Resources,Junior
+ROL-0068,Associate - Customer Support 68,Product,Mid
+ROL-0069,Engineer - Human Resources 69,Finance,Mid
+ROL-0070,Associate - Customer Support 70,Product,Senior
+ROL-0071,Associate - Human Resources 71,Product,Lead
+ROL-0072,Engineer - Human Resources 72,Customer Support,Lead
+ROL-0073,Engineer - Human Resources 73,Engineering,Junior
+ROL-0074,Associate - Operations 74,Engineering,Lead
+ROL-0075,Engineer - Customer Support 75,Human Resources,Senior
+ROL-0076,Engineer - Product 76,Operations,Lead
+ROL-0077,Engineer - Data 77,Product,Mid
+ROL-0078,Specialist - Operations 78,Product,Lead
+ROL-0079,Analyst - Data 79,Operations,Junior
+ROL-0080,Associate - Operations 80,Engineering,Senior

@@ -1,0 +1,22 @@
+assessment_id,employee_id,skill_id,proficiency,assessed_on,assessment_source,assessor
+ASM-000000001,EMP-000251,SKL-000001,3,2026-11-10,Resume (employee confirmed),Employee
+ASM-000000002,EMP-000251,SKL-000002,3,2026-11-10,Resume (employee confirmed),Employee
+ASM-000000003,EMP-000251,SKL-000003,3,2026-11-10,Resume (employee confirmed),Employee
+ASM-000000004,EMP-000251,SKL-000006,3,2026-11-10,Resume (employee confirmed),Employee
+ASM-000000005,EMP-000251,SKL-000007,3,2026-11-10,Resume (employee confirmed),Employee
+ASM-000000006,EMP-000251,SKL-000008,3,2026-11-10,Resume (employee confirmed),Employee
+ASM-000000007,EMP-000251,SKL-000009,3,2026-11-10,Resume (employee confirmed),Employee
+ASM-000000008,EMP-000251,SKL-000010,3,2026-11-10,Resume (employee confirmed),Employee
+ASM-000000009,EMP-000251,SKL-000020,3,2026-11-10,Resume (employee confirmed),Employee
+ASM-000000010,EMP-000251,SKL-000022,3,2026-11-10,Resume (employee confirmed),Employee
+ASM-000000011,EMP-000251,SKL-000023,3,2026-11-10,Resume (employee confirmed),Employee
+ASM-000000012,EMP-000251,SKL-000026,3,2026-11-10,Resume (employee confirmed),Employee
+ASM-000000013,EMP-000251,SKL-000027,3,2026-11-10,Resume (employee confirmed),Employee
+ASM-000000014,EMP-000251,SKL-000001,3,2026-11-10,Manual entry,HR Partner
+ASM-000000015,EMP-000251,SKL-000002,4,2026-11-10,Manual entry,HR Partner
+ASM-000000016,EMP-000251,SKL-000003,3,2026-11-10,Manual entry,HR Partner
+ASM-000000017,EMP-000251,SKL-000004,3,2026-11-10,Manual entry,HR Partner
+ASM-000000018,EMP-000995,SKL-000007,3,2026-11-10,Manual entry,Employee
+ASM-000000019,EMP-000995,SKL-000008,3,2026-11-10,Manual entry,Employee
+ASM-000000020,EMP-000995,SKL-000009,3,2026-11-10,Manual entry,Employee
+ASM-000000021,EMP-000995,SKL-000010,3,2026-11-10,Manual entry,Employee

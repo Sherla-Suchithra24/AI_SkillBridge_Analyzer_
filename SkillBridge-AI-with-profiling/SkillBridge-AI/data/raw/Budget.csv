@@ -1,0 +1,8 @@
+budget_id,department,fiscal_year,allocated_amount,currency,spent_amount,remaining_amount
+BUD-Engineering-2026,Engineering,2026,103070,INR,686500,-583430
+BUD-Data-2026,Data,2026,51914,INR,1548000,-1496086
+BUD-Operations-2026,Operations,2026,104127,INR,1866000,-1761873
+BUD-Finance-2026,Finance,2026,139472,INR,1471000,-1331528
+BUD-HumanResources-2026,Human Resources,2026,89092,INR,1841000,-1751908
+BUD-CustomerSupport-2026,Customer Support,2026,100318,INR,1786000,-1685682
+BUD-Product-2026,Product,2026,175382,INR,1452000,-1276618

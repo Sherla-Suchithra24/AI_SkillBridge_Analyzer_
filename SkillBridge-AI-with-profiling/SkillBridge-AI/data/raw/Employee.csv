@@ -1,0 +1,1003 @@
+employee_id,employee_name,department,role_id,manager_id,location,hire_date,employment_status
+EMP-000001,Lauren Nash,Finance,ROL-0001,,Hyderabad,2026-01-27,Active
+EMP-000002,Rodney Hall,Operations,ROL-0002,EMP-000001,Remote,2023-07-05,On Leave
+EMP-000003,Roger Anderson,Operations,ROL-0003,EMP-000001,Bengaluru,2025-05-19,Active
+EMP-000004,Eric Miles,Operations,ROL-0004,EMP-000001,Chennai,2026-08-03,On Leave
+EMP-000005,Ashley Lee,Customer Support,ROL-0005,EMP-000001,Bengaluru,2023-10-14,Active
+EMP-000006,Brian Garza,Customer Support,ROL-0006,EMP-000001,Hyderabad,2025-12-24,Active
+EMP-000007,Brian Thomas,Data,ROL-0007,EMP-000001,Pune,2026-04-07,Active
+EMP-000008,Anthony Bass,Human Resources,ROL-0008,,Remote,2021-01-08,Active
+EMP-000009,Jim Sexton,Finance,ROL-0009,,Pune,2020-10-15,On Leave
+EMP-000010,Kayla Palmer,Human Resources,ROL-0010,EMP-000009,Remote,2023-03-05,On Leave
+EMP-000011,Christopher Gilbert,Data,ROL-0011,EMP-000009,Chennai,2022-01-11,Active
+EMP-000012,Brandon Bryant,Finance,ROL-0012,EMP-000009,Chennai,2020-11-29,Active
+EMP-000013,Amber Nash,Human Resources,ROL-0013,EMP-000009,Chennai,2022-07-26,Active
+EMP-000014,Christine Brown,Product,ROL-0014,EMP-000009,Bengaluru,2020-05-06,On Leave
+EMP-000015,Brendan Wagner,Finance,ROL-0015,EMP-000009,Chennai,2025-05-07,Active
+EMP-000016,Benjamin Robinson,Finance,ROL-0016,,Pune,2025-09-19,Active
+EMP-000017,Karen Jones DDS,Engineering,ROL-0017,,Pune,2023-02-15,Active
+EMP-000018,Holly Wise,Finance,ROL-0018,EMP-000017,Bengaluru,2023-12-08,On Leave
+EMP-000019,Wendy Smith,Data,ROL-0019,EMP-000017,Bengaluru,2020-10-01,On Leave
+EMP-000020,Mr. Allen Fletcher,Data,ROL-0020,EMP-000017,Hyderabad,2021-11-26,Active
+EMP-000021,Jose Rodgers,Customer Support,ROL-0021,EMP-000017,Bengaluru,2026-02-03,Active
+EMP-000022,Monique Vincent,Customer Support,ROL-0022,EMP-000017,Bengaluru,2023-11-20,On Leave
+EMP-000023,Ryan Wilson,Customer Support,ROL-0023,EMP-000017,Pune,2026-01-23,On Leave
+EMP-000024,Lauren Williams,Customer Support,ROL-0024,,Pune,2026-03-01,On Leave
+EMP-000025,Jonathan Smith,Engineering,ROL-0025,,Pune,2026-04-07,On Leave
+EMP-000026,Jessica Stevens,Operations,ROL-0026,EMP-000025,Pune,2025-01-18,On Leave
+EMP-000027,Curtis Odom,Data,ROL-0027,EMP-000025,Chennai,2024-01-22,On Leave
+EMP-000028,Lindsey Vance,Human Resources,ROL-0028,EMP-000025,Pune,2020-08-30,Active
+EMP-000029,Molly Frost,Product,ROL-0029,EMP-000025,Remote,2023-10-03,Active
+EMP-000030,Matthew Scott,Customer Support,ROL-0030,EMP-000025,Remote,2020-11-05,On Leave
+EMP-000031,Jennifer Robles,Product,ROL-0031,EMP-000025,Chennai,2024-07-21,On Leave
+EMP-000032,Heather Navarro,Data,ROL-0032,,Hyderabad,2020-04-19,On Leave
+EMP-000033,Cassandra Mason,Operations,ROL-0033,,Remote,2025-10-17,Active
+EMP-000034,Edgar Hernandez,Finance,ROL-0034,EMP-000033,Pune,2020-08-06,On Leave
+EMP-000035,Amanda Bowman DVM,Operations,ROL-0035,EMP-000033,Bengaluru,2022-09-03,On Leave
+EMP-000036,Melissa Adams,Human Resources,ROL-0036,EMP-000033,Chennai,2020-05-20,Active
+EMP-000037,Olivia Dixon DVM,Finance,ROL-0037,EMP-000033,Chennai,2022-01-23,Active
+EMP-000038,Paul Gould,Product,ROL-0038,EMP-000033,Bengaluru,2024-10-09,Active
+EMP-000039,Timothy Hoffman,Data,ROL-0039,EMP-000033,Chennai,2026-02-20,Active
+EMP-000040,David Knight,Operations,ROL-0040,,Bengaluru,2022-06-13,On Leave
+EMP-000041,Jeffrey Ray,Human Resources,ROL-0041,,Chennai,2024-07-06,On Leave
+EMP-000042,Jared Drake,Customer Support,ROL-0042,EMP-000041,Hyderabad,2022-05-27,On Leave
+EMP-000043,Shawn Lawson,Human Resources,ROL-0043,EMP-000041,Chennai,2021-05-06,Active
+EMP-000044,Nicholas Ball,Operations,ROL-0044,EMP-000041,Pune,2025-03-11,Active
+EMP-000045,Joseph Brown,Product,ROL-0045,EMP-000041,Chennai,2020-10-19,Active
+EMP-000046,Brittany Henry,Operations,ROL-0046,EMP-000041,Remote,2022-03-10,Active
+EMP-000047,Jamie Brown,Human Resources,ROL-0047,EMP-000041,Remote,2021-03-31,Active
+EMP-000048,Kara Hickman,Finance,ROL-0048,,Pune,2021-02-28,On Leave
+EMP-000049,Jennifer Coleman,Engineering,ROL-0049,,Remote,2024-09-22,On Leave
+EMP-000050,Patrick Cook,Data,ROL-0050,EMP-000049,Chennai,2025-03-12,Active
+EMP-000051,Robin Williams DDS,Operations,ROL-0051,EMP-000049,Pune,2020-11-26,Active
+EMP-000052,Daniel Martinez,Human Resources,ROL-0052,EMP-000049,Remote,2024-04-03,Active
+EMP-000053,Christopher Mendoza,Product,ROL-0053,EMP-000049,Bengaluru,2025-01-03,Active
+EMP-000054,James Brown,Operations,ROL-0054,EMP-000049,Hyderabad,2021-12-31,Active
+EMP-000055,Charles Petty,Operations,ROL-0055,EMP-000049,Hyderabad,2024-10-24,Active
+EMP-000056,Jorge Stevens,Data,ROL-0056,,Hyderabad,2022-02-06,Active
+EMP-000057,Jonathon Duncan,Human Resources,ROL-0057,,Chennai,2022-12-07,On Leave
+EMP-000058,Teresa Combs,Finance,ROL-0058,EMP-000057,Bengaluru,2022-10-18,Active
+EMP-000059,Michael Hardin,Human Resources,ROL-0059,EMP-000057,Chennai,2022-10-22,Active
+EMP-000060,Ralph Hawkins,Customer Support,ROL-0060,EMP-000057,Pune,2021-07-21,Active
+EMP-000061,Melissa Martin,Data,ROL-0061,EMP-000057,Pune,2020-05-31,On Leave
+EMP-000062,Roberto Stone,Human Resources,ROL-0062,EMP-000057,Hyderabad,2024-12-30,Active
+EMP-000063,Tina Ponce,Customer Support,ROL-0063,EMP-000057,Remote,2023-01-09,On Leave
+EMP-000064,Juan Nelson,Data,ROL-0064,,Remote,2020-05-22,Active
+EMP-000065,Dustin Kelly,Customer Support,ROL-0065,,Chennai,2022-11-18,On Leave
+EMP-000066,Casey Gilbert,Customer Support,ROL-0066,EMP-000065,Pune,2020-07-20,Active
+EMP-000067,Jessica White,Human Resources,ROL-0067,EMP-000065,Hyderabad,2020-12-05,Active
+EMP-000068,Shaun Stewart,Product,ROL-0068,EMP-000065,Remote,2024-05-03,Active
+EMP-000069,Walter Golden,Finance,ROL-0069,EMP-000065,Hyderabad,2020-09-03,Active
+EMP-000070,Michael Martinez,Product,ROL-0070,EMP-000065,Bengaluru,2025-08-29,Active
+EMP-000071,Harry Bailey,Product,ROL-0071,EMP-000065,Chennai,2023-07-16,Active
+EMP-000072,Gina Gonzalez,Customer Support,ROL-0072,,Pune,2020-06-13,On Leave
+EMP-000073,Mr. Kyle Fritz,Engineering,ROL-0073,,Remote,2023-08-10,On Leave
+EMP-000074,Marc Chen,Engineering,ROL-0074,EMP-000073,Chennai,2024-12-08,Active
+EMP-000075,Alice Clarke,Human Resources,ROL-0075,EMP-000073,Bengaluru,2026-06-23,Active
+EMP-000076,Gary Campbell,Operations,ROL-0076,EMP-000073,Chennai,2023-10-01,Active
+EMP-000077,Michael James,Product,ROL-0077,EMP-000073,Chennai,2021-05-20,Active
+EMP-000078,Brian Warren,Product,ROL-0078,EMP-000073,Chennai,2024-11-04,Active
+EMP-000079,Lindsay Thomas,Operations,ROL-0079,EMP-000073,Hyderabad,2025-04-20,Active
+EMP-000080,Hannah Ramirez,Engineering,ROL-0080,,Remote,2023-11-22,Active
+EMP-000081,Paul Andrews,Finance,ROL-0001,,Remote,2021-01-29,On Leave
+EMP-000082,Kristin Stanton,Operations,ROL-0002,EMP-000081,Remote,2021-10-18,On Leave
+EMP-000083,Alexis Rodriguez,Operations,ROL-0003,EMP-000081,Remote,2020-07-25,Active
+EMP-000084,Amanda Dawson,Operations,ROL-0004,EMP-000081,Remote,2022-03-25,Active
+EMP-000085,Frank Brooks,Customer Support,ROL-0005,EMP-000081,Chennai,2024-06-11,Active
+EMP-000086,Robert Johns,Customer Support,ROL-0006,EMP-000081,Pune,2024-02-22,Active
+EMP-000087,Gregory Neal,Data,ROL-0007,EMP-000081,Hyderabad,2026-03-23,On Leave
+EMP-000088,Holly Hopkins,Human Resources,ROL-0008,,Chennai,2020-06-14,Active
+EMP-000089,Amanda Lawson,Finance,ROL-0009,,Pune,2022-11-17,On Leave
+EMP-000090,Daniel Chan,Human Resources,ROL-0010,EMP-000089,Chennai,2020-08-19,Active
+EMP-000091,Anthony Ross,Data,ROL-0011,EMP-000089,Chennai,2021-12-10,Active
+EMP-000092,Scott Martin,Finance,ROL-0012,EMP-000089,Remote,2024-01-24,Active
+EMP-000093,Stephanie Mclaughlin,Human Resources,ROL-0013,EMP-000089,Chennai,2022-08-21,Active
+EMP-000094,Stephen Humphrey,Product,ROL-0014,EMP-000089,Hyderabad,2022-11-15,On Leave
+EMP-000095,Kathryn Brown,Finance,ROL-0015,EMP-000089,Chennai,2021-03-15,Active
+EMP-000096,Emily Cook,Finance,ROL-0016,,Pune,2024-09-02,Active
+EMP-000097,Christopher Sexton,Engineering,ROL-0017,,Chennai,2021-05-03,Active
+EMP-000098,Crystal Mccormick,Finance,ROL-0018,EMP-000097,Chennai,2021-03-21,Active
+EMP-000099,William Jensen,Data,ROL-0019,EMP-000097,Pune,2025-05-12,Active
+EMP-000100,Jennifer Collins MD,Data,ROL-0020,EMP-000097,Hyderabad,2026-06-05,Active
+EMP-000101,Andrew Harmon,Customer Support,ROL-0021,EMP-000097,Bengaluru,2023-01-07,Active
+EMP-000102,Richard Franco,Customer Support,ROL-0022,EMP-000097,Remote,2020-12-24,Active
+EMP-000103,Nicholas Conway,Customer Support,ROL-0023,EMP-000097,Bengaluru,2022-04-09,Active
+EMP-000104,Courtney Brown,Customer Support,ROL-0024,,Chennai,2023-06-14,Active
+EMP-000105,Alexander Simon,Engineering,ROL-0025,,Chennai,2023-07-10,Active
+EMP-000106,Michael Cochran,Operations,ROL-0026,EMP-000105,Pune,2023-06-26,On Leave
+EMP-000107,Samuel Olsen,Data,ROL-0027,EMP-000105,Bengaluru,2020-07-12,Active
+EMP-000108,Leah Nixon,Human Resources,ROL-0028,EMP-000105,Hyderabad,2024-09-03,Active
+EMP-000109,Jesse Bennett,Product,ROL-0029,EMP-000105,Remote,2021-08-04,On Leave
+EMP-000110,Nancy Wilson,Customer Support,ROL-0030,EMP-000105,Pune,2025-08-19,Active
+EMP-000111,Angela Mccoy,Product,ROL-0031,EMP-000105,Bengaluru,2024-07-04,Active
+EMP-000112,Jennifer Parker,Data,ROL-0032,,Chennai,2020-07-24,Active
+EMP-000113,Christopher Jackson,Operations,ROL-0033,,Remote,2022-10-16,On Leave
+EMP-000114,Whitney Wright,Finance,ROL-0034,EMP-000113,Bengaluru,2025-09-28,Active
+EMP-000115,John Johnson,Operations,ROL-0035,EMP-000113,Pune,2021-08-17,Active
+EMP-000116,Derek Mendez,Human Resources,ROL-0036,EMP-000113,Chennai,2025-03-04,Active
+EMP-000117,Justin Hendricks,Finance,ROL-0037,EMP-000113,Chennai,2022-07-04,Active
+EMP-000118,Brenda Roberts,Product,ROL-0038,EMP-000113,Chennai,2025-06-07,Active
+EMP-000119,Nicholas Patterson,Data,ROL-0039,EMP-000113,Pune,2026-03-25,Active
+EMP-000120,Sarah Chavez,Operations,ROL-0040,,Bengaluru,2023-02-21,Active
+EMP-000121,Lori Campbell,Human Resources,ROL-0041,,Pune,2025-07-12,On Leave
+EMP-000122,Jose Daniels,Customer Support,ROL-0042,EMP-000121,Bengaluru,2023-11-10,Active
+EMP-000123,James Harris,Human Resources,ROL-0043,EMP-000121,Pune,2023-04-29,Active
+EMP-000124,Kathryn Blair,Operations,ROL-0044,EMP-000121,Remote,2025-06-29,Active
+EMP-000125,Lorraine Taylor,Product,ROL-0045,EMP-000121,Chennai,2020-04-02,Active
+EMP-000126,Tyler Davis,Operations,ROL-0046,EMP-000121,Pune,2023-11-04,Active
+EMP-000127,Erica Mclean,Human Resources,ROL-0047,EMP-000121,Hyderabad,2021-04-19,On Leave
+EMP-000128,Emily Keller,Finance,ROL-0048,,Chennai,2026-02-17,On Leave
+EMP-000129,George Walker,Engineering,ROL-0049,,Bengaluru,2020-11-23,On Leave
+EMP-000130,Lisa Henderson,Data,ROL-0050,EMP-000129,Chennai,2021-12-05,Active
+EMP-000131,Brandon Terry,Operations,ROL-0051,EMP-000129,Pune,2022-05-08,On Leave
+EMP-000132,Kyle Meyer,Human Resources,ROL-0052,EMP-000129,Hyderabad,2025-04-18,On Leave
+EMP-000133,Kenneth Keith,Product,ROL-0053,EMP-000129,Bengaluru,2023-12-24,Active
+EMP-000134,Scott Parker,Operations,ROL-0054,EMP-000129,Chennai,2020-09-29,Active
+EMP-000135,Matthew Estrada,Operations,ROL-0055,EMP-000129,Pune,2021-11-12,Active
+EMP-000136,William Jackson,Data,ROL-0056,,Pune,2025-07-11,Active
+EMP-000137,James Warren,Human Resources,ROL-0057,,Pune,2026-03-05,Active
+EMP-000138,Dr. Nicholas Jackson,Finance,ROL-0058,EMP-000137,Hyderabad,2024-03-15,Active
+EMP-000139,Debra Valencia,Human Resources,ROL-0059,EMP-000137,Chennai,2021-10-02,Active
+EMP-000140,Shirley Leonard,Customer Support,ROL-0060,EMP-000137,Pune,2022-07-12,Active
+EMP-000141,Jennifer Brown,Data,ROL-0061,EMP-000137,Pune,2020-11-30,On Leave
+EMP-000142,Theresa Wright,Human Resources,ROL-0062,EMP-000137,Hyderabad,2021-12-29,Active
+EMP-000143,Joseph Vance,Customer Support,ROL-0063,EMP-000137,Bengaluru,2023-08-18,Active
+EMP-000144,Jeffrey Garcia,Data,ROL-0064,,Hyderabad,2020-04-19,On Leave
+EMP-000145,Jonathan Sullivan,Customer Support,ROL-0065,,Bengaluru,2023-12-19,Active
+EMP-000146,Jessica Walker,Customer Support,ROL-0066,EMP-000145,Bengaluru,2025-11-15,Active
+EMP-000147,Jeremy Gonzalez,Human Resources,ROL-0067,EMP-000145,Pune,2021-07-02,On Leave
+EMP-000148,Angela Jones,Product,ROL-0068,EMP-000145,Hyderabad,2025-08-27,On Leave
+EMP-000149,Steven Hayes,Finance,ROL-0069,EMP-000145,Chennai,2023-04-18,Active
+EMP-000150,Kimberly Bell,Product,ROL-0070,EMP-000145,Remote,2020-04-08,Active
+EMP-000151,Sylvia Ryan,Product,ROL-0071,EMP-000145,Pune,2025-03-31,Active
+EMP-000152,Christine Lyons,Customer Support,ROL-0072,,Chennai,2023-11-10,On Leave
+EMP-000153,Keith Leonard,Engineering,ROL-0073,,Remote,2024-01-13,On Leave
+EMP-000154,Mary Taylor,Engineering,ROL-0074,EMP-000153,Remote,2021-02-05,Active
+EMP-000155,Peter Roberts,Human Resources,ROL-0075,EMP-000153,Hyderabad,2025-05-28,On Leave
+EMP-000156,Christopher Arias,Operations,ROL-0076,EMP-000153,Hyderabad,2026-02-13,Active
+EMP-000157,Rickey Edwards,Product,ROL-0077,EMP-000153,Chennai,2022-04-08,Active
+EMP-000158,Anna Dillon,Product,ROL-0078,EMP-000153,Remote,2024-12-26,Active
+EMP-000159,Laura Shields,Operations,ROL-0079,EMP-000153,Chennai,2025-11-14,Active
+EMP-000160,Jacqueline Rodriguez,Engineering,ROL-0080,,Hyderabad,2023-09-04,Active
+EMP-000161,Sandra Martin,Finance,ROL-0001,,Chennai,2023-01-23,On Leave
+EMP-000162,Robert Hanson,Operations,ROL-0002,EMP-000161,Pune,2024-06-18,Active
+EMP-000163,Elizabeth Schneider,Operations,ROL-0003,EMP-000161,Hyderabad,2026-02-16,Active
+EMP-000164,Alexandra Aguilar,Operations,ROL-0004,EMP-000161,Hyderabad,2021-09-29,Active
+EMP-000165,Kenneth Collins,Customer Support,ROL-0005,EMP-000161,Chennai,2024-08-06,On Leave
+EMP-000166,Antonio Lopez,Customer Support,ROL-0006,EMP-000161,Pune,2022-01-28,Active
+EMP-000167,Angela Rojas,Data,ROL-0007,EMP-000161,Pune,2021-07-24,Active
+EMP-000168,Margaret Cochran,Human Resources,ROL-0008,,Pune,2020-02-02,Active
+EMP-000169,Stacy Phillips,Finance,ROL-0009,,Pune,2025-10-23,Active
+EMP-000170,Kenneth Alvarado,Human Resources,ROL-0010,EMP-000169,Bengaluru,2023-02-05,Active
+EMP-000171,Laura Stein,Data,ROL-0011,EMP-000169,Pune,2020-08-28,Active
+EMP-000172,Deborah Parker,Finance,ROL-0012,EMP-000169,Chennai,2020-07-17,Active
+EMP-000173,Shannon Johnson,Human Resources,ROL-0013,EMP-000169,Bengaluru,2023-08-12,On Leave
+EMP-000174,Michelle Sampson,Product,ROL-0014,EMP-000169,Pune,2025-12-22,On Leave
+EMP-000175,Carl Strickland,Finance,ROL-0015,EMP-000169,Chennai,2025-01-31,Active
+EMP-000176,Robert Chapman,Finance,ROL-0016,,Bengaluru,2026-06-17,Active
+EMP-000177,Cristina Huynh,Engineering,ROL-0017,,Pune,2023-09-10,Active
+EMP-000178,Joel Ramos,Finance,ROL-0018,EMP-000177,Remote,2021-05-08,On Leave
+EMP-000179,Barbara Patton,Data,ROL-0019,EMP-000177,Hyderabad,2023-03-15,Active
+EMP-000180,Sean Young,Data,ROL-0020,EMP-000177,Bengaluru,2026-05-09,Active
+EMP-000181,Jordan Miller,Customer Support,ROL-0021,EMP-000177,Remote,2026-01-27,Active
+EMP-000182,David Miller,Customer Support,ROL-0022,EMP-000177,Bengaluru,2026-04-22,Active
+EMP-000183,Shannon Bell,Customer Support,ROL-0023,EMP-000177,Hyderabad,2020-03-22,Active
+EMP-000184,Sandra Carson,Customer Support,ROL-0024,,Chennai,2021-08-12,Active
+EMP-000185,Rebecca Tran,Engineering,ROL-0025,,Chennai,2026-03-24,Active
+EMP-000186,Timothy Vasquez,Operations,ROL-0026,EMP-000185,Pune,2025-09-25,Active
+EMP-000187,David Garza,Data,ROL-0027,EMP-000185,Pune,2020-07-19,Active
+EMP-000188,Lori Compton,Human Resources,ROL-0028,EMP-000185,Bengaluru,2023-01-12,Active
+EMP-000189,Corey Chase,Product,ROL-0029,EMP-000185,Hyderabad,2024-08-14,Active
+EMP-000190,Lori Anderson,Customer Support,ROL-0030,EMP-000185,Remote,2022-09-26,Active
+EMP-000191,Sarah Fitzgerald,Product,ROL-0031,EMP-000185,Hyderabad,2021-05-23,Active
+EMP-000192,Kenneth Ayers,Data,ROL-0032,,Chennai,2024-08-28,Active
+EMP-000193,Jordan Long,Operations,ROL-0033,,Pune,2024-07-22,Active
+EMP-000194,Craig King,Finance,ROL-0034,EMP-000193,Bengaluru,2024-09-02,Active
+EMP-000195,Nancy Murray,Operations,ROL-0035,EMP-000193,Pune,2021-10-29,Active
+EMP-000196,Joshua Luna,Human Resources,ROL-0036,EMP-000193,Bengaluru,2024-02-01,Active
+EMP-000197,Martin Johnson,Finance,ROL-0037,EMP-000193,Bengaluru,2025-02-23,On Leave
+EMP-000198,Brandon Conway,Product,ROL-0038,EMP-000193,Bengaluru,2025-02-12,Active
+EMP-000199,James Chang,Data,ROL-0039,EMP-000193,Hyderabad,2025-11-07,Active
+EMP-000200,Kevin Villanueva,Operations,ROL-0040,,Bengaluru,2020-09-29,Active
+EMP-000201,Rhonda Kaiser,Human Resources,ROL-0041,,Chennai,2022-12-10,Active
+EMP-000202,Gina White,Customer Support,ROL-0042,EMP-000201,Remote,2026-05-24,On Leave
+EMP-000203,Robert Wilcox,Human Resources,ROL-0043,EMP-000201,Bengaluru,2026-05-23,Active
+EMP-000204,Christopher Nelson,Operations,ROL-0044,EMP-000201,Remote,2022-02-06,Active
+EMP-000205,Christopher Carpenter,Product,ROL-0045,EMP-000201,Chennai,2023-03-21,Active
+EMP-000206,David Ramirez,Operations,ROL-0046,EMP-000201,Pune,2024-09-15,On Leave
+EMP-000207,John George,Human Resources,ROL-0047,EMP-000201,Remote,2022-09-20,On Leave
+EMP-000208,Ivan Smith,Finance,ROL-0048,,Pune,2025-01-06,On Leave
+EMP-000209,Mindy Thompson,Engineering,ROL-0049,,Bengaluru,2024-10-09,On Leave
+EMP-000210,Amanda Keith,Data,ROL-0050,EMP-000209,Chennai,2020-04-18,Active
+EMP-000211,Jaime Burgess,Operations,ROL-0051,EMP-000209,Chennai,2021-11-21,Active
+EMP-000212,Jeremy Williams,Human Resources,ROL-0052,EMP-000209,Chennai,2022-03-25,Active
+EMP-000213,Lisa Gomez,Product,ROL-0053,EMP-000209,Bengaluru,2025-03-29,On Leave
+EMP-000214,Jordan Flores Jr.,Operations,ROL-0054,EMP-000209,Remote,2024-06-03,Active
+EMP-000215,Chelsea Armstrong,Operations,ROL-0055,EMP-000209,Pune,2021-09-30,Active
+EMP-000216,Scott Roberts,Data,ROL-0056,,Chennai,2026-05-02,Active
+EMP-000217,William Kidd,Human Resources,ROL-0057,,Hyderabad,2022-08-18,On Leave
+EMP-000218,Shelia Green,Finance,ROL-0058,EMP-000217,Bengaluru,2022-01-07,Active
+EMP-000219,Mark Moore,Human Resources,ROL-0059,EMP-000217,Chennai,2025-07-17,Active
+EMP-000220,Angela Dominguez,Customer Support,ROL-0060,EMP-000217,Remote,2024-03-15,Active
+EMP-000221,Karla Jordan,Data,ROL-0061,EMP-000217,Remote,2026-02-05,Active
+EMP-000222,Willie Bradley,Human Resources,ROL-0062,EMP-000217,Chennai,2023-05-07,Active
+EMP-000223,Jennifer Barrett,Customer Support,ROL-0063,EMP-000217,Remote,2022-01-11,Active
+EMP-000224,Melissa Byrd,Data,ROL-0064,,Bengaluru,2025-05-16,On Leave
+EMP-000225,Karen Foster,Customer Support,ROL-0065,,Pune,2020-08-23,On Leave
+EMP-000226,Christopher Conway,Customer Support,ROL-0066,EMP-000225,Pune,2021-07-23,On Leave
+EMP-000227,Alexander Benitez,Human Resources,ROL-0067,EMP-000225,Bengaluru,2025-10-28,On Leave
+EMP-000228,Alisha Graves,Product,ROL-0068,EMP-000225,Remote,2020-03-29,On Leave
+EMP-000229,Jeremy Mays,Finance,ROL-0069,EMP-000225,Pune,2020-06-10,Active
+EMP-000230,Christopher Garcia,Product,ROL-0070,EMP-000225,Chennai,2025-03-02,Active
+EMP-000231,Richard Calhoun,Product,ROL-0071,EMP-000225,Remote,2022-03-14,Active
+EMP-000232,Kelly Frazier,Customer Support,ROL-0072,,Remote,2023-12-26,Active
+EMP-000233,Tamara Valencia,Engineering,ROL-0073,,Bengaluru,2026-06-18,On Leave
+EMP-000234,Stacy Trujillo,Engineering,ROL-0074,EMP-000233,Hyderabad,2023-09-10,Active
+EMP-000235,Gina Cruz,Human Resources,ROL-0075,EMP-000233,Remote,2024-02-11,Active
+EMP-000236,Joshua Hernandez,Operations,ROL-0076,EMP-000233,Hyderabad,2026-08-12,On Leave
+EMP-000237,Lisa Johnson,Product,ROL-0077,EMP-000233,Hyderabad,2026-07-22,Active
+EMP-000238,Maria Lee,Product,ROL-0078,EMP-000233,Remote,2020-11-14,Active
+EMP-000239,Amy Horton,Operations,ROL-0079,EMP-000233,Chennai,2020-03-11,Active
+EMP-000240,Kevin Graham,Engineering,ROL-0080,,Chennai,2024-11-26,Active
+EMP-000241,John Ortiz,Finance,ROL-0001,,Bengaluru,2024-10-23,On Leave
+EMP-000242,Brent Thomas,Operations,ROL-0002,EMP-000241,Remote,2020-03-08,Active
+EMP-000243,Theresa Perkins,Operations,ROL-0003,EMP-000241,Bengaluru,2023-01-16,Active
+EMP-000244,Amy Bennett,Operations,ROL-0004,EMP-000241,Hyderabad,2020-05-13,On Leave
+EMP-000245,Mrs. Molly Young DDS,Customer Support,ROL-0005,EMP-000241,Bengaluru,2021-12-10,Active
+EMP-000246,Ashley Zavala,Customer Support,ROL-0006,EMP-000241,Pune,2023-04-13,Active
+EMP-000247,Vincent Chavez,Data,ROL-0007,EMP-000241,Pune,2023-09-24,Active
+EMP-000248,Dawn Williams,Human Resources,ROL-0008,,Hyderabad,2024-03-26,Active
+EMP-000249,Kyle Daniels,Finance,ROL-0009,,Hyderabad,2025-11-24,Active
+EMP-000250,Joanne Murphy,Human Resources,ROL-0010,EMP-000249,Chennai,2022-08-25,Active
+EMP-000251,Shawn Keller,Data,ROL-0011,EMP-000249,Chennai,2025-09-24,Active
+EMP-000252,Connor Duarte,Finance,ROL-0012,EMP-000249,Hyderabad,2020-11-14,Active
+EMP-000253,Thomas Bass,Human Resources,ROL-0013,EMP-000249,Hyderabad,2025-06-13,Active
+EMP-000254,David Cruz,Product,ROL-0014,EMP-000249,Hyderabad,2020-06-15,Active
+EMP-000255,Teresa Howe,Finance,ROL-0015,EMP-000249,Hyderabad,2024-10-11,Active
+EMP-000256,Aaron Pearson,Finance,ROL-0016,,Hyderabad,2026-05-12,On Leave
+EMP-000257,Kelsey Chang,Engineering,ROL-0017,,Pune,2021-12-28,Active
+EMP-000258,Cristina Henson,Finance,ROL-0018,EMP-000257,Remote,2020-04-29,Active
+EMP-000259,Emily Garcia,Data,ROL-0019,EMP-000257,Remote,2020-12-03,Active
+EMP-000260,Meagan Tran,Data,ROL-0020,EMP-000257,Remote,2021-08-11,On Leave
+EMP-000261,Hector Munoz,Customer Support,ROL-0021,EMP-000257,Hyderabad,2020-04-07,On Leave
+EMP-000262,Matthew Irwin,Customer Support,ROL-0022,EMP-000257,Bengaluru,2021-02-03,Active
+EMP-000263,Danielle Sanders,Customer Support,ROL-0023,EMP-000257,Chennai,2020-01-15,Active
+EMP-000264,Kathy Bush,Customer Support,ROL-0024,,Pune,2021-09-27,On Leave
+EMP-000265,Carrie Miller,Engineering,ROL-0025,,Hyderabad,2021-05-22,On Leave
+EMP-000266,Calvin Wagner,Operations,ROL-0026,EMP-000265,Hyderabad,2021-07-31,Active
+EMP-000267,Bradley Ramirez,Data,ROL-0027,EMP-000265,Bengaluru,2020-12-15,On Leave
+EMP-000268,Steven Moss,Human Resources,ROL-0028,EMP-000265,Bengaluru,2023-06-05,Active
+EMP-000269,Pamela Stewart,Product,ROL-0029,EMP-000265,Chennai,2021-03-17,Active
+EMP-000270,Christina Rosales,Customer Support,ROL-0030,EMP-000265,Pune,2021-04-07,Active
+EMP-000271,Robert Little II,Product,ROL-0031,EMP-000265,Chennai,2020-10-06,On Leave
+EMP-000272,Ricky Martinez,Data,ROL-0032,,Remote,2023-04-18,Active
+EMP-000273,Joseph Lee,Operations,ROL-0033,,Chennai,2020-12-10,On Leave
+EMP-000274,Sara Gonzalez,Finance,ROL-0034,EMP-000273,Pune,2025-08-14,Active
+EMP-000275,Joel Brown,Operations,ROL-0035,EMP-000273,Remote,2020-06-05,Active
+EMP-000276,Reginald King,Human Resources,ROL-0036,EMP-000273,Remote,2024-12-21,Active
+EMP-000277,Douglas Johnson,Finance,ROL-0037,EMP-000273,Hyderabad,2024-07-02,Active
+EMP-000278,Tabitha Miller,Product,ROL-0038,EMP-000273,Bengaluru,2023-05-13,Active
+EMP-000279,Anne Anderson,Data,ROL-0039,EMP-000273,Remote,2020-11-05,On Leave
+EMP-000280,Michael Ray,Operations,ROL-0040,,Pune,2023-03-24,Active
+EMP-000281,Robert Vasquez,Human Resources,ROL-0041,,Chennai,2020-07-13,Active
+EMP-000282,Amy Gillespie,Customer Support,ROL-0042,EMP-000281,Hyderabad,2021-12-02,Active
+EMP-000283,Leslie Schmidt,Human Resources,ROL-0043,EMP-000281,Hyderabad,2024-11-05,On Leave
+EMP-000284,Joe Garcia,Operations,ROL-0044,EMP-000281,Remote,2020-04-07,Active
+EMP-000285,Melissa Smith,Product,ROL-0045,EMP-000281,Remote,2020-12-25,Active
+EMP-000286,Michael Keller,Operations,ROL-0046,EMP-000281,Pune,2023-11-20,On Leave
+EMP-000287,Charles Snow,Human Resources,ROL-0047,EMP-000281,Bengaluru,2025-05-14,Active
+EMP-000288,Cynthia Sanchez,Finance,ROL-0048,,Chennai,2025-06-13,Active
+EMP-000289,Julie Reynolds,Engineering,ROL-0049,,Hyderabad,2020-03-07,On Leave
+EMP-000290,Phillip Jackson,Data,ROL-0050,EMP-000289,Remote,2020-12-17,Active
+EMP-000291,Melissa Ruiz,Operations,ROL-0051,EMP-000289,Hyderabad,2021-07-16,Active
+EMP-000292,Kevin Carter,Human Resources,ROL-0052,EMP-000289,Remote,2020-10-06,On Leave
+EMP-000293,Debbie Robinson,Product,ROL-0053,EMP-000289,Remote,2026-06-12,On Leave
+EMP-000294,Matthew Stephens,Operations,ROL-0054,EMP-000289,Remote,2020-03-28,Active
+EMP-000295,Julie Brown,Operations,ROL-0055,EMP-000289,Bengaluru,2025-07-27,On Leave
+EMP-000296,Emily Bailey,Data,ROL-0056,,Bengaluru,2022-09-28,On Leave
+EMP-000297,David Lee,Human Resources,ROL-0057,,Chennai,2021-04-23,On Leave
+EMP-000298,Sharon Nolan,Finance,ROL-0058,EMP-000297,Bengaluru,2025-03-09,Active
+EMP-000299,Robert Hoover,Human Resources,ROL-0059,EMP-000297,Chennai,2023-03-15,Active
+EMP-000300,Dr. Luis Stewart,Customer Support,ROL-0060,EMP-000297,Bengaluru,2021-11-30,Active
+EMP-000301,Melissa Sampson,Data,ROL-0061,EMP-000297,Remote,2020-10-28,Active
+EMP-000302,Douglas Sherman,Human Resources,ROL-0062,EMP-000297,Hyderabad,2022-01-21,Active
+EMP-000303,Kelly Roman,Customer Support,ROL-0063,EMP-000297,Remote,2022-10-11,Active
+EMP-000304,Daniel Evans,Data,ROL-0064,,Hyderabad,2022-10-01,Active
+EMP-000305,Rachel Rogers,Customer Support,ROL-0065,,Chennai,2025-12-31,Active
+EMP-000306,Dustin Walker,Customer Support,ROL-0066,EMP-000305,Bengaluru,2026-08-27,Active
+EMP-000307,Paul Gray,Human Resources,ROL-0067,EMP-000305,Bengaluru,2023-08-14,Active
+EMP-000308,Katherine Gutierrez,Product,ROL-0068,EMP-000305,Chennai,2021-08-18,On Leave
+EMP-000309,Renee Gonzales,Finance,ROL-0069,EMP-000305,Hyderabad,2026-07-08,On Leave
+EMP-000310,Jerry Clark,Product,ROL-0070,EMP-000305,Hyderabad,2023-07-28,Active
+EMP-000311,Jessica Yates,Product,ROL-0071,EMP-000305,Bengaluru,2024-03-12,Active
+EMP-000312,Hannah Evans,Customer Support,ROL-0072,,Chennai,2026-07-03,Active
+EMP-000313,Scott Cortez,Engineering,ROL-0073,,Pune,2021-11-30,Active
+EMP-000314,Brian Vasquez,Engineering,ROL-0074,EMP-000313,Bengaluru,2022-08-14,Active
+EMP-000315,Michelle Woods,Human Resources,ROL-0075,EMP-000313,Remote,2022-11-24,Active
+EMP-000316,Peter Anderson,Operations,ROL-0076,EMP-000313,Hyderabad,2020-05-10,On Leave
+EMP-000317,Amy King,Product,ROL-0077,EMP-000313,Remote,2025-06-19,Active
+EMP-000318,James Gutierrez,Product,ROL-0078,EMP-000313,Bengaluru,2021-10-19,On Leave
+EMP-000319,Mark Anderson,Operations,ROL-0079,EMP-000313,Hyderabad,2020-07-03,Active
+EMP-000320,Denise Parker,Engineering,ROL-0080,,Bengaluru,2020-03-28,On Leave
+EMP-000321,Brittney Sweeney,Finance,ROL-0001,,Pune,2021-01-11,Active
+EMP-000322,Victoria Robertson,Operations,ROL-0002,EMP-000321,Remote,2021-07-23,Active
+EMP-000323,Anthony Robinson,Operations,ROL-0003,EMP-000321,Bengaluru,2022-03-25,Active
+EMP-000324,John Lee,Operations,ROL-0004,EMP-000321,Chennai,2025-03-12,Active
+EMP-000325,James Compton,Customer Support,ROL-0005,EMP-000321,Chennai,2025-11-20,Active
+EMP-000326,Amanda Powell,Customer Support,ROL-0006,EMP-000321,Bengaluru,2020-11-17,Active
+EMP-000327,Darren Walsh,Data,ROL-0007,EMP-000321,Pune,2025-09-15,Active
+EMP-000328,Michelle Hanson,Human Resources,ROL-0008,,Chennai,2020-10-20,Active
+EMP-000329,Carlos Newton,Finance,ROL-0009,,Pune,2020-05-01,Active
+EMP-000330,Dr. Mark Cooper,Human Resources,ROL-0010,EMP-000329,Chennai,2022-05-12,Active
+EMP-000331,Alexander Thompson,Data,ROL-0011,EMP-000329,Bengaluru,2020-07-19,Active
+EMP-000332,Jennifer Erickson,Finance,ROL-0012,EMP-000329,Chennai,2025-05-31,Active
+EMP-000333,Valerie Hernandez,Human Resources,ROL-0013,EMP-000329,Bengaluru,2024-07-21,Active
+EMP-000334,Margaret Woods,Product,ROL-0014,EMP-000329,Bengaluru,2024-12-10,On Leave
+EMP-000335,Christine Matthews,Finance,ROL-0015,EMP-000329,Bengaluru,2022-05-30,On Leave
+EMP-000336,Brittany Martinez,Finance,ROL-0016,,Remote,2025-10-30,On Leave
+EMP-000337,James Combs MD,Engineering,ROL-0017,,Hyderabad,2021-01-29,On Leave
+EMP-000338,Nicholas Allen,Finance,ROL-0018,EMP-000337,Bengaluru,2021-02-03,Active
+EMP-000339,Tiffany Kennedy,Data,ROL-0019,EMP-000337,Chennai,2026-07-23,On Leave
+EMP-000340,Ann Khan,Data,ROL-0020,EMP-000337,Remote,2021-12-24,Active
+EMP-000341,Jason Stevenson,Customer Support,ROL-0021,EMP-000337,Bengaluru,2025-03-26,On Leave
+EMP-000342,Daniel Jones,Customer Support,ROL-0022,EMP-000337,Hyderabad,2022-09-15,Active
+EMP-000343,Thomas Harris,Customer Support,ROL-0023,EMP-000337,Remote,2020-02-09,Active
+EMP-000344,Elizabeth Stephenson,Customer Support,ROL-0024,,Bengaluru,2020-08-06,Active
+EMP-000345,Danielle Hicks,Engineering,ROL-0025,,Pune,2023-06-10,Active
+EMP-000346,Donna Marsh,Operations,ROL-0026,EMP-000345,Bengaluru,2024-09-28,Active
+EMP-000347,Brian Downs,Data,ROL-0027,EMP-000345,Chennai,2025-03-09,Active
+EMP-000348,Sarah Allen,Human Resources,ROL-0028,EMP-000345,Remote,2025-07-26,Active
+EMP-000349,Tonya Foster,Product,ROL-0029,EMP-000345,Hyderabad,2020-05-09,Active
+EMP-000350,Heather Gonzalez,Customer Support,ROL-0030,EMP-000345,Remote,2023-11-21,Active
+EMP-000351,Stephanie Maddox,Product,ROL-0031,EMP-000345,Bengaluru,2022-04-12,On Leave
+EMP-000352,Robert Martinez,Data,ROL-0032,,Bengaluru,2022-02-03,Active
+EMP-000353,Juan Olson,Operations,ROL-0033,,Remote,2022-04-15,Active
+EMP-000354,Amy Conrad,Finance,ROL-0034,EMP-000353,Pune,2020-03-28,Active
+EMP-000355,Ms. Sharon Salazar,Operations,ROL-0035,EMP-000353,Chennai,2025-04-17,Active
+EMP-000356,Linda Goodwin,Human Resources,ROL-0036,EMP-000353,Chennai,2024-04-12,Active
+EMP-000357,Edward Richardson,Finance,ROL-0037,EMP-000353,Remote,2021-06-21,On Leave
+EMP-000358,Angela White,Product,ROL-0038,EMP-000353,Chennai,2021-03-24,Active
+EMP-000359,Chelsea Riley,Data,ROL-0039,EMP-000353,Hyderabad,2022-06-23,On Leave
+EMP-000360,Erin Murphy,Operations,ROL-0040,,Hyderabad,2023-07-16,Active
+EMP-000361,Vincent Welch,Human Resources,ROL-0041,,Pune,2020-12-08,Active
+EMP-000362,Doris Green,Customer Support,ROL-0042,EMP-000361,Chennai,2024-01-10,Active
+EMP-000363,Lynn Young,Human Resources,ROL-0043,EMP-000361,Remote,2023-12-27,Active
+EMP-000364,Nicole Briggs,Operations,ROL-0044,EMP-000361,Bengaluru,2020-12-29,Active
+EMP-000365,Brandon Jackson,Product,ROL-0045,EMP-000361,Hyderabad,2021-07-16,Active
+EMP-000366,Brandon Galvan,Operations,ROL-0046,EMP-000361,Hyderabad,2021-12-11,Active
+EMP-000367,Dennis Schaefer,Human Resources,ROL-0047,EMP-000361,Pune,2026-08-14,On Leave
+EMP-000368,Mark Parker,Finance,ROL-0048,,Chennai,2024-05-03,Active
+EMP-000369,Maria Roman,Engineering,ROL-0049,,Chennai,2024-07-19,On Leave
+EMP-000370,John Neal,Data,ROL-0050,EMP-000369,Pune,2021-10-01,Active
+EMP-000371,David Hobbs,Operations,ROL-0051,EMP-000369,Remote,2022-09-29,Active
+EMP-000372,Adam Carson,Human Resources,ROL-0052,EMP-000369,Pune,2025-04-29,Active
+EMP-000373,Vanessa Ochoa,Product,ROL-0053,EMP-000369,Bengaluru,2026-02-22,Active
+EMP-000374,Lisa Hernandez,Operations,ROL-0054,EMP-000369,Remote,2021-12-07,Active
+EMP-000375,Sandra Liu,Operations,ROL-0055,EMP-000369,Bengaluru,2024-04-24,Active
+EMP-000376,Kevin Savage,Data,ROL-0056,,Bengaluru,2024-07-01,Active
+EMP-000377,Susan Hernandez,Human Resources,ROL-0057,,Hyderabad,2025-11-08,Active
+EMP-000378,Justin Bartlett,Finance,ROL-0058,EMP-000377,Pune,2022-10-11,Active
+EMP-000379,Emily Shah,Human Resources,ROL-0059,EMP-000377,Chennai,2026-06-21,Active
+EMP-000380,Christine Fields,Customer Support,ROL-0060,EMP-000377,Chennai,2026-06-13,Active
+EMP-000381,Monica Contreras,Data,ROL-0061,EMP-000377,Bengaluru,2022-01-12,Active
+EMP-000382,Shawn Hawkins,Human Resources,ROL-0062,EMP-000377,Chennai,2021-03-25,Active
+EMP-000383,Roy Watts,Customer Support,ROL-0063,EMP-000377,Remote,2025-11-04,Active
+EMP-000384,Shawn Perkins,Data,ROL-0064,,Pune,2021-07-13,Active
+EMP-000385,Mary Moran,Customer Support,ROL-0065,,Remote,2023-10-09,Active
+EMP-000386,Lisa Webster,Customer Support,ROL-0066,EMP-000385,Chennai,2022-09-24,Active
+EMP-000387,Lisa Hughes,Human Resources,ROL-0067,EMP-000385,Hyderabad,2022-02-03,Active
+EMP-000388,Tammy Long,Product,ROL-0068,EMP-000385,Remote,2024-01-12,Active
+EMP-000389,Zachary Jones,Finance,ROL-0069,EMP-000385,Chennai,2024-11-15,Active
+EMP-000390,Brian Scott,Product,ROL-0070,EMP-000385,Chennai,2021-10-30,Active
+EMP-000391,Shirley Bautista,Product,ROL-0071,EMP-000385,Remote,2025-06-27,Active
+EMP-000392,Gina Koch,Customer Support,ROL-0072,,Chennai,2022-03-21,Active
+EMP-000393,Cameron Rojas,Engineering,ROL-0073,,Chennai,2022-09-30,On Leave
+EMP-000394,Jessica Whitaker,Engineering,ROL-0074,EMP-000393,Pune,2021-11-20,Active
+EMP-000395,David Kerr,Human Resources,ROL-0075,EMP-000393,Hyderabad,2024-01-28,Active
+EMP-000396,Justin Frederick,Operations,ROL-0076,EMP-000393,Remote,2020-09-28,Active
+EMP-000397,Gregory Park,Product,ROL-0077,EMP-000393,Pune,2023-03-25,Active
+EMP-000398,Robert Leach,Product,ROL-0078,EMP-000393,Bengaluru,2022-11-11,On Leave
+EMP-000399,Jessica Ochoa,Operations,ROL-0079,EMP-000393,Pune,2020-01-17,On Leave
+EMP-000400,Beverly Bates,Engineering,ROL-0080,,Remote,2021-12-06,Active
+EMP-000401,Patricia Calderon,Finance,ROL-0001,,Bengaluru,2021-10-18,Active
+EMP-000402,Stephen Maddox,Operations,ROL-0002,EMP-000401,Chennai,2023-03-15,Active
+EMP-000403,Andrew Gates,Operations,ROL-0003,EMP-000401,Bengaluru,2022-11-01,Active
+EMP-000404,Kyle Vaughn,Operations,ROL-0004,EMP-000401,Pune,2025-10-21,On Leave
+EMP-000405,Joseph Burns,Customer Support,ROL-0005,EMP-000401,Pune,2021-09-21,Active
+EMP-000406,James Butler,Customer Support,ROL-0006,EMP-000401,Bengaluru,2023-02-07,Active
+EMP-000407,Jose Lopez,Data,ROL-0007,EMP-000401,Remote,2025-12-15,Active
+EMP-000408,David Knight,Human Resources,ROL-0008,,Pune,2023-12-08,Active
+EMP-000409,Susan Marshall,Finance,ROL-0009,,Bengaluru,2021-10-21,On Leave
+EMP-000410,Barbara Pittman,Human Resources,ROL-0010,EMP-000409,Pune,2021-11-13,On Leave
+EMP-000411,Samantha Bates,Data,ROL-0011,EMP-000409,Remote,2021-12-15,Active
+EMP-000412,Fernando Lee,Finance,ROL-0012,EMP-000409,Remote,2023-07-21,Active
+EMP-000413,Nathan Moreno Jr.,Human Resources,ROL-0013,EMP-000409,Pune,2026-05-08,Active
+EMP-000414,Daniel Small,Product,ROL-0014,EMP-000409,Bengaluru,2026-06-15,Active
+EMP-000415,Courtney Kim,Finance,ROL-0015,EMP-000409,Remote,2024-05-01,Active
+EMP-000416,Donald Reynolds,Finance,ROL-0016,,Hyderabad,2020-01-09,Active
+EMP-000417,Tyler Floyd,Engineering,ROL-0017,,Bengaluru,2023-09-14,On Leave
+EMP-000418,Charles Vargas,Finance,ROL-0018,EMP-000417,Bengaluru,2026-02-12,On Leave
+EMP-000419,Tricia Erickson,Data,ROL-0019,EMP-000417,Remote,2025-05-26,Active
+EMP-000420,Joshua Richards,Data,ROL-0020,EMP-000417,Remote,2022-05-31,Active
+EMP-000421,Zachary Gibbs,Customer Support,ROL-0021,EMP-000417,Hyderabad,2020-08-08,Active
+EMP-000422,Corey Contreras,Customer Support,ROL-0022,EMP-000417,Bengaluru,2025-12-03,Active
+EMP-000423,Melissa Pollard,Customer Support,ROL-0023,EMP-000417,Chennai,2025-10-09,Active
+EMP-000424,Angela Vaughn,Customer Support,ROL-0024,,Pune,2024-04-09,Active
+EMP-000425,Sherry Higgins,Engineering,ROL-0025,,Remote,2022-03-21,On Leave
+EMP-000426,James Hart,Operations,ROL-0026,EMP-000425,Pune,2024-12-16,Active
+EMP-000427,Tyler Arnold,Data,ROL-0027,EMP-000425,Hyderabad,2023-11-24,Active
+EMP-000428,Breanna Jackson,Human Resources,ROL-0028,EMP-000425,Hyderabad,2025-11-28,Active
+EMP-000429,Mr. Christopher Valentine,Product,ROL-0029,EMP-000425,Bengaluru,2023-10-05,Active
+EMP-000430,Jeffrey Henderson,Customer Support,ROL-0030,EMP-000425,Pune,2021-01-26,On Leave
+EMP-000431,Janet Vasquez,Product,ROL-0031,EMP-000425,Remote,2026-08-25,Active
+EMP-000432,David Vaughan,Data,ROL-0032,,Pune,2023-01-19,On Leave
+EMP-000433,Joseph Parker,Operations,ROL-0033,,Pune,2020-02-08,Active
+EMP-000434,Nicole Hansen,Finance,ROL-0034,EMP-000433,Hyderabad,2025-12-05,On Leave
+EMP-000435,William Moore,Operations,ROL-0035,EMP-000433,Remote,2021-02-26,Active
+EMP-000436,Joseph Thompson MD,Human Resources,ROL-0036,EMP-000433,Remote,2026-05-19,Active
+EMP-000437,Cesar Hurley,Finance,ROL-0037,EMP-000433,Chennai,2022-07-20,On Leave
+EMP-000438,Anne Robinson,Product,ROL-0038,EMP-000433,Chennai,2021-12-16,Active
+EMP-000439,Kurt Brown,Data,ROL-0039,EMP-000433,Remote,2023-08-19,Active
+EMP-000440,Sara Cochran PhD,Operations,ROL-0040,,Pune,2022-12-16,Active
+EMP-000441,Bruce Rodriguez,Human Resources,ROL-0041,,Pune,2020-09-29,Active
+EMP-000442,Robert Bailey,Customer Support,ROL-0042,EMP-000441,Bengaluru,2026-02-02,Active
+EMP-000443,Lisa Simpson,Human Resources,ROL-0043,EMP-000441,Chennai,2026-01-21,Active
+EMP-000444,Samuel Davis,Operations,ROL-0044,EMP-000441,Remote,2026-08-02,Active
+EMP-000445,Kathryn Martinez,Product,ROL-0045,EMP-000441,Bengaluru,2023-01-16,Active
+EMP-000446,Joseph Wells,Operations,ROL-0046,EMP-000441,Hyderabad,2023-03-06,Active
+EMP-000447,Jennifer Mills,Human Resources,ROL-0047,EMP-000441,Remote,2022-03-21,Active
+EMP-000448,Donald Palmer,Finance,ROL-0048,,Pune,2026-07-13,Active
+EMP-000449,Brenda Clark,Engineering,ROL-0049,,Bengaluru,2020-02-17,Active
+EMP-000450,Joshua Reed,Data,ROL-0050,EMP-000449,Pune,2022-09-13,On Leave
+EMP-000451,Yesenia Davis,Operations,ROL-0051,EMP-000449,Hyderabad,2026-07-09,Active
+EMP-000452,Katherine Campbell,Human Resources,ROL-0052,EMP-000449,Bengaluru,2026-08-25,Active
+EMP-000453,Seth Black,Product,ROL-0053,EMP-000449,Bengaluru,2022-05-04,Active
+EMP-000454,Karen Swanson,Operations,ROL-0054,EMP-000449,Hyderabad,2024-09-21,Active
+EMP-000455,Alejandro Bradshaw,Operations,ROL-0055,EMP-000449,Remote,2024-12-17,Active
+EMP-000456,Angela Hayes,Data,ROL-0056,,Pune,2023-12-29,Active
+EMP-000457,John Jones,Human Resources,ROL-0057,,Bengaluru,2021-11-29,On Leave
+EMP-000458,Brian Martinez,Finance,ROL-0058,EMP-000457,Hyderabad,2024-10-09,Active
+EMP-000459,Mrs. Melissa Bishop,Human Resources,ROL-0059,EMP-000457,Chennai,2023-07-09,Active
+EMP-000460,Nicole Patel,Customer Support,ROL-0060,EMP-000457,Chennai,2026-04-07,On Leave
+EMP-000461,Ronald Oliver,Data,ROL-0061,EMP-000457,Hyderabad,2024-02-13,Active
+EMP-000462,Teresa Payne,Human Resources,ROL-0062,EMP-000457,Pune,2024-12-19,Active
+EMP-000463,Stephanie Bailey,Customer Support,ROL-0063,EMP-000457,Remote,2021-09-12,On Leave
+EMP-000464,Curtis Torres,Data,ROL-0064,,Bengaluru,2026-07-28,Active
+EMP-000465,Christopher Williams,Customer Support,ROL-0065,,Bengaluru,2023-03-17,Active
+EMP-000466,Michael Sanchez PhD,Customer Support,ROL-0066,EMP-000465,Hyderabad,2021-03-13,On Leave
+EMP-000467,Thomas Grant,Human Resources,ROL-0067,EMP-000465,Pune,2025-04-01,Active
+EMP-000468,Sharon Bruce,Product,ROL-0068,EMP-000465,Bengaluru,2026-04-07,Active
+EMP-000469,James Coleman,Finance,ROL-0069,EMP-000465,Hyderabad,2024-07-30,Active
+EMP-000470,Mrs. Sherry Young,Product,ROL-0070,EMP-000465,Bengaluru,2023-11-27,Active
+EMP-000471,Sean Smith,Product,ROL-0071,EMP-000465,Pune,2022-01-10,Active
+EMP-000472,Sherry Peterson,Customer Support,ROL-0072,,Hyderabad,2024-01-02,On Leave
+EMP-000473,Kimberly Coleman,Engineering,ROL-0073,,Bengaluru,2024-05-18,On Leave
+EMP-000474,Derek Maldonado,Engineering,ROL-0074,EMP-000473,Remote,2021-03-24,Active
+EMP-000475,Michael Moss,Human Resources,ROL-0075,EMP-000473,Remote,2026-01-09,On Leave
+EMP-000476,Jason Melendez,Operations,ROL-0076,EMP-000473,Hyderabad,2020-08-22,On Leave
+EMP-000477,Barbara Dodson,Product,ROL-0077,EMP-000473,Chennai,2024-08-28,Active
+EMP-000478,Amanda Smith,Product,ROL-0078,EMP-000473,Pune,2021-10-05,Active
+EMP-000479,Erin Mccarthy,Operations,ROL-0079,EMP-000473,Hyderabad,2023-07-17,On Leave
+EMP-000480,Katie Jones,Engineering,ROL-0080,,Hyderabad,2021-12-20,On Leave
+EMP-000481,James Drake,Finance,ROL-0001,,Remote,2022-04-01,Active
+EMP-000482,Lori Bennett,Operations,ROL-0002,EMP-000481,Chennai,2024-07-07,On Leave
+EMP-000483,Brian Mitchell,Operations,ROL-0003,EMP-000481,Pune,2022-10-15,Active
+EMP-000484,Colleen Lynn,Operations,ROL-0004,EMP-000481,Remote,2021-11-15,Active
+EMP-000485,Christopher Brown,Customer Support,ROL-0005,EMP-000481,Chennai,2022-07-03,Active
+EMP-000486,Rhonda Morgan,Customer Support,ROL-0006,EMP-000481,Bengaluru,2025-05-23,Active
+EMP-000487,April Lee,Data,ROL-0007,EMP-000481,Hyderabad,2026-06-10,Active
+EMP-000488,Mark Payne,Human Resources,ROL-0008,,Remote,2020-08-07,On Leave
+EMP-000489,Hannah Gonzalez,Finance,ROL-0009,,Pune,2020-09-17,Active
+EMP-000490,Gina Allen,Human Resources,ROL-0010,EMP-000489,Remote,2024-08-25,Active
+EMP-000491,Jason Mitchell,Data,ROL-0011,EMP-000489,Chennai,2024-12-17,On Leave
+EMP-000492,Patrick Ward,Finance,ROL-0012,EMP-000489,Hyderabad,2022-11-29,On Leave
+EMP-000493,Christina Crane,Human Resources,ROL-0013,EMP-000489,Pune,2022-07-28,Active
+EMP-000494,Brian Anderson,Product,ROL-0014,EMP-000489,Remote,2025-10-21,Active
+EMP-000495,Vickie Brown,Finance,ROL-0015,EMP-000489,Bengaluru,2024-05-13,Active
+EMP-000496,Diana Rodriguez,Finance,ROL-0016,,Hyderabad,2022-07-01,Active
+EMP-000497,Patrick Andrews,Engineering,ROL-0017,,Remote,2026-07-19,Active
+EMP-000498,Rodney King,Finance,ROL-0018,EMP-000497,Hyderabad,2020-12-01,Active
+EMP-000499,John Burns,Data,ROL-0019,EMP-000497,Chennai,2021-03-02,Active
+EMP-000500,Sherry Leonard,Data,ROL-0020,EMP-000497,Bengaluru,2020-09-09,On Leave
+EMP-000501,Veronica Holmes,Customer Support,ROL-0021,EMP-000497,Hyderabad,2022-08-27,Active
+EMP-000502,Jose Davis,Customer Support,ROL-0022,EMP-000497,Hyderabad,2024-04-06,Active
+EMP-000503,Jasmine Cardenas,Customer Support,ROL-0023,EMP-000497,Remote,2021-11-07,On Leave
+EMP-000504,Beth Allen,Customer Support,ROL-0024,,Pune,2023-12-09,Active
+EMP-000505,Thomas Hawkins,Engineering,ROL-0025,,Pune,2022-01-02,Active
+EMP-000506,John Mosley,Operations,ROL-0026,EMP-000505,Pune,2025-05-24,Active
+EMP-000507,Michael Cooper,Data,ROL-0027,EMP-000505,Hyderabad,2022-05-19,Active
+EMP-000508,Juan Sexton,Human Resources,ROL-0028,EMP-000505,Chennai,2025-10-01,Active
+EMP-000509,Amber Shepard,Product,ROL-0029,EMP-000505,Remote,2023-12-30,Active
+EMP-000510,Daniel Collier,Customer Support,ROL-0030,EMP-000505,Bengaluru,2020-08-06,Active
+EMP-000511,Howard Cook,Product,ROL-0031,EMP-000505,Pune,2021-06-09,Active
+EMP-000512,Mark Robertson,Data,ROL-0032,,Chennai,2021-11-28,Active
+EMP-000513,Nicholas Cooper,Operations,ROL-0033,,Bengaluru,2025-01-18,Active
+EMP-000514,Carrie Hudson,Finance,ROL-0034,EMP-000513,Chennai,2020-09-09,Active
+EMP-000515,Ronald Sanchez,Operations,ROL-0035,EMP-000513,Hyderabad,2021-08-20,Active
+EMP-000516,Benjamin Flores,Human Resources,ROL-0036,EMP-000513,Chennai,2021-08-23,Active
+EMP-000517,Barbara Knight,Finance,ROL-0037,EMP-000513,Chennai,2023-12-17,On Leave
+EMP-000518,Thomas Velazquez,Product,ROL-0038,EMP-000513,Chennai,2023-10-24,Active
+EMP-000519,Laura Green,Data,ROL-0039,EMP-000513,Remote,2022-09-23,Active
+EMP-000520,Jeremy Marshall,Operations,ROL-0040,,Remote,2023-03-03,Active
+EMP-000521,Cynthia Woods,Human Resources,ROL-0041,,Remote,2023-01-08,Active
+EMP-000522,Nicole Lynn,Customer Support,ROL-0042,EMP-000521,Chennai,2024-05-03,On Leave
+EMP-000523,Darlene Valenzuela,Human Resources,ROL-0043,EMP-000521,Remote,2020-10-08,Active
+EMP-000524,Aimee Williams,Operations,ROL-0044,EMP-000521,Remote,2020-12-26,Active
+EMP-000525,Taylor Sweeney,Product,ROL-0045,EMP-000521,Remote,2023-08-24,Active
+EMP-000526,Corey Mueller,Operations,ROL-0046,EMP-000521,Bengaluru,2023-02-14,Active
+EMP-000527,Kristen Farrell,Human Resources,ROL-0047,EMP-000521,Remote,2021-10-11,Active
+EMP-000528,Benjamin Williams,Finance,ROL-0048,,Pune,2024-10-22,Active
+EMP-000529,James Bryant,Engineering,ROL-0049,,Bengaluru,2020-03-11,Active
+EMP-000530,Mike Gonzalez,Data,ROL-0050,EMP-000529,Bengaluru,2025-01-05,Active
+EMP-000531,Molly Richardson,Operations,ROL-0051,EMP-000529,Hyderabad,2022-01-11,Active
+EMP-000532,Steven Simmons,Human Resources,ROL-0052,EMP-000529,Bengaluru,2025-04-20,Active
+EMP-000533,Jason Green,Product,ROL-0053,EMP-000529,Remote,2025-05-27,Active
+EMP-000534,Devon Murphy,Operations,ROL-0054,EMP-000529,Remote,2026-08-15,Active
+EMP-000535,Samantha Adams,Operations,ROL-0055,EMP-000529,Hyderabad,2020-08-25,Active
+EMP-000536,Steven Thomas,Data,ROL-0056,,Chennai,2022-02-16,Active
+EMP-000537,Holly Baker,Human Resources,ROL-0057,,Remote,2024-07-20,Active
+EMP-000538,Renee Perez,Finance,ROL-0058,EMP-000537,Remote,2023-10-17,On Leave
+EMP-000539,Dawn Landry,Human Resources,ROL-0059,EMP-000537,Pune,2023-07-28,Active
+EMP-000540,Jessica Molina,Customer Support,ROL-0060,EMP-000537,Bengaluru,2020-07-15,On Leave
+EMP-000541,Daniel Baker,Data,ROL-0061,EMP-000537,Pune,2025-05-27,Active
+EMP-000542,Tina Reid,Human Resources,ROL-0062,EMP-000537,Chennai,2021-09-18,On Leave
+EMP-000543,Dr. Sydney Mcmillan,Customer Support,ROL-0063,EMP-000537,Chennai,2020-09-09,On Leave
+EMP-000544,Alex Lawrence,Data,ROL-0064,,Pune,2023-01-21,Active
+EMP-000545,David Brown,Customer Support,ROL-0065,,Bengaluru,2026-07-14,Active
+EMP-000546,Andrew Watson,Customer Support,ROL-0066,EMP-000545,Bengaluru,2025-01-18,Active
+EMP-000547,Lauren Parsons,Human Resources,ROL-0067,EMP-000545,Bengaluru,2020-06-20,Active
+EMP-000548,Veronica Chavez,Product,ROL-0068,EMP-000545,Hyderabad,2025-11-21,Active
+EMP-000549,Kimberly Woods,Finance,ROL-0069,EMP-000545,Remote,2025-07-02,Active
+EMP-000550,Dean Jefferson,Product,ROL-0070,EMP-000545,Pune,2024-08-25,Active
+EMP-000551,Deanna Gonzalez,Product,ROL-0071,EMP-000545,Chennai,2026-05-22,On Leave
+EMP-000552,David Lopez,Customer Support,ROL-0072,,Hyderabad,2023-09-02,Active
+EMP-000553,Jorge Nielsen,Engineering,ROL-0073,,Remote,2025-07-31,Active
+EMP-000554,Ricky Johnson,Engineering,ROL-0074,EMP-000553,Bengaluru,2026-05-15,On Leave
+EMP-000555,Audrey Powell,Human Resources,ROL-0075,EMP-000553,Pune,2023-08-07,Active
+EMP-000556,Willie Lee,Operations,ROL-0076,EMP-000553,Remote,2020-11-18,On Leave
+EMP-000557,Curtis Nelson,Product,ROL-0077,EMP-000553,Remote,2023-07-12,Active
+EMP-000558,Thomas Anderson,Product,ROL-0078,EMP-000553,Chennai,2022-05-13,Active
+EMP-000559,Jose Farmer,Operations,ROL-0079,EMP-000553,Remote,2021-10-08,On Leave
+EMP-000560,Michelle Moore,Engineering,ROL-0080,,Pune,2020-04-09,On Leave
+EMP-000561,Dana Taylor,Finance,ROL-0001,,Remote,2020-05-16,Active
+EMP-000562,Sergio Stein,Operations,ROL-0002,EMP-000561,Hyderabad,2025-02-14,Active
+EMP-000563,Joseph Stone,Operations,ROL-0003,EMP-000561,Pune,2020-08-14,Active
+EMP-000564,George Boyd,Operations,ROL-0004,EMP-000561,Hyderabad,2022-09-24,Active
+EMP-000565,William Bowman,Customer Support,ROL-0005,EMP-000561,Remote,2026-02-04,Active
+EMP-000566,Tara Pearson,Customer Support,ROL-0006,EMP-000561,Pune,2026-01-05,Active
+EMP-000567,Paul Stark,Data,ROL-0007,EMP-000561,Hyderabad,2022-02-12,Active
+EMP-000568,Heather Thompson,Human Resources,ROL-0008,,Chennai,2025-12-12,Active
+EMP-000569,Henry Gonzales,Finance,ROL-0009,,Chennai,2021-06-14,Active
+EMP-000570,Pam Norman,Human Resources,ROL-0010,EMP-000569,Bengaluru,2020-07-07,Active
+EMP-000571,Carolyn Gibson,Data,ROL-0011,EMP-000569,Bengaluru,2026-01-29,Active
+EMP-000572,Lisa Collins,Finance,ROL-0012,EMP-000569,Chennai,2025-03-09,Active
+EMP-000573,William Griffin,Human Resources,ROL-0013,EMP-000569,Remote,2022-09-30,Active
+EMP-000574,Emily Taylor,Product,ROL-0014,EMP-000569,Chennai,2024-05-13,Active
+EMP-000575,Robert Golden,Finance,ROL-0015,EMP-000569,Remote,2021-05-23,Active
+EMP-000576,Olivia Jones,Finance,ROL-0016,,Hyderabad,2023-11-12,Active
+EMP-000577,Matthew Alexander,Engineering,ROL-0017,,Hyderabad,2021-06-09,On Leave
+EMP-000578,Travis Williams,Finance,ROL-0018,EMP-000577,Bengaluru,2020-11-13,Active
+EMP-000579,Nicole Anderson,Data,ROL-0019,EMP-000577,Remote,2023-03-03,Active
+EMP-000580,Jeremy Dixon,Data,ROL-0020,EMP-000577,Hyderabad,2023-05-09,Active
+EMP-000581,Ann Rice,Customer Support,ROL-0021,EMP-000577,Bengaluru,2023-08-03,Active
+EMP-000582,Kristi Welch,Customer Support,ROL-0022,EMP-000577,Chennai,2020-02-25,Active
+EMP-000583,Edwin King,Customer Support,ROL-0023,EMP-000577,Remote,2024-04-23,Active
+EMP-000584,Daniel Wilson,Customer Support,ROL-0024,,Remote,2023-07-02,On Leave
+EMP-000585,Joshua Howard,Engineering,ROL-0025,,Chennai,2020-10-06,On Leave
+EMP-000586,Mr. Blake Wolfe,Operations,ROL-0026,EMP-000585,Bengaluru,2024-12-10,Active
+EMP-000587,Elizabeth Brock,Data,ROL-0027,EMP-000585,Chennai,2023-05-09,Active
+EMP-000588,Karen Hunt,Human Resources,ROL-0028,EMP-000585,Bengaluru,2025-11-20,Active
+EMP-000589,Holly Bauer,Product,ROL-0029,EMP-000585,Hyderabad,2023-11-28,On Leave
+EMP-000590,Nicholas Andersen,Customer Support,ROL-0030,EMP-000585,Hyderabad,2026-04-16,Active
+EMP-000591,Jared Wilson,Product,ROL-0031,EMP-000585,Remote,2021-10-17,Active
+EMP-000592,Kelsey Carlson,Data,ROL-0032,,Pune,2023-03-03,Active
+EMP-000593,John Smith,Operations,ROL-0033,,Chennai,2024-10-08,Active
+EMP-000594,Kelly Lowe,Finance,ROL-0034,EMP-000593,Hyderabad,2024-04-13,Active
+EMP-000595,Sheryl Murray,Operations,ROL-0035,EMP-000593,Pune,2025-02-27,Active
+EMP-000596,Michelle Davenport,Human Resources,ROL-0036,EMP-000593,Bengaluru,2022-03-06,Active
+EMP-000597,Jodi Branch,Finance,ROL-0037,EMP-000593,Pune,2022-06-30,Active
+EMP-000598,Michael Jackson,Product,ROL-0038,EMP-000593,Pune,2021-01-22,Active
+EMP-000599,Jordan Carpenter,Data,ROL-0039,EMP-000593,Hyderabad,2020-06-17,Active
+EMP-000600,James Burnett,Operations,ROL-0040,,Remote,2024-03-12,Active
+EMP-000601,Jeff Atkinson,Human Resources,ROL-0041,,Pune,2023-12-09,Active
+EMP-000602,Gary Baker,Customer Support,ROL-0042,EMP-000601,Chennai,2020-09-08,Active
+EMP-000603,Daniel Ferguson,Human Resources,ROL-0043,EMP-000601,Pune,2023-11-06,On Leave
+EMP-000604,Angela Sandoval,Operations,ROL-0044,EMP-000601,Chennai,2022-10-03,Active
+EMP-000605,Jeffrey Ward,Product,ROL-0045,EMP-000601,Chennai,2022-07-31,On Leave
+EMP-000606,Michael Garcia,Operations,ROL-0046,EMP-000601,Bengaluru,2021-03-15,Active
+EMP-000607,Brian Rodriguez,Human Resources,ROL-0047,EMP-000601,Bengaluru,2025-11-19,Active
+EMP-000608,Kristie Rodriguez,Finance,ROL-0048,,Remote,2025-04-14,Active
+EMP-000609,Brian Orr,Engineering,ROL-0049,,Remote,2024-08-21,Active
+EMP-000610,Zachary Barnes,Data,ROL-0050,EMP-000609,Chennai,2021-12-02,Active
+EMP-000611,Caitlin Ferguson,Operations,ROL-0051,EMP-000609,Chennai,2023-10-25,Active
+EMP-000612,Jose Galvan,Human Resources,ROL-0052,EMP-000609,Remote,2024-02-02,Active
+EMP-000613,Sheri Davis,Product,ROL-0053,EMP-000609,Pune,2026-09-03,Active
+EMP-000614,Nicole Cordova,Operations,ROL-0054,EMP-000609,Pune,2023-10-06,Active
+EMP-000615,Eric Wheeler,Operations,ROL-0055,EMP-000609,Chennai,2020-06-21,Active
+EMP-000616,Frederick Ramos,Data,ROL-0056,,Pune,2022-06-26,On Leave
+EMP-000617,Tracy Berger,Human Resources,ROL-0057,,Chennai,2024-09-13,Active
+EMP-000618,Andrew Moody,Finance,ROL-0058,EMP-000617,Hyderabad,2023-09-23,Active
+EMP-000619,Amanda Curry,Human Resources,ROL-0059,EMP-000617,Bengaluru,2023-01-02,On Leave
+EMP-000620,John Carter,Customer Support,ROL-0060,EMP-000617,Remote,2023-08-27,On Leave
+EMP-000621,Jessica Gregory,Data,ROL-0061,EMP-000617,Chennai,2025-03-02,Active
+EMP-000622,Allison Ramirez,Human Resources,ROL-0062,EMP-000617,Hyderabad,2021-09-11,Active
+EMP-000623,Amber Rice,Customer Support,ROL-0063,EMP-000617,Remote,2023-07-09,On Leave
+EMP-000624,Bianca West,Data,ROL-0064,,Chennai,2021-08-29,Active
+EMP-000625,Sarah Davis,Customer Support,ROL-0065,,Bengaluru,2020-01-10,Active
+EMP-000626,Lynn Chapman,Customer Support,ROL-0066,EMP-000625,Bengaluru,2020-08-14,Active
+EMP-000627,Leslie Anderson,Human Resources,ROL-0067,EMP-000625,Chennai,2022-09-27,Active
+EMP-000628,Robert Phillips,Product,ROL-0068,EMP-000625,Pune,2021-07-21,Active
+EMP-000629,Angela Boyd,Finance,ROL-0069,EMP-000625,Pune,2023-08-16,Active
+EMP-000630,Ryan Singleton,Product,ROL-0070,EMP-000625,Remote,2021-07-14,Active
+EMP-000631,Jennifer Harper,Product,ROL-0071,EMP-000625,Remote,2021-01-08,Active
+EMP-000632,Jeffery Horn,Customer Support,ROL-0072,,Remote,2023-05-25,Active
+EMP-000633,Johnny Berry,Engineering,ROL-0073,,Hyderabad,2026-02-14,Active
+EMP-000634,Sarah Richardson,Engineering,ROL-0074,EMP-000633,Bengaluru,2021-11-04,Active
+EMP-000635,Diane James,Human Resources,ROL-0075,EMP-000633,Chennai,2023-04-29,Active
+EMP-000636,Bailey Cabrera,Operations,ROL-0076,EMP-000633,Remote,2025-12-31,Active
+EMP-000637,Brian Carpenter,Product,ROL-0077,EMP-000633,Pune,2020-03-28,Active
+EMP-000638,Kimberly Bolton,Product,ROL-0078,EMP-000633,Chennai,2020-07-27,Active
+EMP-000639,Nathaniel Sanchez,Operations,ROL-0079,EMP-000633,Remote,2020-11-16,Active
+EMP-000640,Tina Branch,Engineering,ROL-0080,,Pune,2023-05-22,Active
+EMP-000641,Victor Johnson,Finance,ROL-0001,,Chennai,2026-07-03,On Leave
+EMP-000642,Joseph Knight,Operations,ROL-0002,EMP-000641,Pune,2023-07-15,Active
+EMP-000643,Kelly Fletcher,Operations,ROL-0003,EMP-000641,Remote,2023-04-21,Active
+EMP-000644,Ashlee Ford,Operations,ROL-0004,EMP-000641,Chennai,2022-02-25,Active
+EMP-000645,Jon Rosales,Customer Support,ROL-0005,EMP-000641,Remote,2024-10-27,Active
+EMP-000646,Mr. Thomas Williams,Customer Support,ROL-0006,EMP-000641,Hyderabad,2022-03-27,Active
+EMP-000647,Emily Lewis,Data,ROL-0007,EMP-000641,Hyderabad,2025-03-16,Active
+EMP-000648,Elizabeth Dixon,Human Resources,ROL-0008,,Pune,2022-05-07,On Leave
+EMP-000649,William Lopez,Finance,ROL-0009,,Chennai,2026-07-04,Active
+EMP-000650,Hannah Davis,Human Resources,ROL-0010,EMP-000649,Pune,2025-04-19,Active
+EMP-000651,Antonio Allen,Data,ROL-0011,EMP-000649,Bengaluru,2023-05-22,Active
+EMP-000652,Stephanie Lang,Finance,ROL-0012,EMP-000649,Chennai,2023-02-05,Active
+EMP-000653,Donald Porter,Human Resources,ROL-0013,EMP-000649,Remote,2020-08-01,Active
+EMP-000654,Peggy Oneill,Product,ROL-0014,EMP-000649,Pune,2024-08-16,On Leave
+EMP-000655,John Hickman,Finance,ROL-0015,EMP-000649,Pune,2020-11-22,Active
+EMP-000656,Alexis Charles,Finance,ROL-0016,,Chennai,2021-10-28,Active
+EMP-000657,Kim Martinez,Engineering,ROL-0017,,Chennai,2022-07-20,On Leave
+EMP-000658,Dennis Simmons,Finance,ROL-0018,EMP-000657,Bengaluru,2021-03-27,Active
+EMP-000659,Christina Thomas,Data,ROL-0019,EMP-000657,Pune,2026-03-31,Active
+EMP-000660,Lisa Newton,Data,ROL-0020,EMP-000657,Remote,2022-11-03,Active
+EMP-000661,Mark Cisneros,Customer Support,ROL-0021,EMP-000657,Pune,2025-05-16,On Leave
+EMP-000662,Kelsey Craig,Customer Support,ROL-0022,EMP-000657,Bengaluru,2020-05-28,Active
+EMP-000663,Carlos Beltran,Customer Support,ROL-0023,EMP-000657,Hyderabad,2026-03-26,On Leave
+EMP-000664,Sue Estes,Customer Support,ROL-0024,,Chennai,2024-01-02,On Leave
+EMP-000665,Juan Stanley,Engineering,ROL-0025,,Chennai,2022-04-14,Active
+EMP-000666,Kenneth Ross,Operations,ROL-0026,EMP-000665,Pune,2025-02-05,On Leave
+EMP-000667,Alexandra Garza,Data,ROL-0027,EMP-000665,Pune,2020-01-26,On Leave
+EMP-000668,Judith Wilson,Human Resources,ROL-0028,EMP-000665,Hyderabad,2025-01-03,Active
+EMP-000669,Vanessa Osborne,Product,ROL-0029,EMP-000665,Remote,2025-04-14,Active
+EMP-000670,Jeffrey Richardson,Customer Support,ROL-0030,EMP-000665,Pune,2022-08-29,Active
+EMP-000671,William Moore,Product,ROL-0031,EMP-000665,Hyderabad,2024-11-20,On Leave
+EMP-000672,Mallory Roberts,Data,ROL-0032,,Pune,2022-11-06,Active
+EMP-000673,Tiffany Castillo,Operations,ROL-0033,,Remote,2020-03-28,On Leave
+EMP-000674,Emily Rogers,Finance,ROL-0034,EMP-000673,Chennai,2020-04-28,Active
+EMP-000675,Karen Thompson,Operations,ROL-0035,EMP-000673,Remote,2026-08-02,Active
+EMP-000676,Steven Sheppard,Human Resources,ROL-0036,EMP-000673,Pune,2023-03-28,On Leave
+EMP-000677,Brian Brown,Finance,ROL-0037,EMP-000673,Pune,2021-10-15,Active
+EMP-000678,Cheryl Taylor,Product,ROL-0038,EMP-000673,Remote,2025-09-01,Active
+EMP-000679,Kathleen Reyes,Data,ROL-0039,EMP-000673,Pune,2021-03-12,Active
+EMP-000680,Samantha George,Operations,ROL-0040,,Chennai,2022-10-05,Active
+EMP-000681,Julia Johnson DVM,Human Resources,ROL-0041,,Chennai,2020-04-06,On Leave
+EMP-000682,Sandra Porter,Customer Support,ROL-0042,EMP-000681,Chennai,2022-09-21,On Leave
+EMP-000683,Adam Soto,Human Resources,ROL-0043,EMP-000681,Bengaluru,2023-08-13,Active
+EMP-000684,Jennifer Hodges,Operations,ROL-0044,EMP-000681,Chennai,2025-04-06,Active
+EMP-000685,Jerome Johnson,Product,ROL-0045,EMP-000681,Pune,2023-04-04,Active
+EMP-000686,Heather Dominguez,Operations,ROL-0046,EMP-000681,Remote,2022-01-02,Active
+EMP-000687,Elizabeth Blanchard,Human Resources,ROL-0047,EMP-000681,Hyderabad,2022-11-14,Active
+EMP-000688,Kimberly Cannon,Finance,ROL-0048,,Chennai,2025-11-21,Active
+EMP-000689,Donna Jennings,Engineering,ROL-0049,,Bengaluru,2024-09-02,Active
+EMP-000690,Patrick Thompson,Data,ROL-0050,EMP-000689,Pune,2023-12-26,On Leave
+EMP-000691,Jessica Miller,Operations,ROL-0051,EMP-000689,Pune,2020-05-03,Active
+EMP-000692,Teresa Brown,Human Resources,ROL-0052,EMP-000689,Pune,2025-02-06,Active
+EMP-000693,Kimberly Wright,Product,ROL-0053,EMP-000689,Pune,2021-09-05,Active
+EMP-000694,Cynthia Snyder,Operations,ROL-0054,EMP-000689,Bengaluru,2024-03-20,Active
+EMP-000695,Benjamin Cuevas,Operations,ROL-0055,EMP-000689,Bengaluru,2023-10-24,Active
+EMP-000696,Steven Mcneil,Data,ROL-0056,,Bengaluru,2026-06-18,Active
+EMP-000697,Jonathan Martinez,Human Resources,ROL-0057,,Hyderabad,2022-07-20,Active
+EMP-000698,Daniel Pham,Finance,ROL-0058,EMP-000697,Hyderabad,2025-08-15,Active
+EMP-000699,Sheryl Cole,Human Resources,ROL-0059,EMP-000697,Hyderabad,2021-06-25,Active
+EMP-000700,Brent Griffin IV,Customer Support,ROL-0060,EMP-000697,Chennai,2023-08-18,On Leave
+EMP-000701,Thomas Rogers,Data,ROL-0061,EMP-000697,Remote,2024-08-22,Active
+EMP-000702,Tara Miller,Human Resources,ROL-0062,EMP-000697,Bengaluru,2022-02-25,Active
+EMP-000703,Justin Kelly,Customer Support,ROL-0063,EMP-000697,Remote,2020-09-17,Active
+EMP-000704,Marcus Arias,Data,ROL-0064,,Remote,2024-10-27,Active
+EMP-000705,Kim Davies,Customer Support,ROL-0065,,Bengaluru,2023-01-11,On Leave
+EMP-000706,Matthew Carr,Customer Support,ROL-0066,EMP-000705,Chennai,2022-12-12,Active
+EMP-000707,Melissa Greer,Human Resources,ROL-0067,EMP-000705,Chennai,2024-06-09,Active
+EMP-000708,Adam Tucker,Product,ROL-0068,EMP-000705,Remote,2024-05-28,Active
+EMP-000709,Carlos Maddox,Finance,ROL-0069,EMP-000705,Remote,2021-11-19,On Leave
+EMP-000710,Tammy Berg,Product,ROL-0070,EMP-000705,Hyderabad,2026-03-04,Active
+EMP-000711,Jessica Robinson,Product,ROL-0071,EMP-000705,Remote,2021-06-28,On Leave
+EMP-000712,Mrs. Michelle Copeland,Customer Support,ROL-0072,,Bengaluru,2025-01-03,Active
+EMP-000713,Lisa Davies,Engineering,ROL-0073,,Bengaluru,2024-08-05,Active
+EMP-000714,Amber Weber,Engineering,ROL-0074,EMP-000713,Chennai,2021-08-29,Active
+EMP-000715,Jeff Galvan,Human Resources,ROL-0075,EMP-000713,Bengaluru,2020-09-28,On Leave
+EMP-000716,Brittney Nelson,Operations,ROL-0076,EMP-000713,Remote,2024-06-30,Active
+EMP-000717,Breanna Doyle,Product,ROL-0077,EMP-000713,Pune,2022-11-02,Active
+EMP-000718,Shannon Carson,Product,ROL-0078,EMP-000713,Pune,2026-05-12,Active
+EMP-000719,Debbie Ramirez,Operations,ROL-0079,EMP-000713,Chennai,2024-05-26,Active
+EMP-000720,Donna Russell,Engineering,ROL-0080,,Bengaluru,2024-01-19,Active
+EMP-000721,Charles Perry,Finance,ROL-0001,,Chennai,2025-06-28,Active
+EMP-000722,Evan Jones,Operations,ROL-0002,EMP-000721,Hyderabad,2020-06-19,Active
+EMP-000723,Joe Palmer,Operations,ROL-0003,EMP-000721,Hyderabad,2021-05-21,Active
+EMP-000724,Hayden Chambers,Operations,ROL-0004,EMP-000721,Hyderabad,2023-03-28,On Leave
+EMP-000725,Kevin Morrison,Customer Support,ROL-0005,EMP-000721,Chennai,2024-12-04,On Leave
+EMP-000726,Christopher Snyder,Customer Support,ROL-0006,EMP-000721,Bengaluru,2023-02-15,On Leave
+EMP-000727,Brian Guerra,Data,ROL-0007,EMP-000721,Chennai,2023-04-02,Active
+EMP-000728,Melissa Butler,Human Resources,ROL-0008,,Bengaluru,2022-09-06,Active
+EMP-000729,Harold Burch,Finance,ROL-0009,,Bengaluru,2026-02-23,Active
+EMP-000730,Robin King,Human Resources,ROL-0010,EMP-000729,Chennai,2024-06-30,Active
+EMP-000731,David Palmer,Data,ROL-0011,EMP-000729,Remote,2023-02-18,Active
+EMP-000732,Allison Parker,Finance,ROL-0012,EMP-000729,Bengaluru,2021-06-25,Active
+EMP-000733,Vickie Rhodes,Human Resources,ROL-0013,EMP-000729,Pune,2025-03-28,Active
+EMP-000734,Richard Mays,Product,ROL-0014,EMP-000729,Chennai,2021-11-01,On Leave
+EMP-000735,Peter Powell,Finance,ROL-0015,EMP-000729,Remote,2024-02-05,Active
+EMP-000736,Michael Kim,Finance,ROL-0016,,Bengaluru,2021-05-20,Active
+EMP-000737,Emily Mccarthy,Engineering,ROL-0017,,Hyderabad,2023-10-04,Active
+EMP-000738,Kevin Osborne,Finance,ROL-0018,EMP-000737,Chennai,2026-08-12,Active
+EMP-000739,Bobby Ward,Data,ROL-0019,EMP-000737,Remote,2025-10-16,On Leave
+EMP-000740,Christopher Smith,Data,ROL-0020,EMP-000737,Bengaluru,2020-06-23,On Leave
+EMP-000741,Samuel Khan,Customer Support,ROL-0021,EMP-000737,Hyderabad,2024-11-11,Active
+EMP-000742,David Chavez,Customer Support,ROL-0022,EMP-000737,Chennai,2024-08-26,On Leave
+EMP-000743,Nicole Warren,Customer Support,ROL-0023,EMP-000737,Bengaluru,2020-02-16,Active
+EMP-000744,Douglas Banks,Customer Support,ROL-0024,,Pune,2021-05-28,Active
+EMP-000745,Stephanie Wright,Engineering,ROL-0025,,Hyderabad,2025-07-15,On Leave
+EMP-000746,Pamela Cox,Operations,ROL-0026,EMP-000745,Bengaluru,2020-11-03,Active
+EMP-000747,Amanda Kirk,Data,ROL-0027,EMP-000745,Pune,2021-07-25,Active
+EMP-000748,Scott Rodgers,Human Resources,ROL-0028,EMP-000745,Hyderabad,2022-10-09,Active
+EMP-000749,Jessica Curry,Product,ROL-0029,EMP-000745,Bengaluru,2021-06-01,Active
+EMP-000750,Brian Rowland,Customer Support,ROL-0030,EMP-000745,Hyderabad,2026-04-30,Active
+EMP-000751,Mary Davis,Product,ROL-0031,EMP-000745,Remote,2023-01-28,Active
+EMP-000752,Lonnie Boone,Data,ROL-0032,,Chennai,2025-10-17,Active
+EMP-000753,Lauren Gutierrez,Operations,ROL-0033,,Pune,2022-03-02,On Leave
+EMP-000754,Edwin Torres,Finance,ROL-0034,EMP-000753,Hyderabad,2020-05-14,On Leave
+EMP-000755,Madison Shields,Operations,ROL-0035,EMP-000753,Remote,2020-05-02,Active
+EMP-000756,Christopher Campbell,Human Resources,ROL-0036,EMP-000753,Pune,2021-10-02,On Leave
+EMP-000757,Marissa Evans,Finance,ROL-0037,EMP-000753,Pune,2026-08-18,Active
+EMP-000758,Casey Crosby,Product,ROL-0038,EMP-000753,Hyderabad,2020-05-16,Active
+EMP-000759,Meghan Shaw,Data,ROL-0039,EMP-000753,Remote,2024-12-25,Active
+EMP-000760,Laura Parker,Operations,ROL-0040,,Remote,2021-11-13,Active
+EMP-000761,David Fry,Human Resources,ROL-0041,,Hyderabad,2021-11-23,On Leave
+EMP-000762,Barry Cochran,Customer Support,ROL-0042,EMP-000761,Pune,2020-03-23,Active
+EMP-000763,Laura Gamble,Human Resources,ROL-0043,EMP-000761,Remote,2020-08-15,Active
+EMP-000764,Dr. Kathy Hendricks,Operations,ROL-0044,EMP-000761,Remote,2023-11-25,Active
+EMP-000765,Christine Hayes,Product,ROL-0045,EMP-000761,Remote,2026-06-14,Active
+EMP-000766,Timothy Powell,Operations,ROL-0046,EMP-000761,Hyderabad,2021-09-25,Active
+EMP-000767,Heather English,Human Resources,ROL-0047,EMP-000761,Pune,2026-04-15,On Leave
+EMP-000768,Kristine Hernandez DVM,Finance,ROL-0048,,Remote,2025-04-24,On Leave
+EMP-000769,Raymond Stewart,Engineering,ROL-0049,,Chennai,2024-06-02,On Leave
+EMP-000770,Christina Brown,Data,ROL-0050,EMP-000769,Bengaluru,2026-06-28,On Leave
+EMP-000771,Robert Johnson PhD,Operations,ROL-0051,EMP-000769,Hyderabad,2026-07-27,Active
+EMP-000772,Natalie Hoover,Human Resources,ROL-0052,EMP-000769,Pune,2022-06-24,Active
+EMP-000773,Erin Edwards,Product,ROL-0053,EMP-000769,Remote,2025-10-28,Active
+EMP-000774,Jennifer Best,Operations,ROL-0054,EMP-000769,Hyderabad,2026-05-04,Active
+EMP-000775,Steven Johnson,Operations,ROL-0055,EMP-000769,Bengaluru,2025-10-02,Active
+EMP-000776,Michael Soto,Data,ROL-0056,,Hyderabad,2021-02-24,On Leave
+EMP-000777,Tracy Jacobson,Human Resources,ROL-0057,,Pune,2021-02-22,On Leave
+EMP-000778,John Alvarado,Finance,ROL-0058,EMP-000777,Bengaluru,2023-11-08,Active
+EMP-000779,Daniel Bush,Human Resources,ROL-0059,EMP-000777,Bengaluru,2024-09-06,Active
+EMP-000780,James Miller,Customer Support,ROL-0060,EMP-000777,Remote,2022-02-11,On Leave
+EMP-000781,Jonathan Peters,Data,ROL-0061,EMP-000777,Bengaluru,2023-01-28,On Leave
+EMP-000782,Brittney Mullins,Human Resources,ROL-0062,EMP-000777,Pune,2021-10-06,Active
+EMP-000783,Darryl Lee,Customer Support,ROL-0063,EMP-000777,Hyderabad,2022-11-04,Active
+EMP-000784,Kari Mcguire,Data,ROL-0064,,Hyderabad,2022-10-04,Active
+EMP-000785,James Carter,Customer Support,ROL-0065,,Remote,2020-06-16,Active
+EMP-000786,Monica Santana,Customer Support,ROL-0066,EMP-000785,Pune,2021-10-20,Active
+EMP-000787,Brandon Moore,Human Resources,ROL-0067,EMP-000785,Hyderabad,2023-02-07,On Leave
+EMP-000788,Norma Pope,Product,ROL-0068,EMP-000785,Hyderabad,2024-04-29,On Leave
+EMP-000789,Michael Daniel,Finance,ROL-0069,EMP-000785,Bengaluru,2021-07-14,Active
+EMP-000790,Nicole Moore,Product,ROL-0070,EMP-000785,Chennai,2021-09-07,On Leave
+EMP-000791,Blake Price,Product,ROL-0071,EMP-000785,Bengaluru,2022-02-25,On Leave
+EMP-000792,Carl Martin,Customer Support,ROL-0072,,Remote,2022-11-09,Active
+EMP-000793,Barbara Garcia,Engineering,ROL-0073,,Bengaluru,2023-08-26,On Leave
+EMP-000794,Allison Butler,Engineering,ROL-0074,EMP-000793,Bengaluru,2026-05-30,Active
+EMP-000795,Anna Long,Human Resources,ROL-0075,EMP-000793,Chennai,2021-08-03,Active
+EMP-000796,John Freeman,Operations,ROL-0076,EMP-000793,Bengaluru,2021-10-09,Active
+EMP-000797,Anthony Soto,Product,ROL-0077,EMP-000793,Remote,2026-01-24,Active
+EMP-000798,Veronica Mann,Product,ROL-0078,EMP-000793,Pune,2021-12-20,Active
+EMP-000799,Edward Allen,Operations,ROL-0079,EMP-000793,Bengaluru,2026-07-07,Active
+EMP-000800,Shawn Zhang,Engineering,ROL-0080,,Remote,2020-01-18,On Leave
+EMP-000801,Jennifer Jensen,Finance,ROL-0001,,Hyderabad,2020-05-22,Active
+EMP-000802,Donna Poole,Operations,ROL-0002,EMP-000801,Hyderabad,2026-06-26,Active
+EMP-000803,Tracy Roberts,Operations,ROL-0003,EMP-000801,Pune,2023-01-01,Active
+EMP-000804,Kevin Rodriguez,Operations,ROL-0004,EMP-000801,Remote,2024-05-12,Active
+EMP-000805,Zachary Nash,Customer Support,ROL-0005,EMP-000801,Hyderabad,2024-01-31,On Leave
+EMP-000806,Brittany Wilson,Customer Support,ROL-0006,EMP-000801,Chennai,2025-05-08,Active
+EMP-000807,Rachel Williams,Data,ROL-0007,EMP-000801,Chennai,2020-12-08,On Leave
+EMP-000808,Linda Petty,Human Resources,ROL-0008,,Pune,2020-07-23,Active
+EMP-000809,Kimberly Gray,Finance,ROL-0009,,Remote,2023-07-18,Active
+EMP-000810,Susan Fernandez,Human Resources,ROL-0010,EMP-000809,Hyderabad,2024-10-08,Active
+EMP-000811,Javier Washington,Data,ROL-0011,EMP-000809,Hyderabad,2021-03-21,Active
+EMP-000812,Stephanie Cox,Finance,ROL-0012,EMP-000809,Remote,2022-08-11,Active
+EMP-000813,Susan Smith,Human Resources,ROL-0013,EMP-000809,Bengaluru,2026-07-10,Active
+EMP-000814,Ricky Lopez,Product,ROL-0014,EMP-000809,Remote,2026-03-08,Active
+EMP-000815,James Johnson,Finance,ROL-0015,EMP-000809,Bengaluru,2022-06-02,Active
+EMP-000816,Brenda Santos,Finance,ROL-0016,,Hyderabad,2022-07-27,Active
+EMP-000817,Michael Murphy,Engineering,ROL-0017,,Pune,2026-06-09,On Leave
+EMP-000818,Amanda Mcintyre,Finance,ROL-0018,EMP-000817,Remote,2022-03-24,Active
+EMP-000819,Michael Lewis,Data,ROL-0019,EMP-000817,Hyderabad,2021-03-03,On Leave
+EMP-000820,Devin Duran,Data,ROL-0020,EMP-000817,Hyderabad,2021-08-31,Active
+EMP-000821,Nancy Roberts,Customer Support,ROL-0021,EMP-000817,Remote,2020-06-03,On Leave
+EMP-000822,Eric Nguyen,Customer Support,ROL-0022,EMP-000817,Bengaluru,2024-09-25,Active
+EMP-000823,Mario Alexander,Customer Support,ROL-0023,EMP-000817,Hyderabad,2026-07-19,Active
+EMP-000824,Donald Carr,Customer Support,ROL-0024,,Chennai,2025-08-04,Active
+EMP-000825,Carolyn Stephens,Engineering,ROL-0025,,Pune,2020-06-02,On Leave
+EMP-000826,Michael Pham,Operations,ROL-0026,EMP-000825,Chennai,2025-07-01,Active
+EMP-000827,Michael Gonzalez,Data,ROL-0027,EMP-000825,Chennai,2020-06-09,On Leave
+EMP-000828,Sheryl Wiggins,Human Resources,ROL-0028,EMP-000825,Chennai,2026-08-28,Active
+EMP-000829,Jamie Adams,Product,ROL-0029,EMP-000825,Remote,2020-08-22,Active
+EMP-000830,Mrs. Jo Johnson,Customer Support,ROL-0030,EMP-000825,Bengaluru,2022-09-20,Active
+EMP-000831,Dana Powell,Product,ROL-0031,EMP-000825,Bengaluru,2023-06-12,Active
+EMP-000832,Virginia Scott,Data,ROL-0032,,Pune,2020-01-31,On Leave
+EMP-000833,Ashley Brock,Operations,ROL-0033,,Hyderabad,2024-07-07,Active
+EMP-000834,Ryan Tran,Finance,ROL-0034,EMP-000833,Remote,2023-02-06,On Leave
+EMP-000835,Ronald Molina,Operations,ROL-0035,EMP-000833,Bengaluru,2025-09-24,Active
+EMP-000836,Kathryn Ortega,Human Resources,ROL-0036,EMP-000833,Hyderabad,2020-08-02,Active
+EMP-000837,Stephen Bishop,Finance,ROL-0037,EMP-000833,Pune,2022-10-22,Active
+EMP-000838,Rachel Weber,Product,ROL-0038,EMP-000833,Hyderabad,2021-11-24,Active
+EMP-000839,Allison Nelson,Data,ROL-0039,EMP-000833,Pune,2024-02-16,Active
+EMP-000840,Emma Richards,Operations,ROL-0040,,Chennai,2024-06-02,Active
+EMP-000841,Robert Jackson,Human Resources,ROL-0041,,Hyderabad,2023-05-25,Active
+EMP-000842,Robert Patel,Customer Support,ROL-0042,EMP-000841,Chennai,2021-10-12,Active
+EMP-000843,Andrew Perry,Human Resources,ROL-0043,EMP-000841,Pune,2025-01-28,Active
+EMP-000844,Mrs. Kristin Davis DVM,Operations,ROL-0044,EMP-000841,Remote,2026-08-02,On Leave
+EMP-000845,Barbara Perkins,Product,ROL-0045,EMP-000841,Pune,2023-04-05,On Leave
+EMP-000846,Theresa Wilson,Operations,ROL-0046,EMP-000841,Pune,2023-05-06,Active
+EMP-000847,Thomas Smith,Human Resources,ROL-0047,EMP-000841,Remote,2022-05-10,Active
+EMP-000848,Jennifer Le,Finance,ROL-0048,,Chennai,2025-01-29,Active
+EMP-000849,Diane Holland,Engineering,ROL-0049,,Pune,2021-04-03,Active
+EMP-000850,Lori Murphy,Data,ROL-0050,EMP-000849,Pune,2026-04-03,On Leave
+EMP-000851,Robert Fuller,Operations,ROL-0051,EMP-000849,Chennai,2020-11-02,On Leave
+EMP-000852,Charlene Sullivan,Human Resources,ROL-0052,EMP-000849,Hyderabad,2024-06-01,Active
+EMP-000853,Ashley Zamora,Product,ROL-0053,EMP-000849,Chennai,2022-07-05,Active
+EMP-000854,Thomas Wallace,Operations,ROL-0054,EMP-000849,Remote,2024-11-25,On Leave
+EMP-000855,Joe Townsend,Operations,ROL-0055,EMP-000849,Pune,2026-09-09,Active
+EMP-000856,Laura White,Data,ROL-0056,,Bengaluru,2024-11-16,Active
+EMP-000857,Daniel Carpenter,Human Resources,ROL-0057,,Chennai,2020-03-02,Active
+EMP-000858,Justin Martinez,Finance,ROL-0058,EMP-000857,Chennai,2025-12-28,Active
+EMP-000859,Melanie Bell,Human Resources,ROL-0059,EMP-000857,Hyderabad,2022-10-01,On Leave
+EMP-000860,Tim Jarvis,Customer Support,ROL-0060,EMP-000857,Remote,2020-08-15,Active
+EMP-000861,James Pearson,Data,ROL-0061,EMP-000857,Hyderabad,2023-02-07,Active
+EMP-000862,Anthony Payne,Human Resources,ROL-0062,EMP-000857,Hyderabad,2023-11-13,Active
+EMP-000863,Christopher Washington,Customer Support,ROL-0063,EMP-000857,Chennai,2022-09-08,On Leave
+EMP-000864,Donald Humphrey,Data,ROL-0064,,Remote,2021-01-22,Active
+EMP-000865,Patricia Stone,Customer Support,ROL-0065,,Remote,2021-08-01,Active
+EMP-000866,Douglas Stanley,Customer Support,ROL-0066,EMP-000865,Pune,2020-05-13,Active
+EMP-000867,Stephanie Travis,Human Resources,ROL-0067,EMP-000865,Pune,2022-02-02,Active
+EMP-000868,Justin Hansen,Product,ROL-0068,EMP-000865,Remote,2021-06-19,Active
+EMP-000869,Patricia Spears,Finance,ROL-0069,EMP-000865,Chennai,2024-09-23,Active
+EMP-000870,Justin Russo,Product,ROL-0070,EMP-000865,Remote,2023-02-17,Active
+EMP-000871,Molly Hayes,Product,ROL-0071,EMP-000865,Hyderabad,2023-01-28,Active
+EMP-000872,Rebecca Curry,Customer Support,ROL-0072,,Remote,2026-02-19,On Leave
+EMP-000873,Ashley Weaver,Engineering,ROL-0073,,Bengaluru,2022-08-13,Active
+EMP-000874,Ryan Leon,Engineering,ROL-0074,EMP-000873,Hyderabad,2022-02-04,Active
+EMP-000875,Catherine Meyers,Human Resources,ROL-0075,EMP-000873,Chennai,2026-04-03,Active
+EMP-000876,Joseph Johnson,Operations,ROL-0076,EMP-000873,Remote,2026-05-20,Active
+EMP-000877,Thomas Vaughn,Product,ROL-0077,EMP-000873,Chennai,2022-04-03,Active
+EMP-000878,Ronald Sullivan,Product,ROL-0078,EMP-000873,Hyderabad,2021-01-03,Active
+EMP-000879,Christina Trevino,Operations,ROL-0079,EMP-000873,Remote,2023-05-08,Active
+EMP-000880,Anthony Bradshaw,Engineering,ROL-0080,,Remote,2024-01-15,Active
+EMP-000881,Michael Smith,Finance,ROL-0001,,Hyderabad,2021-07-18,Active
+EMP-000882,Catherine Patterson,Operations,ROL-0002,EMP-000881,Hyderabad,2021-11-10,Active
+EMP-000883,Nicole Green,Operations,ROL-0003,EMP-000881,Pune,2020-03-09,Active
+EMP-000884,Kaitlyn Thornton,Operations,ROL-0004,EMP-000881,Chennai,2025-01-05,On Leave
+EMP-000885,Patricia Hardy,Customer Support,ROL-0005,EMP-000881,Bengaluru,2021-08-08,Active
+EMP-000886,Brian Guerra,Customer Support,ROL-0006,EMP-000881,Hyderabad,2026-07-09,On Leave
+EMP-000887,Steven Weeks,Data,ROL-0007,EMP-000881,Hyderabad,2024-02-28,On Leave
+EMP-000888,Ernest Williams,Human Resources,ROL-0008,,Chennai,2021-12-18,Active
+EMP-000889,Evelyn Weiss MD,Finance,ROL-0009,,Pune,2023-06-03,Active
+EMP-000890,Susan Lewis,Human Resources,ROL-0010,EMP-000889,Pune,2026-06-18,Active
+EMP-000891,Dominique Ellis,Data,ROL-0011,EMP-000889,Pune,2022-11-02,Active
+EMP-000892,Brenda Duncan,Finance,ROL-0012,EMP-000889,Hyderabad,2025-11-02,Active
+EMP-000893,Brian Jones,Human Resources,ROL-0013,EMP-000889,Bengaluru,2022-07-02,Active
+EMP-000894,David Smith,Product,ROL-0014,EMP-000889,Bengaluru,2026-01-24,On Leave
+EMP-000895,Debra Mosley,Finance,ROL-0015,EMP-000889,Chennai,2020-07-18,Active
+EMP-000896,Michael Montoya,Finance,ROL-0016,,Remote,2024-01-20,On Leave
+EMP-000897,Christopher Evans,Engineering,ROL-0017,,Pune,2023-08-17,Active
+EMP-000898,Kevin King,Finance,ROL-0018,EMP-000897,Hyderabad,2026-01-11,Active
+EMP-000899,Randy Baker,Data,ROL-0019,EMP-000897,Hyderabad,2020-12-31,Active
+EMP-000900,Donna Rogers,Data,ROL-0020,EMP-000897,Hyderabad,2025-09-27,Active
+EMP-000901,Angela Hawkins,Customer Support,ROL-0021,EMP-000897,Hyderabad,2026-06-27,On Leave
+EMP-000902,Cassandra Conner,Customer Support,ROL-0022,EMP-000897,Chennai,2024-03-13,On Leave
+EMP-000903,Shawn Sanchez,Customer Support,ROL-0023,EMP-000897,Bengaluru,2022-11-28,On Leave
+EMP-000904,Joshua Maldonado,Customer Support,ROL-0024,,Remote,2021-03-26,Active
+EMP-000905,Jordan Henry,Engineering,ROL-0025,,Hyderabad,2026-01-16,Active
+EMP-000906,Heather Cruz,Operations,ROL-0026,EMP-000905,Chennai,2021-01-20,Active
+EMP-000907,Holly Jimenez,Data,ROL-0027,EMP-000905,Pune,2026-07-15,Active
+EMP-000908,Sarah Valenzuela,Human Resources,ROL-0028,EMP-000905,Remote,2023-03-16,Active
+EMP-000909,Troy Jones,Product,ROL-0029,EMP-000905,Hyderabad,2020-09-09,Active
+EMP-000910,Linda Black MD,Customer Support,ROL-0030,EMP-000905,Pune,2024-01-02,Active
+EMP-000911,Cathy Pennington,Product,ROL-0031,EMP-000905,Chennai,2025-06-25,Active
+EMP-000912,Christopher Rowe,Data,ROL-0032,,Bengaluru,2025-12-17,Active
+EMP-000913,Amanda Scott,Operations,ROL-0033,,Remote,2020-01-18,Active
+EMP-000914,Crystal Turner,Finance,ROL-0034,EMP-000913,Bengaluru,2024-07-20,Active
+EMP-000915,Martha Gibbs,Operations,ROL-0035,EMP-000913,Pune,2026-04-14,On Leave
+EMP-000916,Harold Perry,Human Resources,ROL-0036,EMP-000913,Pune,2020-03-18,Active
+EMP-000917,Zachary Ramirez,Finance,ROL-0037,EMP-000913,Bengaluru,2025-03-02,Active
+EMP-000918,Mr. Arthur Baker II,Product,ROL-0038,EMP-000913,Remote,2022-06-28,Active
+EMP-000919,Tanya Montgomery,Data,ROL-0039,EMP-000913,Hyderabad,2023-12-19,On Leave
+EMP-000920,Jennifer Levy,Operations,ROL-0040,,Remote,2026-05-18,Active
+EMP-000921,Joshua Rojas,Human Resources,ROL-0041,,Chennai,2024-12-10,On Leave
+EMP-000922,Jonathan Ross,Customer Support,ROL-0042,EMP-000921,Chennai,2025-11-28,Active
+EMP-000923,Carlos Gilmore,Human Resources,ROL-0043,EMP-000921,Hyderabad,2022-05-09,Active
+EMP-000924,Cynthia Drake,Operations,ROL-0044,EMP-000921,Chennai,2022-02-26,Active
+EMP-000925,Rebecca Burns,Product,ROL-0045,EMP-000921,Remote,2026-09-01,Active
+EMP-000926,Nicholas Schroeder,Operations,ROL-0046,EMP-000921,Bengaluru,2022-02-17,Active
+EMP-000927,Gabriella Mack,Human Resources,ROL-0047,EMP-000921,Chennai,2025-09-15,On Leave
+EMP-000928,Kerry Garcia,Finance,ROL-0048,,Bengaluru,2022-11-07,On Leave
+EMP-000929,Lisa Phillips,Engineering,ROL-0049,,Remote,2021-08-14,Active
+EMP-000930,Amber Evans,Data,ROL-0050,EMP-000929,Pune,2022-03-31,Active
+EMP-000931,Timothy Rivera,Operations,ROL-0051,EMP-000929,Remote,2020-12-05,Active
+EMP-000932,Eric Garrett,Human Resources,ROL-0052,EMP-000929,Bengaluru,2022-06-04,Active
+EMP-000933,David Briggs,Product,ROL-0053,EMP-000929,Bengaluru,2022-09-04,Active
+EMP-000934,Laura Ramos,Operations,ROL-0054,EMP-000929,Bengaluru,2024-06-13,Active
+EMP-000935,Joseph Rodriguez,Operations,ROL-0055,EMP-000929,Remote,2021-01-02,On Leave
+EMP-000936,Robert Griffin,Data,ROL-0056,,Chennai,2024-07-29,Active
+EMP-000937,Margaret Cook,Human Resources,ROL-0057,,Chennai,2023-11-08,Active
+EMP-000938,Alexis Gilbert,Finance,ROL-0058,EMP-000937,Remote,2021-10-10,Active
+EMP-000939,James Pacheco,Human Resources,ROL-0059,EMP-000937,Bengaluru,2021-09-30,Active
+EMP-000940,Lindsey Bradley,Customer Support,ROL-0060,EMP-000937,Pune,2026-03-01,On Leave
+EMP-000941,Pamela Montgomery,Data,ROL-0061,EMP-000937,Remote,2022-08-09,On Leave
+EMP-000942,Rose Newton,Human Resources,ROL-0062,EMP-000937,Remote,2023-09-26,On Leave
+EMP-000943,Brandi Zamora,Customer Support,ROL-0063,EMP-000937,Chennai,2022-10-16,On Leave
+EMP-000944,Sherri Long,Data,ROL-0064,,Chennai,2021-10-17,Active
+EMP-000945,Troy Brooks,Customer Support,ROL-0065,,Remote,2023-10-06,Active
+EMP-000946,Belinda Steele,Customer Support,ROL-0066,EMP-000945,Remote,2025-10-28,Active
+EMP-000947,William Glenn,Human Resources,ROL-0067,EMP-000945,Remote,2023-10-25,Active
+EMP-000948,Joshua Chan,Product,ROL-0068,EMP-000945,Remote,2024-10-11,Active
+EMP-000949,Cody Edwards,Finance,ROL-0069,EMP-000945,Chennai,2022-05-26,Active
+EMP-000950,Patrick Hamilton,Product,ROL-0070,EMP-000945,Pune,2021-04-15,Active
+EMP-000951,Jacob Curtis,Product,ROL-0071,EMP-000945,Pune,2020-10-15,Active
+EMP-000952,Kimberly Williams,Customer Support,ROL-0072,,Pune,2024-09-16,Active
+EMP-000953,Nicole Page,Engineering,ROL-0073,,Remote,2021-01-04,Active
+EMP-000954,Gregory Morris,Engineering,ROL-0074,EMP-000953,Chennai,2024-06-14,Active
+EMP-000955,Lonnie Jacobson,Human Resources,ROL-0075,EMP-000953,Remote,2026-01-08,Active
+EMP-000956,Ashley Williams,Operations,ROL-0076,EMP-000953,Chennai,2020-12-30,Active
+EMP-000957,Matthew Dean,Product,ROL-0077,EMP-000953,Hyderabad,2025-03-13,Active
+EMP-000958,Maria Wang,Product,ROL-0078,EMP-000953,Bengaluru,2021-02-05,Active
+EMP-000959,Karen Mcpherson,Operations,ROL-0079,EMP-000953,Pune,2025-05-14,Active
+EMP-000960,Douglas Jordan,Engineering,ROL-0080,,Remote,2021-11-02,Active
+EMP-000961,Rachel Hernandez,Finance,ROL-0001,,Pune,2021-08-25,On Leave
+EMP-000962,Melissa Weaver,Operations,ROL-0002,EMP-000961,Bengaluru,2021-12-15,Active
+EMP-000963,Stacy Garza,Operations,ROL-0003,EMP-000961,Pune,2020-06-28,Active
+EMP-000964,Mrs. Wendy Ward DVM,Operations,ROL-0004,EMP-000961,Remote,2026-04-26,Active
+EMP-000965,Amanda Mason,Customer Support,ROL-0005,EMP-000961,Bengaluru,2024-01-03,On Leave
+EMP-000966,Douglas Cooper,Customer Support,ROL-0006,EMP-000961,Chennai,2024-12-08,Active
+EMP-000967,Lauren Johnston,Data,ROL-0007,EMP-000961,Chennai,2022-05-12,Active
+EMP-000968,Katherine Cruz,Human Resources,ROL-0008,,Bengaluru,2024-09-14,Active
+EMP-000969,Rebecca Delgado,Finance,ROL-0009,,Chennai,2024-05-11,On Leave
+EMP-000970,Dustin Copeland,Human Resources,ROL-0010,EMP-000969,Chennai,2023-07-19,On Leave
+EMP-000971,Gary Kim,Data,ROL-0011,EMP-000969,Remote,2022-02-19,Active
+EMP-000972,Lisa Rodriguez,Finance,ROL-0012,EMP-000969,Chennai,2022-10-20,On Leave
+EMP-000973,Amy Bennett,Human Resources,ROL-0013,EMP-000969,Pune,2020-08-04,Active
+EMP-000974,Lisa Murray,Product,ROL-0014,EMP-000969,Remote,2024-12-03,Active
+EMP-000975,Julia Gomez,Finance,ROL-0015,EMP-000969,Hyderabad,2026-03-03,On Leave
+EMP-000976,Matthew Allen,Finance,ROL-0016,,Pune,2023-03-14,On Leave
+EMP-000977,Matthew Watson,Engineering,ROL-0017,,Bengaluru,2023-01-29,Active
+EMP-000978,Elizabeth Foley,Finance,ROL-0018,EMP-000977,Hyderabad,2025-09-03,On Leave
+EMP-000979,Kenneth Thomas,Data,ROL-0019,EMP-000977,Bengaluru,2020-09-12,Active
+EMP-000980,Chelsea Jones,Data,ROL-0020,EMP-000977,Pune,2023-04-08,Active
+EMP-000981,Scott Bauer,Customer Support,ROL-0021,EMP-000977,Hyderabad,2021-12-24,Active
+EMP-000982,Elizabeth Ray,Customer Support,ROL-0022,EMP-000977,Chennai,2023-01-19,Active
+EMP-000983,Brendan Thomas,Customer Support,ROL-0023,EMP-000977,Pune,2023-01-14,On Leave
+EMP-000984,Brandon Berger,Customer Support,ROL-0024,,Hyderabad,2025-09-08,Active
+EMP-000985,Cynthia Morris,Engineering,ROL-0025,,Chennai,2026-02-21,Active
+EMP-000986,Lori Sims,Operations,ROL-0026,EMP-000985,Pune,2021-04-12,Active
+EMP-000987,Ana Wood,Data,ROL-0027,EMP-000985,Remote,2025-04-14,Active
+EMP-000988,Sherry Davis,Human Resources,ROL-0028,EMP-000985,Chennai,2026-06-21,Active
+EMP-000989,Lydia Marshall,Product,ROL-0029,EMP-000985,Remote,2024-04-30,Active
+EMP-000990,Angela Henry,Customer Support,ROL-0030,EMP-000985,Chennai,2022-07-10,Active
+EMP-000991,Laura Aguilar,Product,ROL-0031,EMP-000985,Bengaluru,2021-01-30,Active
+EMP-000992,Christina Sullivan,Data,ROL-0032,,Hyderabad,2020-07-26,Active
+EMP-000993,Erica Jackson,Operations,ROL-0033,,Bengaluru,2020-06-30,Active
+EMP-000994,James Nolan,Finance,ROL-0034,EMP-000993,Bengaluru,2022-06-12,Active
+EMP-000995,Dakota Bowen,Operations,ROL-0035,EMP-000993,Remote,2025-12-11,Active
+EMP-000996,Christina Lewis,Human Resources,ROL-0036,EMP-000993,Remote,2022-02-25,On Leave
+EMP-000997,Jessica Nash,Finance,ROL-0037,EMP-000993,Hyderabad,2022-05-20,Active
+EMP-000998,Michael Bradley,Product,ROL-0038,EMP-000993,Bengaluru,2026-04-30,Active
+EMP-000999,Mr. Cory Ramirez,Data,ROL-0039,EMP-000993,Chennai,2024-08-19,Active
+EMP-001000,Vanessa Nguyen,Operations,ROL-0040,,Pune,2025-04-21,Active
+EMP-001001,Suchithra Sherla,Engineering,ROL-0017,,Remote,2026-11-10,Active
+EMP-001002,Divya,Human Resources,ROL-0008,,Hyderabad,2026-11-10,Active

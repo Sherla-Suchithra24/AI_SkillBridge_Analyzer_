@@ -1,0 +1,6 @@
+case_id,issue_type,record_id,ground_truth,expected_reason
+ANOM-001,recommendation_violates_prerequisite,ENR-EMP-000628-CRS-000949,REJECT_RECOMMENDATION,Required prerequisite is not completed
+ANOM-002,budget_exceeded,EMP-000628,BLOCK_OR_ESCALATE,Proposed course cost exceeds remaining department budget
+ANOM-003,completion_counted_twice,CMP-2026-000001,FLAG_DUPLICATE_COMPLETION,Duplicate completion event for same enrollment
+ANOM-004,gap_after_course_without_reassessment,EMP-000628,REASSESS_REQUIRED,Course completion exists but no post-course proficiency reassessment
+ANOM-005,course_unavailable_in_planning_period,CRS-001000,EXCLUDE_COURSE,Course status or availability window makes it unavailable

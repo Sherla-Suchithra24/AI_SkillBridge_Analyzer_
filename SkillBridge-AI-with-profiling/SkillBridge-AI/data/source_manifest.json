@@ -1,0 +1,19 @@
+{
+  "seed": 20261022,
+  "generated_on": "2026-11-10",
+  "tables": {
+    "Employee": 1000,
+    "Role": 80,
+    "Skill": 500,
+    "RoleSkillTarget": 640,
+    "EmployeeSkill": 11944,
+    "Course": 1000,
+    "CourseSkill": 1995,
+    "Prerequisite": 170,
+    "Enrollment": 5000,
+    "Completion": 2444,
+    "Budget": 7
+  },
+  "generator": "skillbridge.generator.generate_dataset",
+  "synthetic_only": true
+}

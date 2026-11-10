@@ -1,0 +1,1001 @@
+course_id,course_name,provider,duration_hours,cost,capacity,available_from,available_to,status
+CRS-000001,Foundations Leadership Course 0001,Tech Academy,4,0,37,2026-01-01,2027-12-31,Available
+CRS-000002,Workshop Project Management Course 0002,Tech Academy,16,2500,56,2026-01-01,2027-12-31,Available
+CRS-000003,Essentials CSS Course 0003,Internal Academy,8,6000,107,2026-01-01,2027-12-31,Available
+CRS-000004,Workshop Presentation Skills Course 0004,Internal Academy,32,0,13,2026-01-01,2027-12-31,Unavailable
+CRS-000005,Essentials Leadership Course 0005,SkillWorks,2,4000,31,2026-01-01,2027-12-31,Available
+CRS-000006,Applied Technical Writing Course 0006,Open Learning,24,1000,72,2026-01-01,2027-12-31,Available
+CRS-000007,Advanced Figma Course 0007,Tech Academy,24,500,104,2026-01-01,2027-12-31,Available
+CRS-000008,Foundations HTML Course 0008,Open Learning,6,6000,116,2026-01-01,2027-12-31,Available
+CRS-000009,Applied CSS Course 0009,Tech Academy,12,0,82,2026-01-01,2027-12-31,Unavailable
+CRS-000010,Bootcamp Financial Modeling Course 0010,Tech Academy,2,500,58,2026-01-01,2027-12-31,Available
+CRS-000011,Essentials Customer Service Course 0011,Tech Academy,4,500,109,2026-01-01,2027-12-31,Available
+CRS-000012,Foundations AWS Course 0012,Open Learning,6,2500,20,2026-01-01,2027-12-31,Available
+CRS-000013,Essentials Power BI Course 0013,Internal Academy,6,6000,54,2026-01-01,2027-12-31,Available
+CRS-000014,Applied UX Research Course 0014,Tech Academy,4,1000,22,2026-01-01,2027-12-31,Available
+CRS-000015,Professional Cybersecurity Course 0015,Open Learning,20,6000,87,2026-01-01,2027-12-31,Unavailable
+CRS-000016,Advanced Python Course 0016,Tech Academy,32,2500,114,2026-01-01,2027-12-31,Available
+CRS-000017,Professional Docker Course 0017,Tech Academy,2,2500,41,2026-01-01,2027-12-31,Available
+CRS-000018,Professional Agile Course 0018,Internal Academy,2,2500,66,2026-01-01,2027-12-31,Unavailable
+CRS-000019,Foundations Kubernetes Course 0019,Open Learning,16,1500,44,2026-01-01,2027-12-31,Unavailable
+CRS-000020,Advanced Python Course 0020,Open Learning,16,6000,36,2026-01-01,2027-12-31,Available
+CRS-000021,Foundations Git Course 0021,Tech Academy,2,0,31,2026-01-01,2027-12-31,Available
+CRS-000022,Applied HTML Course 0022,Internal Academy,12,500,83,2026-01-01,2027-12-31,Available
+CRS-000023,Professional Cybersecurity Course 0023,Internal Academy,12,1500,106,2026-01-01,2027-12-31,Unavailable
+CRS-000024,Advanced Stakeholder Management Course 0024,SkillWorks,4,2500,30,2026-01-01,2027-12-31,Unavailable
+CRS-000025,Professional Process Improvement Course 0025,Open Learning,4,500,56,2026-01-01,2027-12-31,Available
+CRS-000026,Advanced Figma Course 0026,Open Learning,6,2500,60,2026-01-01,2027-12-31,Available
+CRS-000027,Essentials Tableau Course 0027,Internal Academy,8,6000,11,2026-01-01,2027-12-31,Available
+CRS-000028,Bootcamp UX Research Course 0028,Internal Academy,20,1500,108,2026-01-01,2027-12-31,Available
+CRS-000029,Professional UI Design Course 0029,Tech Academy,4,500,46,2026-01-01,2027-12-31,Available
+CRS-000030,Professional Presentation Skills Course 0030,Open Learning,12,2500,37,2026-01-01,2027-12-31,Available
+CRS-000031,Essentials HTML Course 0031,SkillWorks,4,500,57,2026-01-01,2027-12-31,Available
+CRS-000032,Foundations UX Research Course 0032,Internal Academy,32,1500,17,2026-01-01,2027-12-31,Available
+CRS-000033,Professional Java Course 0033,Internal Academy,6,6000,107,2026-01-01,2027-12-31,Available
+CRS-000034,Foundations Data Analysis Course 0034,Internal Academy,4,0,25,2026-01-01,2027-12-31,Available
+CRS-000035,Essentials Python Course 0035,SkillWorks,24,500,104,2026-01-01,2027-12-31,Unavailable
+CRS-000036,Essentials UX Research Course 0036,Tech Academy,4,500,44,2026-01-01,2027-12-31,Unavailable
+CRS-000037,Professional Docker Course 0037,Open Learning,2,6000,74,2026-01-01,2027-12-31,Available
+CRS-000038,Workshop Stakeholder Management Course 0038,Tech Academy,4,500,88,2026-01-01,2027-12-31,Available
+CRS-000039,Applied Azure Course 0039,Internal Academy,12,1500,34,2026-01-01,2027-12-31,Unavailable
+CRS-000040,Essentials Azure Course 0040,Open Learning,12,1500,17,2026-01-01,2027-12-31,Available
+CRS-000041,Bootcamp Machine Learning Course 0041,Internal Academy,24,4000,108,2026-01-01,2027-12-31,Available
+CRS-000042,Essentials Process Improvement Course 0042,SkillWorks,24,500,101,2026-01-01,2027-12-31,Available
+CRS-000043,Essentials HTML Course 0043,Open Learning,24,4000,21,2026-01-01,2027-12-31,Available
+CRS-000044,Essentials Java Course 0044,Open Learning,16,0,44,2026-01-01,2027-12-31,Available
+CRS-000045,Foundations Agile Course 0045,SkillWorks,6,4000,80,2026-01-01,2027-12-31,Available
+CRS-000046,Advanced Problem Solving Course 0046,Internal Academy,8,6000,83,2026-01-01,2027-12-31,Available
+CRS-000047,Professional SQL Course 0047,Open Learning,32,2500,98,2026-01-01,2027-12-31,Unavailable
+CRS-000048,Advanced Python Course 0048,Open Learning,2,2500,49,2026-01-01,2027-12-31,Unavailable
+CRS-000049,Professional Cybersecurity Course 0049,Internal Academy,16,0,23,2026-01-01,2027-12-31,Available
+CRS-000050,Workshop Financial Modeling Course 0050,SkillWorks,24,6000,81,2026-01-01,2027-12-31,Unavailable
+CRS-000051,Workshop UI Design Course 0051,Open Learning,24,2500,27,2026-01-01,2027-12-31,Available
+CRS-000052,Bootcamp Stakeholder Management Course 0052,Tech Academy,12,4000,77,2026-01-01,2027-12-31,Available
+CRS-000053,Foundations Tableau Course 0053,Open Learning,24,1500,38,2026-01-01,2027-12-31,Available
+CRS-000054,Foundations Python Course 0054,Open Learning,32,500,11,2026-01-01,2027-12-31,Available
+CRS-000055,Professional Stakeholder Management Course 0055,Tech Academy,24,4000,10,2026-01-01,2027-12-31,Available
+CRS-000056,Workshop SQL Course 0056,SkillWorks,20,4000,95,2026-01-01,2027-12-31,Available
+CRS-000057,Bootcamp Azure Course 0057,Tech Academy,24,1000,21,2026-01-01,2027-12-31,Available
+CRS-000058,Foundations Azure Course 0058,Open Learning,4,6000,81,2026-01-01,2027-12-31,Available
+CRS-000059,Applied Figma Course 0059,Tech Academy,32,2500,109,2026-01-01,2027-12-31,Unavailable
+CRS-000060,Bootcamp Data Analysis Course 0060,Tech Academy,4,2500,94,2026-01-01,2027-12-31,Available
+CRS-000061,Applied CSS Course 0061,Open Learning,8,4000,93,2026-01-01,2027-12-31,Available
+CRS-000062,Professional JavaScript Course 0062,Internal Academy,12,4000,103,2026-01-01,2027-12-31,Available
+CRS-000063,Professional UX Research Course 0063,Open Learning,16,1500,112,2026-01-01,2027-12-31,Available
+CRS-000064,Workshop Financial Modeling Course 0064,Tech Academy,4,500,19,2026-01-01,2027-12-31,Available
+CRS-000065,Essentials Presentation Skills Course 0065,Tech Academy,16,1000,107,2026-01-01,2027-12-31,Available
+CRS-000066,Bootcamp Stakeholder Management Course 0066,Internal Academy,2,2500,37,2026-01-01,2027-12-31,Available
+CRS-000067,Applied Leadership Course 0067,Tech Academy,32,0,92,2026-01-01,2027-12-31,Available
+CRS-000068,Professional AWS Course 0068,Internal Academy,12,500,111,2026-01-01,2027-12-31,Available
+CRS-000069,Bootcamp AWS Course 0069,SkillWorks,12,2500,73,2026-01-01,2027-12-31,Unavailable
+CRS-000070,Foundations Tableau Course 0070,Internal Academy,4,1500,112,2026-01-01,2027-12-31,Available
+CRS-000071,Foundations CSS Course 0071,Open Learning,20,500,41,2026-01-01,2027-12-31,Unavailable
+CRS-000072,Workshop Technical Writing Course 0072,Internal Academy,6,500,61,2026-01-01,2027-12-31,Available
+CRS-000073,Applied Tableau Course 0073,Tech Academy,12,0,70,2026-01-01,2027-12-31,Unavailable
+CRS-000074,Bootcamp CSS Course 0074,SkillWorks,4,0,34,2026-01-01,2027-12-31,Unavailable
+CRS-000075,Essentials Customer Service Course 0075,SkillWorks,16,0,94,2026-01-01,2027-12-31,Available
+CRS-000076,Essentials Agile Course 0076,Internal Academy,12,1000,64,2026-01-01,2027-12-31,Unavailable
+CRS-000077,Essentials Excel Course 0077,Tech Academy,16,4000,97,2026-01-01,2027-12-31,Available
+CRS-000078,Professional Java Course 0078,Internal Academy,16,1500,77,2026-01-01,2027-12-31,Available
+CRS-000079,Applied Python Course 0079,Open Learning,12,500,101,2026-01-01,2027-12-31,Unavailable
+CRS-000080,Workshop Agile Course 0080,Internal Academy,8,0,113,2026-01-01,2027-12-31,Available
+CRS-000081,Advanced Figma Course 0081,Open Learning,16,1500,23,2026-01-01,2027-12-31,Unavailable
+CRS-000082,Foundations Machine Learning Course 0082,SkillWorks,16,1500,67,2026-01-01,2027-12-31,Available
+CRS-000083,Foundations Problem Solving Course 0083,SkillWorks,4,6000,75,2026-01-01,2027-12-31,Available
+CRS-000084,Bootcamp Tableau Course 0084,Tech Academy,12,500,61,2026-01-01,2027-12-31,Unavailable
+CRS-000085,Foundations Machine Learning Course 0085,SkillWorks,16,2500,53,2026-01-01,2027-12-31,Available
+CRS-000086,Professional UX Research Course 0086,Open Learning,20,1000,79,2026-01-01,2027-12-31,Available
+CRS-000087,Advanced Java Course 0087,SkillWorks,20,6000,60,2026-01-01,2027-12-31,Unavailable
+CRS-000088,Professional UI Design Course 0088,SkillWorks,4,2500,71,2026-01-01,2027-12-31,Available
+CRS-000089,Bootcamp Stakeholder Management Course 0089,Internal Academy,6,2500,45,2026-01-01,2027-12-31,Available
+CRS-000090,Foundations Agile Course 0090,Open Learning,8,500,79,2026-01-01,2027-12-31,Unavailable
+CRS-000091,Advanced Azure Course 0091,Open Learning,12,1500,78,2026-01-01,2027-12-31,Available
+CRS-000092,Advanced Financial Modeling Course 0092,Internal Academy,4,6000,109,2026-01-01,2027-12-31,Available
+CRS-000093,Workshop SQL Course 0093,Open Learning,8,1500,42,2026-01-01,2027-12-31,Available
+CRS-000094,Bootcamp Project Management Course 0094,Internal Academy,24,500,67,2026-01-01,2027-12-31,Available
+CRS-000095,Applied Problem Solving Course 0095,SkillWorks,20,500,103,2026-01-01,2027-12-31,Unavailable
+CRS-000096,Workshop Docker Course 0096,Tech Academy,20,2500,95,2026-01-01,2027-12-31,Available
+CRS-000097,Bootcamp Java Course 0097,Open Learning,2,4000,83,2026-01-01,2027-12-31,Available
+CRS-000098,Workshop Tableau Course 0098,Tech Academy,4,1000,47,2026-01-01,2027-12-31,Available
+CRS-000099,Bootcamp Agile Course 0099,Open Learning,8,500,52,2026-01-01,2027-12-31,Available
+CRS-000100,Bootcamp Process Improvement Course 0100,Tech Academy,20,0,80,2026-01-01,2027-12-31,Available
+CRS-000101,Workshop SQL Course 0101,Internal Academy,24,1000,20,2026-01-01,2027-12-31,Unavailable
+CRS-000102,Professional HTML Course 0102,Tech Academy,16,2500,71,2026-01-01,2027-12-31,Available
+CRS-000103,Essentials CSS Course 0103,Open Learning,4,1000,114,2026-01-01,2027-12-31,Available
+CRS-000104,Essentials Java Course 0104,Internal Academy,2,6000,46,2026-01-01,2027-12-31,Available
+CRS-000105,Bootcamp Kubernetes Course 0105,SkillWorks,16,1500,52,2026-01-01,2027-12-31,Available
+CRS-000106,Advanced Excel Course 0106,Open Learning,8,6000,36,2026-01-01,2027-12-31,Unavailable
+CRS-000107,Applied Customer Service Course 0107,Tech Academy,20,2500,29,2026-01-01,2027-12-31,Available
+CRS-000108,Advanced HTML Course 0108,Tech Academy,24,1500,94,2026-01-01,2027-12-31,Available
+CRS-000109,Advanced Agile Course 0109,SkillWorks,2,2500,24,2026-01-01,2027-12-31,Available
+CRS-000110,Foundations Process Improvement Course 0110,Open Learning,32,500,56,2026-01-01,2027-12-31,Available
+CRS-000111,Applied Azure Course 0111,SkillWorks,16,2500,107,2026-01-01,2027-12-31,Available
+CRS-000112,Professional Kubernetes Course 0112,SkillWorks,12,500,93,2026-01-01,2027-12-31,Available
+CRS-000113,Foundations UI Design Course 0113,SkillWorks,24,4000,82,2026-01-01,2027-12-31,Available
+CRS-000114,Foundations Process Improvement Course 0114,Tech Academy,24,4000,101,2026-01-01,2027-12-31,Unavailable
+CRS-000115,Bootcamp AWS Course 0115,Tech Academy,6,500,102,2026-01-01,2027-12-31,Available
+CRS-000116,Foundations Python Course 0116,Open Learning,20,1000,78,2026-01-01,2027-12-31,Unavailable
+CRS-000117,Bootcamp Figma Course 0117,Internal Academy,20,4000,26,2026-01-01,2027-12-31,Unavailable
+CRS-000118,Professional Data Analysis Course 0118,Internal Academy,24,2500,52,2026-01-01,2027-12-31,Available
+CRS-000119,Workshop Power BI Course 0119,Tech Academy,32,1500,37,2026-01-01,2027-12-31,Unavailable
+CRS-000120,Essentials Java Course 0120,SkillWorks,6,1500,103,2026-01-01,2027-12-31,Available
+CRS-000121,Bootcamp AWS Course 0121,Internal Academy,20,0,78,2026-01-01,2027-12-31,Available
+CRS-000122,Applied Power BI Course 0122,Open Learning,32,1000,19,2026-01-01,2027-12-31,Available
+CRS-000123,Applied UX Research Course 0123,Internal Academy,24,1500,12,2026-01-01,2027-12-31,Available
+CRS-000124,Bootcamp Customer Service Course 0124,SkillWorks,12,6000,35,2026-01-01,2027-12-31,Unavailable
+CRS-000125,Professional JavaScript Course 0125,Tech Academy,12,1500,54,2026-01-01,2027-12-31,Available
+CRS-000126,Bootcamp Cloud Fundamentals Course 0126,Tech Academy,2,1000,63,2026-01-01,2027-12-31,Available
+CRS-000127,Advanced Java Course 0127,Internal Academy,2,6000,108,2026-01-01,2027-12-31,Available
+CRS-000128,Essentials Process Improvement Course 0128,Tech Academy,2,0,106,2026-01-01,2027-12-31,Unavailable
+CRS-000129,Advanced Stakeholder Management Course 0129,Tech Academy,20,0,67,2026-01-01,2027-12-31,Unavailable
+CRS-000130,Essentials Financial Modeling Course 0130,Tech Academy,6,6000,41,2026-01-01,2027-12-31,Available
+CRS-000131,Advanced Financial Modeling Course 0131,SkillWorks,32,6000,116,2026-01-01,2027-12-31,Available
+CRS-000132,Professional Problem Solving Course 0132,SkillWorks,6,6000,80,2026-01-01,2027-12-31,Available
+CRS-000133,Workshop Agile Course 0133,Internal Academy,12,2500,70,2026-01-01,2027-12-31,Available
+CRS-000134,Applied Financial Modeling Course 0134,Open Learning,2,500,108,2026-01-01,2027-12-31,Available
+CRS-000135,Foundations AWS Course 0135,Tech Academy,16,6000,67,2026-01-01,2027-12-31,Available
+CRS-000136,Applied AWS Course 0136,Internal Academy,20,4000,59,2026-01-01,2027-12-31,Unavailable
+CRS-000137,Bootcamp JavaScript Course 0137,Internal Academy,4,1500,15,2026-01-01,2027-12-31,Available
+CRS-000138,Workshop UX Research Course 0138,SkillWorks,8,6000,105,2026-01-01,2027-12-31,Available
+CRS-000139,Bootcamp Figma Course 0139,Tech Academy,20,6000,91,2026-01-01,2027-12-31,Available
+CRS-000140,Workshop Stakeholder Management Course 0140,Internal Academy,6,6000,111,2026-01-01,2027-12-31,Available
+CRS-000141,Applied React Course 0141,Open Learning,6,2500,60,2026-01-01,2027-12-31,Unavailable
+CRS-000142,Advanced Cybersecurity Course 0142,Tech Academy,2,500,91,2026-01-01,2027-12-31,Available
+CRS-000143,Applied Technical Writing Course 0143,Tech Academy,6,1500,80,2026-01-01,2027-12-31,Unavailable
+CRS-000144,Professional JavaScript Course 0144,Open Learning,8,1000,100,2026-01-01,2027-12-31,Unavailable
+CRS-000145,Bootcamp CSS Course 0145,Tech Academy,6,6000,78,2026-01-01,2027-12-31,Available
+CRS-000146,Professional Excel Course 0146,SkillWorks,16,2500,32,2026-01-01,2027-12-31,Available
+CRS-000147,Professional Excel Course 0147,Internal Academy,6,500,62,2026-01-01,2027-12-31,Available
+CRS-000148,Advanced AWS Course 0148,SkillWorks,12,4000,16,2026-01-01,2027-12-31,Available
+CRS-000149,Professional Data Analysis Course 0149,Internal Academy,24,1500,47,2026-01-01,2027-12-31,Available
+CRS-000150,Workshop Python Course 0150,Open Learning,4,2500,33,2026-01-01,2027-12-31,Available
+CRS-000151,Foundations Git Course 0151,Tech Academy,2,1000,56,2026-01-01,2027-12-31,Available
+CRS-000152,Foundations UX Research Course 0152,Tech Academy,16,2500,31,2026-01-01,2027-12-31,Available
+CRS-000153,Workshop Presentation Skills Course 0153,Tech Academy,16,1000,18,2026-01-01,2027-12-31,Available
+CRS-000154,Essentials Power BI Course 0154,Internal Academy,8,6000,105,2026-01-01,2027-12-31,Unavailable
+CRS-000155,Bootcamp React Course 0155,Tech Academy,16,1500,22,2026-01-01,2027-12-31,Available
+CRS-000156,Bootcamp Kubernetes Course 0156,Internal Academy,6,500,94,2026-01-01,2027-12-31,Available
+CRS-000157,Professional Machine Learning Course 0157,Internal Academy,6,0,67,2026-01-01,2027-12-31,Unavailable
+CRS-000158,Bootcamp Data Analysis Course 0158,SkillWorks,4,0,116,2026-01-01,2027-12-31,Available
+CRS-000159,Bootcamp Excel Course 0159,SkillWorks,20,0,31,2026-01-01,2027-12-31,Available
+CRS-000160,Essentials Project Management Course 0160,Open Learning,6,500,87,2026-01-01,2027-12-31,Unavailable
+CRS-000161,Professional Stakeholder Management Course 0161,Open Learning,24,1000,44,2026-01-01,2027-12-31,Available
+CRS-000162,Workshop Leadership Course 0162,Open Learning,12,6000,25,2026-01-01,2027-12-31,Unavailable
+CRS-000163,Applied Presentation Skills Course 0163,Tech Academy,16,500,74,2026-01-01,2027-12-31,Available
+CRS-000164,Workshop Problem Solving Course 0164,Internal Academy,2,1500,41,2026-01-01,2027-12-31,Available
+CRS-000165,Professional CSS Course 0165,Internal Academy,6,0,84,2026-01-01,2027-12-31,Available
+CRS-000166,Workshop Communication Course 0166,SkillWorks,2,6000,16,2026-01-01,2027-12-31,Available
+CRS-000167,Applied Docker Course 0167,Internal Academy,2,4000,106,2026-01-01,2027-12-31,Available
+CRS-000168,Advanced Technical Writing Course 0168,Open Learning,4,1000,15,2026-01-01,2027-12-31,Available
+CRS-000169,Professional Python Course 0169,Internal Academy,12,0,30,2026-01-01,2027-12-31,Available
+CRS-000170,Bootcamp Process Improvement Course 0170,Internal Academy,4,6000,41,2026-01-01,2027-12-31,Unavailable
+CRS-000171,Bootcamp Power BI Course 0171,Internal Academy,2,1000,60,2026-01-01,2027-12-31,Unavailable
+CRS-000172,Foundations UI Design Course 0172,Tech Academy,16,4000,110,2026-01-01,2027-12-31,Available
+CRS-000173,Bootcamp Project Management Course 0173,Open Learning,12,0,11,2026-01-01,2027-12-31,Available
+CRS-000174,Essentials AWS Course 0174,SkillWorks,16,1000,71,2026-01-01,2027-12-31,Available
+CRS-000175,Workshop Statistics Course 0175,SkillWorks,8,6000,10,2026-01-01,2027-12-31,Available
+CRS-000176,Professional Financial Modeling Course 0176,Open Learning,32,0,10,2026-01-01,2027-12-31,Unavailable
+CRS-000177,Essentials UI Design Course 0177,Tech Academy,20,6000,107,2026-01-01,2027-12-31,Available
+CRS-000178,Advanced Financial Modeling Course 0178,Open Learning,32,500,38,2026-01-01,2027-12-31,Available
+CRS-000179,Workshop Python Course 0179,Open Learning,24,2500,104,2026-01-01,2027-12-31,Available
+CRS-000180,Bootcamp Process Improvement Course 0180,Open Learning,2,500,108,2026-01-01,2027-12-31,Unavailable
+CRS-000181,Professional Tableau Course 0181,Internal Academy,8,1000,54,2026-01-01,2027-12-31,Available
+CRS-000182,Applied Cloud Fundamentals Course 0182,SkillWorks,20,1000,11,2026-01-01,2027-12-31,Unavailable
+CRS-000183,Advanced Technical Writing Course 0183,SkillWorks,12,4000,71,2026-01-01,2027-12-31,Available
+CRS-000184,Advanced Tableau Course 0184,SkillWorks,6,1000,29,2026-01-01,2027-12-31,Unavailable
+CRS-000185,Essentials Customer Service Course 0185,Tech Academy,8,2500,27,2026-01-01,2027-12-31,Available
+CRS-000186,Essentials Cloud Fundamentals Course 0186,Open Learning,8,1500,23,2026-01-01,2027-12-31,Available
+CRS-000187,Applied UX Research Course 0187,Internal Academy,2,0,84,2026-01-01,2027-12-31,Unavailable
+CRS-000188,Foundations Process Improvement Course 0188,Internal Academy,6,1500,115,2026-01-01,2027-12-31,Available
+CRS-000189,Foundations Presentation Skills Course 0189,Open Learning,2,500,120,2026-01-01,2027-12-31,Unavailable
+CRS-000190,Bootcamp Git Course 0190,Open Learning,32,4000,95,2026-01-01,2027-12-31,Available
+CRS-000191,Workshop Git Course 0191,Open Learning,2,1500,94,2026-01-01,2027-12-31,Unavailable
+CRS-000192,Advanced Leadership Course 0192,Tech Academy,16,1000,115,2026-01-01,2027-12-31,Available
+CRS-000193,Workshop AWS Course 0193,Open Learning,16,1500,74,2026-01-01,2027-12-31,Available
+CRS-000194,Professional Communication Course 0194,Internal Academy,8,6000,68,2026-01-01,2027-12-31,Available
+CRS-000195,Essentials Excel Course 0195,Open Learning,8,1000,120,2026-01-01,2027-12-31,Available
+CRS-000196,Professional Excel Course 0196,Internal Academy,16,1500,109,2026-01-01,2027-12-31,Unavailable
+CRS-000197,Bootcamp Process Improvement Course 0197,SkillWorks,12,2500,16,2026-01-01,2027-12-31,Available
+CRS-000198,Foundations Docker Course 0198,Tech Academy,12,2500,81,2026-01-01,2027-12-31,Available
+CRS-000199,Professional Kubernetes Course 0199,Open Learning,8,4000,110,2026-01-01,2027-12-31,Unavailable
+CRS-000200,Essentials Project Management Course 0200,SkillWorks,8,1000,50,2026-01-01,2027-12-31,Unavailable
+CRS-000201,Workshop React Course 0201,SkillWorks,6,4000,115,2026-01-01,2027-12-31,Available
+CRS-000202,Workshop Agile Course 0202,Tech Academy,2,0,89,2026-01-01,2027-12-31,Unavailable
+CRS-000203,Essentials Azure Course 0203,Open Learning,16,6000,65,2026-01-01,2027-12-31,Available
+CRS-000204,Applied HTML Course 0204,Internal Academy,24,1000,24,2026-01-01,2027-12-31,Unavailable
+CRS-000205,Workshop UI Design Course 0205,Internal Academy,12,4000,10,2026-01-01,2027-12-31,Available
+CRS-000206,Advanced Project Management Course 0206,Internal Academy,6,1000,111,2026-01-01,2027-12-31,Unavailable
+CRS-000207,Advanced Process Improvement Course 0207,SkillWorks,4,0,33,2026-01-01,2027-12-31,Available
+CRS-000208,Workshop UI Design Course 0208,SkillWorks,20,4000,75,2026-01-01,2027-12-31,Available
+CRS-000209,Advanced Machine Learning Course 0209,Internal Academy,32,4000,84,2026-01-01,2027-12-31,Available
+CRS-000210,Essentials AWS Course 0210,Internal Academy,24,6000,90,2026-01-01,2027-12-31,Available
+CRS-000211,Professional Presentation Skills Course 0211,Internal Academy,24,1000,14,2026-01-01,2027-12-31,Available
+CRS-000212,Foundations React Course 0212,Tech Academy,8,0,40,2026-01-01,2027-12-31,Available
+CRS-000213,Foundations Financial Modeling Course 0213,Open Learning,12,2500,11,2026-01-01,2027-12-31,Available
+CRS-000214,Bootcamp Agile Course 0214,SkillWorks,8,1500,62,2026-01-01,2027-12-31,Unavailable
+CRS-000215,Foundations Presentation Skills Course 0215,Internal Academy,4,1000,76,2026-01-01,2027-12-31,Available
+CRS-000216,Essentials Communication Course 0216,SkillWorks,20,6000,115,2026-01-01,2027-12-31,Available
+CRS-000217,Applied Customer Service Course 0217,SkillWorks,20,1000,78,2026-01-01,2027-12-31,Available
+CRS-000218,Workshop Project Management Course 0218,Open Learning,16,2500,68,2026-01-01,2027-12-31,Available
+CRS-000219,Advanced CSS Course 0219,SkillWorks,12,500,119,2026-01-01,2027-12-31,Available
+CRS-000220,Professional Azure Course 0220,SkillWorks,32,1000,52,2026-01-01,2027-12-31,Unavailable
+CRS-000221,Advanced Power BI Course 0221,Tech Academy,32,500,65,2026-01-01,2027-12-31,Available
+CRS-000222,Bootcamp UI Design Course 0222,Open Learning,32,500,53,2026-01-01,2027-12-31,Available
+CRS-000223,Professional Tableau Course 0223,SkillWorks,12,4000,80,2026-01-01,2027-12-31,Available
+CRS-000224,Essentials Java Course 0224,Tech Academy,16,500,10,2026-01-01,2027-12-31,Available
+CRS-000225,Applied Cybersecurity Course 0225,Tech Academy,12,500,50,2026-01-01,2027-12-31,Available
+CRS-000226,Workshop Docker Course 0226,Internal Academy,24,6000,14,2026-01-01,2027-12-31,Available
+CRS-000227,Essentials Java Course 0227,Tech Academy,12,4000,70,2026-01-01,2027-12-31,Unavailable
+CRS-000228,Advanced Excel Course 0228,SkillWorks,6,0,75,2026-01-01,2027-12-31,Available
+CRS-000229,Bootcamp Git Course 0229,Internal Academy,24,500,120,2026-01-01,2027-12-31,Available
+CRS-000230,Bootcamp Cybersecurity Course 0230,Open Learning,8,500,47,2026-01-01,2027-12-31,Available
+CRS-000231,Applied Problem Solving Course 0231,SkillWorks,4,6000,81,2026-01-01,2027-12-31,Available
+CRS-000232,Essentials React Course 0232,Open Learning,16,500,53,2026-01-01,2027-12-31,Available
+CRS-000233,Essentials UX Research Course 0233,SkillWorks,20,1000,13,2026-01-01,2027-12-31,Available
+CRS-000234,Foundations Problem Solving Course 0234,Tech Academy,6,500,102,2026-01-01,2027-12-31,Available
+CRS-000235,Essentials Power BI Course 0235,Open Learning,8,1000,116,2026-01-01,2027-12-31,Unavailable
+CRS-000236,Professional Excel Course 0236,Tech Academy,2,6000,114,2026-01-01,2027-12-31,Available
+CRS-000237,Foundations Financial Modeling Course 0237,Internal Academy,32,1500,87,2026-01-01,2027-12-31,Unavailable
+CRS-000238,Professional Power BI Course 0238,SkillWorks,12,4000,112,2026-01-01,2027-12-31,Unavailable
+CRS-000239,Bootcamp Kubernetes Course 0239,Open Learning,24,1000,17,2026-01-01,2027-12-31,Available
+CRS-000240,Workshop Stakeholder Management Course 0240,Internal Academy,2,1000,69,2026-01-01,2027-12-31,Available
+CRS-000241,Applied Java Course 0241,Tech Academy,2,1500,88,2026-01-01,2027-12-31,Available
+CRS-000242,Advanced JavaScript Course 0242,Internal Academy,8,0,78,2026-01-01,2027-12-31,Available
+CRS-000243,Essentials Statistics Course 0243,Open Learning,16,2500,75,2026-01-01,2027-12-31,Unavailable
+CRS-000244,Professional Statistics Course 0244,Tech Academy,2,500,55,2026-01-01,2027-12-31,Unavailable
+CRS-000245,Foundations Azure Course 0245,SkillWorks,8,1500,86,2026-01-01,2027-12-31,Unavailable
+CRS-000246,Professional Cybersecurity Course 0246,Internal Academy,24,4000,70,2026-01-01,2027-12-31,Available
+CRS-000247,Foundations Figma Course 0247,Open Learning,24,1500,86,2026-01-01,2027-12-31,Available
+CRS-000248,Essentials Cybersecurity Course 0248,SkillWorks,12,6000,100,2026-01-01,2027-12-31,Available
+CRS-000249,Professional Machine Learning Course 0249,Open Learning,12,2500,99,2026-01-01,2027-12-31,Available
+CRS-000250,Applied Figma Course 0250,Internal Academy,8,1500,60,2026-01-01,2027-12-31,Unavailable
+CRS-000251,Professional Python Course 0251,Open Learning,24,1000,115,2026-01-01,2027-12-31,Available
+CRS-000252,Bootcamp UI Design Course 0252,SkillWorks,24,0,38,2026-01-01,2027-12-31,Unavailable
+CRS-000253,Workshop React Course 0253,Internal Academy,20,2500,52,2026-01-01,2027-12-31,Unavailable
+CRS-000254,Bootcamp Python Course 0254,Tech Academy,16,1000,34,2026-01-01,2027-12-31,Unavailable
+CRS-000255,Essentials Data Analysis Course 0255,Internal Academy,8,1500,39,2026-01-01,2027-12-31,Unavailable
+CRS-000256,Workshop Figma Course 0256,SkillWorks,24,6000,61,2026-01-01,2027-12-31,Available
+CRS-000257,Foundations Python Course 0257,SkillWorks,6,6000,86,2026-01-01,2027-12-31,Available
+CRS-000258,Professional Customer Service Course 0258,Internal Academy,4,4000,115,2026-01-01,2027-12-31,Available
+CRS-000259,Applied AWS Course 0259,Internal Academy,16,1500,37,2026-01-01,2027-12-31,Available
+CRS-000260,Workshop Kubernetes Course 0260,SkillWorks,16,2500,111,2026-01-01,2027-12-31,Available
+CRS-000261,Bootcamp Technical Writing Course 0261,SkillWorks,4,1500,32,2026-01-01,2027-12-31,Unavailable
+CRS-000262,Foundations Technical Writing Course 0262,SkillWorks,32,500,55,2026-01-01,2027-12-31,Available
+CRS-000263,Foundations Power BI Course 0263,Open Learning,6,1500,46,2026-01-01,2027-12-31,Available
+CRS-000264,Bootcamp Cloud Fundamentals Course 0264,SkillWorks,12,4000,47,2026-01-01,2027-12-31,Unavailable
+CRS-000265,Applied Communication Course 0265,Open Learning,4,2500,58,2026-01-01,2027-12-31,Available
+CRS-000266,Essentials Problem Solving Course 0266,SkillWorks,4,0,114,2026-01-01,2027-12-31,Available
+CRS-000267,Essentials Agile Course 0267,Tech Academy,2,1500,104,2026-01-01,2027-12-31,Available
+CRS-000268,Bootcamp Git Course 0268,Tech Academy,20,0,40,2026-01-01,2027-12-31,Available
+CRS-000269,Professional Docker Course 0269,SkillWorks,4,6000,16,2026-01-01,2027-12-31,Available
+CRS-000270,Foundations HTML Course 0270,Tech Academy,24,2500,46,2026-01-01,2027-12-31,Available
+CRS-000271,Professional AWS Course 0271,Open Learning,32,0,78,2026-01-01,2027-12-31,Available
+CRS-000272,Applied CSS Course 0272,SkillWorks,32,4000,32,2026-01-01,2027-12-31,Unavailable
+CRS-000273,Essentials Azure Course 0273,SkillWorks,32,1500,41,2026-01-01,2027-12-31,Available
+CRS-000274,Foundations Stakeholder Management Course 0274,Open Learning,4,0,25,2026-01-01,2027-12-31,Available
+CRS-000275,Applied Java Course 0275,Internal Academy,12,4000,30,2026-01-01,2027-12-31,Unavailable
+CRS-000276,Workshop UI Design Course 0276,Tech Academy,32,4000,76,2026-01-01,2027-12-31,Unavailable
+CRS-000277,Applied Communication Course 0277,SkillWorks,8,1000,55,2026-01-01,2027-12-31,Available
+CRS-000278,Applied Technical Writing Course 0278,Internal Academy,20,1500,120,2026-01-01,2027-12-31,Available
+CRS-000279,Advanced Process Improvement Course 0279,Open Learning,24,6000,33,2026-01-01,2027-12-31,Available
+CRS-000280,Essentials Git Course 0280,Open Learning,12,6000,36,2026-01-01,2027-12-31,Available
+CRS-000281,Workshop Machine Learning Course 0281,Tech Academy,16,1000,90,2026-01-01,2027-12-31,Available
+CRS-000282,Bootcamp Technical Writing Course 0282,SkillWorks,6,500,34,2026-01-01,2027-12-31,Unavailable
+CRS-000283,Foundations Cloud Fundamentals Course 0283,Internal Academy,20,6000,20,2026-01-01,2027-12-31,Available
+CRS-000284,Bootcamp Tableau Course 0284,Open Learning,6,2500,26,2026-01-01,2027-12-31,Unavailable
+CRS-000285,Essentials Problem Solving Course 0285,Open Learning,6,6000,53,2026-01-01,2027-12-31,Available
+CRS-000286,Applied Azure Course 0286,Open Learning,32,0,71,2026-01-01,2027-12-31,Unavailable
+CRS-000287,Applied Python Course 0287,Open Learning,24,2500,90,2026-01-01,2027-12-31,Available
+CRS-000288,Bootcamp AWS Course 0288,Tech Academy,6,1000,53,2026-01-01,2027-12-31,Available
+CRS-000289,Bootcamp Data Analysis Course 0289,Tech Academy,2,1000,39,2026-01-01,2027-12-31,Available
+CRS-000290,Advanced Tableau Course 0290,Tech Academy,12,0,33,2026-01-01,2027-12-31,Unavailable
+CRS-000291,Workshop Python Course 0291,Internal Academy,12,6000,33,2026-01-01,2027-12-31,Available
+CRS-000292,Bootcamp SQL Course 0292,Open Learning,6,1500,117,2026-01-01,2027-12-31,Available
+CRS-000293,Advanced Figma Course 0293,Internal Academy,6,0,10,2026-01-01,2027-12-31,Available
+CRS-000294,Bootcamp Leadership Course 0294,SkillWorks,2,1500,28,2026-01-01,2027-12-31,Available
+CRS-000295,Applied React Course 0295,SkillWorks,24,0,33,2026-01-01,2027-12-31,Unavailable
+CRS-000296,Workshop Customer Service Course 0296,Open Learning,20,0,10,2026-01-01,2027-12-31,Available
+CRS-000297,Professional Statistics Course 0297,Open Learning,2,2500,16,2026-01-01,2027-12-31,Unavailable
+CRS-000298,Foundations Problem Solving Course 0298,Open Learning,4,1000,89,2026-01-01,2027-12-31,Unavailable
+CRS-000299,Applied Java Course 0299,Open Learning,8,6000,26,2026-01-01,2027-12-31,Available
+CRS-000300,Essentials Agile Course 0300,Tech Academy,4,0,72,2026-01-01,2027-12-31,Unavailable
+CRS-000301,Bootcamp Statistics Course 0301,SkillWorks,16,4000,100,2026-01-01,2027-12-31,Available
+CRS-000302,Professional Agile Course 0302,SkillWorks,32,0,84,2026-01-01,2027-12-31,Available
+CRS-000303,Professional Problem Solving Course 0303,Internal Academy,8,2500,24,2026-01-01,2027-12-31,Unavailable
+CRS-000304,Workshop Cybersecurity Course 0304,SkillWorks,24,6000,55,2026-01-01,2027-12-31,Available
+CRS-000305,Bootcamp Excel Course 0305,Tech Academy,12,6000,13,2026-01-01,2027-12-31,Unavailable
+CRS-000306,Advanced Tableau Course 0306,Open Learning,16,0,55,2026-01-01,2027-12-31,Available
+CRS-000307,Foundations Agile Course 0307,Internal Academy,32,2500,43,2026-01-01,2027-12-31,Available
+CRS-000308,Advanced Python Course 0308,Tech Academy,4,4000,85,2026-01-01,2027-12-31,Unavailable
+CRS-000309,Professional Presentation Skills Course 0309,Tech Academy,6,6000,110,2026-01-01,2027-12-31,Available
+CRS-000310,Applied Presentation Skills Course 0310,Tech Academy,16,2500,10,2026-01-01,2027-12-31,Available
+CRS-000311,Professional Azure Course 0311,Tech Academy,20,4000,119,2026-01-01,2027-12-31,Available
+CRS-000312,Applied Statistics Course 0312,Open Learning,24,6000,101,2026-01-01,2027-12-31,Available
+CRS-000313,Bootcamp Excel Course 0313,SkillWorks,12,500,80,2026-01-01,2027-12-31,Available
+CRS-000314,Professional Java Course 0314,Internal Academy,4,1500,61,2026-01-01,2027-12-31,Available
+CRS-000315,Essentials JavaScript Course 0315,Internal Academy,2,1000,12,2026-01-01,2027-12-31,Available
+CRS-000316,Bootcamp Excel Course 0316,Open Learning,24,0,35,2026-01-01,2027-12-31,Available
+CRS-000317,Essentials Excel Course 0317,SkillWorks,20,1000,54,2026-01-01,2027-12-31,Available
+CRS-000318,Foundations Figma Course 0318,Tech Academy,20,4000,105,2026-01-01,2027-12-31,Available
+CRS-000319,Essentials UI Design Course 0319,SkillWorks,4,0,13,2026-01-01,2027-12-31,Available
+CRS-000320,Advanced AWS Course 0320,Internal Academy,16,0,112,2026-01-01,2027-12-31,Available
+CRS-000321,Essentials Figma Course 0321,Tech Academy,4,2500,112,2026-01-01,2027-12-31,Available
+CRS-000322,Foundations CSS Course 0322,Tech Academy,6,500,68,2026-01-01,2027-12-31,Available
+CRS-000323,Advanced Problem Solving Course 0323,Open Learning,2,4000,69,2026-01-01,2027-12-31,Available
+CRS-000324,Essentials Presentation Skills Course 0324,Open Learning,2,6000,76,2026-01-01,2027-12-31,Unavailable
+CRS-000325,Applied Financial Modeling Course 0325,SkillWorks,12,0,52,2026-01-01,2027-12-31,Unavailable
+CRS-000326,Professional Docker Course 0326,Tech Academy,12,1000,17,2026-01-01,2027-12-31,Available
+CRS-000327,Foundations Machine Learning Course 0327,Internal Academy,32,1500,19,2026-01-01,2027-12-31,Available
+CRS-000328,Advanced Data Analysis Course 0328,Open Learning,16,500,67,2026-01-01,2027-12-31,Available
+CRS-000329,Workshop Cybersecurity Course 0329,SkillWorks,20,4000,90,2026-01-01,2027-12-31,Available
+CRS-000330,Workshop Technical Writing Course 0330,SkillWorks,24,6000,81,2026-01-01,2027-12-31,Available
+CRS-000331,Bootcamp Communication Course 0331,SkillWorks,32,4000,117,2026-01-01,2027-12-31,Available
+CRS-000332,Professional Cloud Fundamentals Course 0332,Internal Academy,12,500,67,2026-01-01,2027-12-31,Available
+CRS-000333,Applied Communication Course 0333,SkillWorks,32,4000,38,2026-01-01,2027-12-31,Available
+CRS-000334,Advanced Docker Course 0334,Internal Academy,6,500,101,2026-01-01,2027-12-31,Available
+CRS-000335,Foundations Power BI Course 0335,Internal Academy,24,1000,12,2026-01-01,2027-12-31,Unavailable
+CRS-000336,Advanced UX Research Course 0336,Tech Academy,12,4000,62,2026-01-01,2027-12-31,Available
+CRS-000337,Essentials Figma Course 0337,Open Learning,24,500,36,2026-01-01,2027-12-31,Available
+CRS-000338,Professional Problem Solving Course 0338,Internal Academy,6,0,110,2026-01-01,2027-12-31,Available
+CRS-000339,Bootcamp HTML Course 0339,Internal Academy,32,4000,116,2026-01-01,2027-12-31,Unavailable
+CRS-000340,Applied Docker Course 0340,SkillWorks,4,500,72,2026-01-01,2027-12-31,Unavailable
+CRS-000341,Professional Project Management Course 0341,Tech Academy,32,1500,24,2026-01-01,2027-12-31,Available
+CRS-000342,Bootcamp Cybersecurity Course 0342,Internal Academy,12,4000,20,2026-01-01,2027-12-31,Available
+CRS-000343,Applied SQL Course 0343,Open Learning,4,1000,75,2026-01-01,2027-12-31,Available
+CRS-000344,Applied Problem Solving Course 0344,Tech Academy,16,500,52,2026-01-01,2027-12-31,Available
+CRS-000345,Essentials Project Management Course 0345,Tech Academy,12,1500,91,2026-01-01,2027-12-31,Available
+CRS-000346,Bootcamp Python Course 0346,Internal Academy,24,1500,15,2026-01-01,2027-12-31,Available
+CRS-000347,Applied UX Research Course 0347,Open Learning,24,500,77,2026-01-01,2027-12-31,Available
+CRS-000348,Essentials Data Analysis Course 0348,Open Learning,32,6000,111,2026-01-01,2027-12-31,Available
+CRS-000349,Bootcamp Excel Course 0349,SkillWorks,8,500,98,2026-01-01,2027-12-31,Available
+CRS-000350,Bootcamp Presentation Skills Course 0350,Internal Academy,16,6000,97,2026-01-01,2027-12-31,Available
+CRS-000351,Applied SQL Course 0351,Open Learning,2,2500,83,2026-01-01,2027-12-31,Available
+CRS-000352,Bootcamp SQL Course 0352,Open Learning,20,1500,74,2026-01-01,2027-12-31,Available
+CRS-000353,Advanced Customer Service Course 0353,Open Learning,12,2500,97,2026-01-01,2027-12-31,Available
+CRS-000354,Applied Data Analysis Course 0354,Tech Academy,2,4000,30,2026-01-01,2027-12-31,Available
+CRS-000355,Bootcamp Docker Course 0355,Tech Academy,32,1500,97,2026-01-01,2027-12-31,Available
+CRS-000356,Applied Git Course 0356,Tech Academy,16,6000,40,2026-01-01,2027-12-31,Available
+CRS-000357,Advanced Docker Course 0357,Internal Academy,4,2500,76,2026-01-01,2027-12-31,Available
+CRS-000358,Bootcamp Figma Course 0358,Tech Academy,16,6000,91,2026-01-01,2027-12-31,Available
+CRS-000359,Advanced Process Improvement Course 0359,Internal Academy,20,1000,53,2026-01-01,2027-12-31,Unavailable
+CRS-000360,Workshop UX Research Course 0360,SkillWorks,12,6000,15,2026-01-01,2027-12-31,Available
+CRS-000361,Foundations Docker Course 0361,SkillWorks,20,2500,35,2026-01-01,2027-12-31,Available
+CRS-000362,Applied UI Design Course 0362,Tech Academy,8,500,62,2026-01-01,2027-12-31,Unavailable
+CRS-000363,Advanced React Course 0363,Tech Academy,20,4000,29,2026-01-01,2027-12-31,Available
+CRS-000364,Bootcamp Cloud Fundamentals Course 0364,Internal Academy,20,1500,99,2026-01-01,2027-12-31,Available
+CRS-000365,Applied React Course 0365,Tech Academy,6,6000,119,2026-01-01,2027-12-31,Available
+CRS-000366,Foundations Figma Course 0366,Internal Academy,6,0,75,2026-01-01,2027-12-31,Available
+CRS-000367,Workshop HTML Course 0367,Tech Academy,24,500,105,2026-01-01,2027-12-31,Available
+CRS-000368,Workshop UI Design Course 0368,Internal Academy,24,6000,40,2026-01-01,2027-12-31,Available
+CRS-000369,Advanced Data Analysis Course 0369,Internal Academy,2,1000,119,2026-01-01,2027-12-31,Unavailable
+CRS-000370,Bootcamp Technical Writing Course 0370,Internal Academy,12,500,115,2026-01-01,2027-12-31,Available
+CRS-000371,Bootcamp Statistics Course 0371,Internal Academy,2,500,75,2026-01-01,2027-12-31,Available
+CRS-000372,Workshop Machine Learning Course 0372,Open Learning,6,6000,113,2026-01-01,2027-12-31,Available
+CRS-000373,Essentials Agile Course 0373,Tech Academy,32,500,106,2026-01-01,2027-12-31,Available
+CRS-000374,Essentials Presentation Skills Course 0374,Tech Academy,4,1500,80,2026-01-01,2027-12-31,Unavailable
+CRS-000375,Workshop Git Course 0375,Open Learning,32,1000,56,2026-01-01,2027-12-31,Available
+CRS-000376,Workshop AWS Course 0376,Internal Academy,16,0,23,2026-01-01,2027-12-31,Available
+CRS-000377,Bootcamp Financial Modeling Course 0377,SkillWorks,16,500,78,2026-01-01,2027-12-31,Unavailable
+CRS-000378,Essentials Kubernetes Course 0378,Open Learning,8,1000,70,2026-01-01,2027-12-31,Unavailable
+CRS-000379,Applied SQL Course 0379,Tech Academy,6,1500,81,2026-01-01,2027-12-31,Unavailable
+CRS-000380,Workshop Docker Course 0380,Tech Academy,6,6000,61,2026-01-01,2027-12-31,Unavailable
+CRS-000381,Workshop SQL Course 0381,SkillWorks,24,4000,38,2026-01-01,2027-12-31,Available
+CRS-000382,Workshop Docker Course 0382,Tech Academy,20,4000,82,2026-01-01,2027-12-31,Available
+CRS-000383,Advanced Statistics Course 0383,Tech Academy,8,6000,42,2026-01-01,2027-12-31,Available
+CRS-000384,Bootcamp React Course 0384,SkillWorks,6,1500,25,2026-01-01,2027-12-31,Available
+CRS-000385,Applied Figma Course 0385,SkillWorks,32,4000,61,2026-01-01,2027-12-31,Unavailable
+CRS-000386,Bootcamp Git Course 0386,Internal Academy,16,2500,92,2026-01-01,2027-12-31,Available
+CRS-000387,Applied HTML Course 0387,SkillWorks,6,1500,29,2026-01-01,2027-12-31,Unavailable
+CRS-000388,Bootcamp Power BI Course 0388,SkillWorks,8,0,95,2026-01-01,2027-12-31,Available
+CRS-000389,Professional Leadership Course 0389,Open Learning,12,0,58,2026-01-01,2027-12-31,Available
+CRS-000390,Applied Leadership Course 0390,Internal Academy,6,1500,54,2026-01-01,2027-12-31,Available
+CRS-000391,Foundations Cybersecurity Course 0391,Tech Academy,2,1000,105,2026-01-01,2027-12-31,Available
+CRS-000392,Bootcamp Agile Course 0392,Tech Academy,2,2500,85,2026-01-01,2027-12-31,Available
+CRS-000393,Applied Project Management Course 0393,SkillWorks,8,0,67,2026-01-01,2027-12-31,Available
+CRS-000394,Workshop Python Course 0394,Internal Academy,8,1500,12,2026-01-01,2027-12-31,Available
+CRS-000395,Workshop AWS Course 0395,Internal Academy,12,2500,34,2026-01-01,2027-12-31,Available
+CRS-000396,Workshop Power BI Course 0396,Internal Academy,8,1500,99,2026-01-01,2027-12-31,Available
+CRS-000397,Professional JavaScript Course 0397,Tech Academy,20,2500,29,2026-01-01,2027-12-31,Available
+CRS-000398,Professional Machine Learning Course 0398,Internal Academy,20,2500,12,2026-01-01,2027-12-31,Available
+CRS-000399,Applied Communication Course 0399,Tech Academy,24,6000,75,2026-01-01,2027-12-31,Available
+CRS-000400,Bootcamp SQL Course 0400,Tech Academy,2,2500,99,2026-01-01,2027-12-31,Available
+CRS-000401,Advanced Presentation Skills Course 0401,Tech Academy,8,1000,58,2026-01-01,2027-12-31,Available
+CRS-000402,Foundations Financial Modeling Course 0402,Open Learning,12,2500,100,2026-01-01,2027-12-31,Available
+CRS-000403,Bootcamp Technical Writing Course 0403,Open Learning,2,6000,42,2026-01-01,2027-12-31,Unavailable
+CRS-000404,Bootcamp Technical Writing Course 0404,Open Learning,2,4000,27,2026-01-01,2027-12-31,Available
+CRS-000405,Bootcamp Kubernetes Course 0405,SkillWorks,6,4000,44,2026-01-01,2027-12-31,Available
+CRS-000406,Advanced UI Design Course 0406,Tech Academy,2,6000,16,2026-01-01,2027-12-31,Available
+CRS-000407,Professional Customer Service Course 0407,Open Learning,20,0,33,2026-01-01,2027-12-31,Available
+CRS-000408,Applied Tableau Course 0408,SkillWorks,4,500,25,2026-01-01,2027-12-31,Available
+CRS-000409,Workshop Problem Solving Course 0409,Internal Academy,6,6000,61,2026-01-01,2027-12-31,Available
+CRS-000410,Foundations Financial Modeling Course 0410,Tech Academy,32,4000,62,2026-01-01,2027-12-31,Available
+CRS-000411,Applied Technical Writing Course 0411,Tech Academy,2,4000,79,2026-01-01,2027-12-31,Available
+CRS-000412,Essentials HTML Course 0412,Open Learning,24,500,80,2026-01-01,2027-12-31,Available
+CRS-000413,Professional Java Course 0413,SkillWorks,2,2500,76,2026-01-01,2027-12-31,Available
+CRS-000414,Professional Docker Course 0414,SkillWorks,4,1500,114,2026-01-01,2027-12-31,Available
+CRS-000415,Bootcamp Presentation Skills Course 0415,SkillWorks,20,4000,59,2026-01-01,2027-12-31,Available
+CRS-000416,Professional Technical Writing Course 0416,Open Learning,32,1000,15,2026-01-01,2027-12-31,Available
+CRS-000417,Foundations Technical Writing Course 0417,Tech Academy,8,1500,56,2026-01-01,2027-12-31,Available
+CRS-000418,Workshop Project Management Course 0418,Internal Academy,6,0,36,2026-01-01,2027-12-31,Available
+CRS-000419,Professional Project Management Course 0419,SkillWorks,6,4000,37,2026-01-01,2027-12-31,Available
+CRS-000420,Professional Git Course 0420,SkillWorks,8,2500,43,2026-01-01,2027-12-31,Available
+CRS-000421,Essentials Python Course 0421,Open Learning,16,4000,110,2026-01-01,2027-12-31,Unavailable
+CRS-000422,Workshop Kubernetes Course 0422,Tech Academy,16,0,44,2026-01-01,2027-12-31,Available
+CRS-000423,Workshop Cybersecurity Course 0423,Open Learning,20,4000,28,2026-01-01,2027-12-31,Available
+CRS-000424,Bootcamp Technical Writing Course 0424,Open Learning,32,2500,106,2026-01-01,2027-12-31,Available
+CRS-000425,Advanced Excel Course 0425,Open Learning,16,1000,51,2026-01-01,2027-12-31,Available
+CRS-000426,Advanced Stakeholder Management Course 0426,SkillWorks,32,4000,39,2026-01-01,2027-12-31,Available
+CRS-000427,Professional Presentation Skills Course 0427,Tech Academy,20,2500,101,2026-01-01,2027-12-31,Unavailable
+CRS-000428,Professional Problem Solving Course 0428,Open Learning,8,0,68,2026-01-01,2027-12-31,Unavailable
+CRS-000429,Professional Excel Course 0429,Open Learning,16,4000,67,2026-01-01,2027-12-31,Unavailable
+CRS-000430,Advanced AWS Course 0430,Tech Academy,2,2500,31,2026-01-01,2027-12-31,Available
+CRS-000431,Advanced Docker Course 0431,Internal Academy,12,500,44,2026-01-01,2027-12-31,Available
+CRS-000432,Foundations Technical Writing Course 0432,SkillWorks,4,1000,82,2026-01-01,2027-12-31,Unavailable
+CRS-000433,Foundations UI Design Course 0433,SkillWorks,8,1000,66,2026-01-01,2027-12-31,Available
+CRS-000434,Applied Leadership Course 0434,Tech Academy,16,1000,34,2026-01-01,2027-12-31,Unavailable
+CRS-000435,Essentials Docker Course 0435,SkillWorks,32,4000,48,2026-01-01,2027-12-31,Available
+CRS-000436,Professional Excel Course 0436,Internal Academy,4,6000,58,2026-01-01,2027-12-31,Available
+CRS-000437,Workshop Stakeholder Management Course 0437,Tech Academy,32,500,50,2026-01-01,2027-12-31,Available
+CRS-000438,Workshop Figma Course 0438,Internal Academy,16,1000,92,2026-01-01,2027-12-31,Unavailable
+CRS-000439,Essentials SQL Course 0439,Open Learning,4,4000,56,2026-01-01,2027-12-31,Available
+CRS-000440,Foundations Azure Course 0440,Open Learning,32,1000,119,2026-01-01,2027-12-31,Available
+CRS-000441,Professional AWS Course 0441,SkillWorks,6,0,114,2026-01-01,2027-12-31,Available
+CRS-000442,Essentials Power BI Course 0442,SkillWorks,6,1000,72,2026-01-01,2027-12-31,Available
+CRS-000443,Foundations HTML Course 0443,Internal Academy,32,0,70,2026-01-01,2027-12-31,Available
+CRS-000444,Essentials Git Course 0444,SkillWorks,2,6000,64,2026-01-01,2027-12-31,Unavailable
+CRS-000445,Applied Financial Modeling Course 0445,Internal Academy,20,6000,110,2026-01-01,2027-12-31,Available
+CRS-000446,Essentials Power BI Course 0446,Open Learning,12,0,29,2026-01-01,2027-12-31,Unavailable
+CRS-000447,Bootcamp CSS Course 0447,Internal Academy,24,4000,35,2026-01-01,2027-12-31,Available
+CRS-000448,Workshop Excel Course 0448,Open Learning,32,6000,117,2026-01-01,2027-12-31,Available
+CRS-000449,Workshop JavaScript Course 0449,Open Learning,20,4000,74,2026-01-01,2027-12-31,Available
+CRS-000450,Essentials Agile Course 0450,Open Learning,24,1000,66,2026-01-01,2027-12-31,Available
+CRS-000451,Workshop React Course 0451,Internal Academy,6,0,41,2026-01-01,2027-12-31,Available
+CRS-000452,Applied React Course 0452,Internal Academy,8,0,34,2026-01-01,2027-12-31,Available
+CRS-000453,Bootcamp Data Analysis Course 0453,SkillWorks,6,500,106,2026-01-01,2027-12-31,Unavailable
+CRS-000454,Professional Data Analysis Course 0454,Tech Academy,32,1000,61,2026-01-01,2027-12-31,Unavailable
+CRS-000455,Advanced UX Research Course 0455,Tech Academy,2,6000,56,2026-01-01,2027-12-31,Available
+CRS-000456,Bootcamp Leadership Course 0456,Open Learning,20,1500,89,2026-01-01,2027-12-31,Available
+CRS-000457,Professional Power BI Course 0457,Internal Academy,8,1000,31,2026-01-01,2027-12-31,Unavailable
+CRS-000458,Advanced UI Design Course 0458,SkillWorks,4,500,24,2026-01-01,2027-12-31,Unavailable
+CRS-000459,Applied Data Analysis Course 0459,Internal Academy,8,4000,20,2026-01-01,2027-12-31,Available
+CRS-000460,Foundations Cloud Fundamentals Course 0460,SkillWorks,20,2500,119,2026-01-01,2027-12-31,Available
+CRS-000461,Workshop Power BI Course 0461,SkillWorks,2,500,39,2026-01-01,2027-12-31,Available
+CRS-000462,Essentials Java Course 0462,Tech Academy,4,1500,48,2026-01-01,2027-12-31,Unavailable
+CRS-000463,Workshop Problem Solving Course 0463,Internal Academy,20,1500,91,2026-01-01,2027-12-31,Unavailable
+CRS-000464,Applied UX Research Course 0464,Internal Academy,8,1000,86,2026-01-01,2027-12-31,Available
+CRS-000465,Professional Data Analysis Course 0465,SkillWorks,32,500,94,2026-01-01,2027-12-31,Available
+CRS-000466,Foundations SQL Course 0466,SkillWorks,4,6000,20,2026-01-01,2027-12-31,Unavailable
+CRS-000467,Foundations Statistics Course 0467,Open Learning,16,2500,65,2026-01-01,2027-12-31,Available
+CRS-000468,Bootcamp UX Research Course 0468,SkillWorks,12,2500,59,2026-01-01,2027-12-31,Available
+CRS-000469,Advanced React Course 0469,Open Learning,6,2500,80,2026-01-01,2027-12-31,Available
+CRS-000470,Essentials Power BI Course 0470,SkillWorks,2,1500,66,2026-01-01,2027-12-31,Unavailable
+CRS-000471,Workshop Technical Writing Course 0471,Tech Academy,32,0,72,2026-01-01,2027-12-31,Available
+CRS-000472,Essentials Cloud Fundamentals Course 0472,Internal Academy,20,1000,15,2026-01-01,2027-12-31,Available
+CRS-000473,Essentials Communication Course 0473,Tech Academy,16,1000,75,2026-01-01,2027-12-31,Available
+CRS-000474,Professional Statistics Course 0474,SkillWorks,20,0,18,2026-01-01,2027-12-31,Available
+CRS-000475,Applied Leadership Course 0475,Tech Academy,2,1500,120,2026-01-01,2027-12-31,Available
+CRS-000476,Essentials Cybersecurity Course 0476,Open Learning,12,1000,63,2026-01-01,2027-12-31,Unavailable
+CRS-000477,Bootcamp Excel Course 0477,Open Learning,8,1000,83,2026-01-01,2027-12-31,Unavailable
+CRS-000478,Professional Financial Modeling Course 0478,Open Learning,8,2500,71,2026-01-01,2027-12-31,Available
+CRS-000479,Foundations Communication Course 0479,Internal Academy,8,2500,41,2026-01-01,2027-12-31,Available
+CRS-000480,Workshop Machine Learning Course 0480,Tech Academy,24,1500,19,2026-01-01,2027-12-31,Available
+CRS-000481,Advanced Financial Modeling Course 0481,Tech Academy,16,1000,19,2026-01-01,2027-12-31,Available
+CRS-000482,Essentials Statistics Course 0482,Open Learning,4,1500,60,2026-01-01,2027-12-31,Available
+CRS-000483,Bootcamp Docker Course 0483,Tech Academy,24,1500,87,2026-01-01,2027-12-31,Available
+CRS-000484,Applied Customer Service Course 0484,SkillWorks,20,1500,95,2026-01-01,2027-12-31,Available
+CRS-000485,Bootcamp Statistics Course 0485,SkillWorks,24,1500,55,2026-01-01,2027-12-31,Available
+CRS-000486,Essentials Communication Course 0486,Open Learning,8,0,14,2026-01-01,2027-12-31,Available
+CRS-000487,Workshop SQL Course 0487,Open Learning,32,2500,108,2026-01-01,2027-12-31,Available
+CRS-000488,Essentials Financial Modeling Course 0488,Tech Academy,2,2500,14,2026-01-01,2027-12-31,Unavailable
+CRS-000489,Workshop Stakeholder Management Course 0489,Tech Academy,32,0,57,2026-01-01,2027-12-31,Available
+CRS-000490,Advanced Java Course 0490,Open Learning,16,6000,88,2026-01-01,2027-12-31,Available
+CRS-000491,Advanced Agile Course 0491,Internal Academy,2,500,118,2026-01-01,2027-12-31,Available
+CRS-000492,Applied Git Course 0492,Tech Academy,12,6000,74,2026-01-01,2027-12-31,Available
+CRS-000493,Professional Process Improvement Course 0493,SkillWorks,4,1000,33,2026-01-01,2027-12-31,Available
+CRS-000494,Bootcamp Machine Learning Course 0494,SkillWorks,4,4000,112,2026-01-01,2027-12-31,Unavailable
+CRS-000495,Essentials Figma Course 0495,Tech Academy,12,2500,102,2026-01-01,2027-12-31,Available
+CRS-000496,Advanced Financial Modeling Course 0496,Tech Academy,4,4000,117,2026-01-01,2027-12-31,Available
+CRS-000497,Foundations React Course 0497,Internal Academy,12,0,17,2026-01-01,2027-12-31,Available
+CRS-000498,Workshop Kubernetes Course 0498,Internal Academy,12,500,73,2026-01-01,2027-12-31,Available
+CRS-000499,Advanced UX Research Course 0499,SkillWorks,12,6000,100,2026-01-01,2027-12-31,Available
+CRS-000500,Bootcamp Power BI Course 0500,Internal Academy,8,6000,68,2026-01-01,2027-12-31,Available
+CRS-000501,Workshop Agile Course 0501,Internal Academy,4,0,45,2026-01-01,2027-12-31,Available
+CRS-000502,Foundations UI Design Course 0502,SkillWorks,6,0,77,2026-01-01,2027-12-31,Available
+CRS-000503,Advanced Problem Solving Course 0503,SkillWorks,6,1000,68,2026-01-01,2027-12-31,Available
+CRS-000504,Bootcamp Communication Course 0504,Internal Academy,16,6000,52,2026-01-01,2027-12-31,Available
+CRS-000505,Essentials Git Course 0505,Tech Academy,16,0,41,2026-01-01,2027-12-31,Available
+CRS-000506,Applied Customer Service Course 0506,Tech Academy,4,1500,67,2026-01-01,2027-12-31,Available
+CRS-000507,Workshop CSS Course 0507,Open Learning,2,0,48,2026-01-01,2027-12-31,Available
+CRS-000508,Applied Project Management Course 0508,SkillWorks,8,500,60,2026-01-01,2027-12-31,Unavailable
+CRS-000509,Essentials Communication Course 0509,Tech Academy,6,1000,44,2026-01-01,2027-12-31,Available
+CRS-000510,Workshop Customer Service Course 0510,Internal Academy,4,1000,71,2026-01-01,2027-12-31,Available
+CRS-000511,Advanced Figma Course 0511,Tech Academy,24,6000,46,2026-01-01,2027-12-31,Available
+CRS-000512,Applied Customer Service Course 0512,Tech Academy,32,6000,81,2026-01-01,2027-12-31,Available
+CRS-000513,Advanced Python Course 0513,SkillWorks,32,500,111,2026-01-01,2027-12-31,Unavailable
+CRS-000514,Advanced Leadership Course 0514,Tech Academy,20,1000,24,2026-01-01,2027-12-31,Available
+CRS-000515,Bootcamp Azure Course 0515,SkillWorks,4,6000,87,2026-01-01,2027-12-31,Unavailable
+CRS-000516,Professional AWS Course 0516,Open Learning,16,6000,92,2026-01-01,2027-12-31,Unavailable
+CRS-000517,Professional Figma Course 0517,SkillWorks,24,1000,89,2026-01-01,2027-12-31,Unavailable
+CRS-000518,Workshop CSS Course 0518,Tech Academy,8,1000,113,2026-01-01,2027-12-31,Available
+CRS-000519,Advanced Machine Learning Course 0519,SkillWorks,12,500,88,2026-01-01,2027-12-31,Unavailable
+CRS-000520,Essentials Docker Course 0520,Open Learning,20,1500,53,2026-01-01,2027-12-31,Available
+CRS-000521,Advanced Git Course 0521,Open Learning,12,6000,79,2026-01-01,2027-12-31,Unavailable
+CRS-000522,Advanced Git Course 0522,Tech Academy,6,4000,99,2026-01-01,2027-12-31,Available
+CRS-000523,Applied Java Course 0523,Tech Academy,4,1500,103,2026-01-01,2027-12-31,Unavailable
+CRS-000524,Applied Java Course 0524,SkillWorks,4,500,39,2026-01-01,2027-12-31,Available
+CRS-000525,Foundations UI Design Course 0525,Internal Academy,8,500,95,2026-01-01,2027-12-31,Unavailable
+CRS-000526,Professional CSS Course 0526,Open Learning,32,1000,66,2026-01-01,2027-12-31,Available
+CRS-000527,Workshop Communication Course 0527,Internal Academy,12,4000,15,2026-01-01,2027-12-31,Available
+CRS-000528,Applied UI Design Course 0528,Open Learning,12,1000,100,2026-01-01,2027-12-31,Unavailable
+CRS-000529,Professional Figma Course 0529,Tech Academy,24,1000,15,2026-01-01,2027-12-31,Available
+CRS-000530,Essentials UI Design Course 0530,Internal Academy,2,1500,69,2026-01-01,2027-12-31,Available
+CRS-000531,Workshop CSS Course 0531,SkillWorks,8,1000,101,2026-01-01,2027-12-31,Unavailable
+CRS-000532,Applied Tableau Course 0532,Tech Academy,8,4000,72,2026-01-01,2027-12-31,Available
+CRS-000533,Professional Process Improvement Course 0533,SkillWorks,2,2500,82,2026-01-01,2027-12-31,Available
+CRS-000534,Bootcamp Python Course 0534,Internal Academy,4,1500,29,2026-01-01,2027-12-31,Available
+CRS-000535,Bootcamp Problem Solving Course 0535,SkillWorks,32,0,59,2026-01-01,2027-12-31,Available
+CRS-000536,Foundations Customer Service Course 0536,Open Learning,24,4000,82,2026-01-01,2027-12-31,Available
+CRS-000537,Applied Azure Course 0537,Tech Academy,24,6000,95,2026-01-01,2027-12-31,Available
+CRS-000538,Bootcamp Cloud Fundamentals Course 0538,Internal Academy,2,500,89,2026-01-01,2027-12-31,Unavailable
+CRS-000539,Workshop JavaScript Course 0539,Tech Academy,6,500,42,2026-01-01,2027-12-31,Available
+CRS-000540,Applied React Course 0540,Internal Academy,2,0,28,2026-01-01,2027-12-31,Unavailable
+CRS-000541,Advanced Cloud Fundamentals Course 0541,SkillWorks,12,1500,33,2026-01-01,2027-12-31,Available
+CRS-000542,Advanced Cybersecurity Course 0542,SkillWorks,16,1000,69,2026-01-01,2027-12-31,Available
+CRS-000543,Advanced Excel Course 0543,Internal Academy,8,2500,57,2026-01-01,2027-12-31,Unavailable
+CRS-000544,Workshop Kubernetes Course 0544,Internal Academy,6,2500,44,2026-01-01,2027-12-31,Available
+CRS-000545,Professional AWS Course 0545,Internal Academy,12,500,96,2026-01-01,2027-12-31,Available
+CRS-000546,Applied Customer Service Course 0546,SkillWorks,32,1000,52,2026-01-01,2027-12-31,Available
+CRS-000547,Advanced Azure Course 0547,Tech Academy,20,2500,75,2026-01-01,2027-12-31,Available
+CRS-000548,Professional HTML Course 0548,SkillWorks,16,6000,20,2026-01-01,2027-12-31,Available
+CRS-000549,Professional Tableau Course 0549,Open Learning,12,1500,81,2026-01-01,2027-12-31,Available
+CRS-000550,Professional Presentation Skills Course 0550,Internal Academy,8,6000,13,2026-01-01,2027-12-31,Available
+CRS-000551,Foundations UI Design Course 0551,Tech Academy,16,500,49,2026-01-01,2027-12-31,Available
+CRS-000552,Professional Financial Modeling Course 0552,SkillWorks,24,2500,79,2026-01-01,2027-12-31,Available
+CRS-000553,Workshop Customer Service Course 0553,SkillWorks,24,6000,100,2026-01-01,2027-12-31,Available
+CRS-000554,Bootcamp Leadership Course 0554,Internal Academy,12,1500,105,2026-01-01,2027-12-31,Unavailable
+CRS-000555,Applied Excel Course 0555,SkillWorks,12,1000,82,2026-01-01,2027-12-31,Available
+CRS-000556,Workshop Git Course 0556,Internal Academy,4,1000,18,2026-01-01,2027-12-31,Unavailable
+CRS-000557,Professional UI Design Course 0557,SkillWorks,4,1500,25,2026-01-01,2027-12-31,Available
+CRS-000558,Essentials Communication Course 0558,Tech Academy,4,500,34,2026-01-01,2027-12-31,Available
+CRS-000559,Bootcamp Stakeholder Management Course 0559,Open Learning,2,1500,17,2026-01-01,2027-12-31,Available
+CRS-000560,Essentials Agile Course 0560,Open Learning,8,2500,59,2026-01-01,2027-12-31,Available
+CRS-000561,Professional AWS Course 0561,Open Learning,4,500,76,2026-01-01,2027-12-31,Available
+CRS-000562,Foundations Kubernetes Course 0562,Internal Academy,12,500,45,2026-01-01,2027-12-31,Available
+CRS-000563,Advanced Power BI Course 0563,SkillWorks,20,0,14,2026-01-01,2027-12-31,Available
+CRS-000564,Foundations Figma Course 0564,SkillWorks,32,2500,89,2026-01-01,2027-12-31,Available
+CRS-000565,Bootcamp Python Course 0565,SkillWorks,20,1500,100,2026-01-01,2027-12-31,Available
+CRS-000566,Foundations Azure Course 0566,Tech Academy,6,500,108,2026-01-01,2027-12-31,Available
+CRS-000567,Workshop Azure Course 0567,Tech Academy,32,1000,92,2026-01-01,2027-12-31,Unavailable
+CRS-000568,Applied Git Course 0568,Open Learning,20,500,107,2026-01-01,2027-12-31,Available
+CRS-000569,Applied React Course 0569,Internal Academy,4,1000,80,2026-01-01,2027-12-31,Available
+CRS-000570,Applied Problem Solving Course 0570,Tech Academy,4,4000,49,2026-01-01,2027-12-31,Unavailable
+CRS-000571,Foundations Data Analysis Course 0571,Internal Academy,12,4000,57,2026-01-01,2027-12-31,Unavailable
+CRS-000572,Bootcamp Leadership Course 0572,SkillWorks,32,2500,119,2026-01-01,2027-12-31,Unavailable
+CRS-000573,Bootcamp Data Analysis Course 0573,SkillWorks,32,6000,111,2026-01-01,2027-12-31,Available
+CRS-000574,Bootcamp AWS Course 0574,Open Learning,24,500,39,2026-01-01,2027-12-31,Available
+CRS-000575,Essentials CSS Course 0575,Internal Academy,12,500,16,2026-01-01,2027-12-31,Available
+CRS-000576,Bootcamp Stakeholder Management Course 0576,Internal Academy,4,0,103,2026-01-01,2027-12-31,Unavailable
+CRS-000577,Essentials Technical Writing Course 0577,Tech Academy,20,4000,25,2026-01-01,2027-12-31,Available
+CRS-000578,Professional Presentation Skills Course 0578,SkillWorks,4,500,102,2026-01-01,2027-12-31,Available
+CRS-000579,Foundations Process Improvement Course 0579,SkillWorks,2,4000,27,2026-01-01,2027-12-31,Available
+CRS-000580,Workshop Process Improvement Course 0580,Internal Academy,20,1500,81,2026-01-01,2027-12-31,Available
+CRS-000581,Advanced UI Design Course 0581,Tech Academy,2,4000,120,2026-01-01,2027-12-31,Unavailable
+CRS-000582,Applied JavaScript Course 0582,Open Learning,2,2500,62,2026-01-01,2027-12-31,Available
+CRS-000583,Essentials Excel Course 0583,Open Learning,4,0,77,2026-01-01,2027-12-31,Available
+CRS-000584,Workshop Stakeholder Management Course 0584,Internal Academy,24,6000,21,2026-01-01,2027-12-31,Unavailable
+CRS-000585,Workshop Project Management Course 0585,Open Learning,24,4000,22,2026-01-01,2027-12-31,Available
+CRS-000586,Professional SQL Course 0586,Open Learning,6,0,74,2026-01-01,2027-12-31,Available
+CRS-000587,Professional Customer Service Course 0587,Internal Academy,20,1000,46,2026-01-01,2027-12-31,Available
+CRS-000588,Professional Power BI Course 0588,SkillWorks,8,6000,42,2026-01-01,2027-12-31,Available
+CRS-000589,Bootcamp Cybersecurity Course 0589,Internal Academy,24,500,95,2026-01-01,2027-12-31,Unavailable
+CRS-000590,Applied Figma Course 0590,Tech Academy,6,4000,112,2026-01-01,2027-12-31,Available
+CRS-000591,Foundations Technical Writing Course 0591,Open Learning,24,500,42,2026-01-01,2027-12-31,Available
+CRS-000592,Applied Agile Course 0592,Tech Academy,32,500,22,2026-01-01,2027-12-31,Available
+CRS-000593,Advanced Stakeholder Management Course 0593,SkillWorks,6,500,84,2026-01-01,2027-12-31,Available
+CRS-000594,Workshop Docker Course 0594,Open Learning,4,0,57,2026-01-01,2027-12-31,Available
+CRS-000595,Professional Technical Writing Course 0595,Open Learning,20,500,93,2026-01-01,2027-12-31,Available
+CRS-000596,Advanced Git Course 0596,SkillWorks,6,2500,118,2026-01-01,2027-12-31,Available
+CRS-000597,Bootcamp React Course 0597,SkillWorks,20,1500,69,2026-01-01,2027-12-31,Available
+CRS-000598,Workshop Process Improvement Course 0598,SkillWorks,20,2500,116,2026-01-01,2027-12-31,Unavailable
+CRS-000599,Advanced Financial Modeling Course 0599,Open Learning,8,6000,105,2026-01-01,2027-12-31,Available
+CRS-000600,Professional React Course 0600,Open Learning,12,6000,26,2026-01-01,2027-12-31,Available
+CRS-000601,Essentials Statistics Course 0601,Open Learning,2,500,91,2026-01-01,2027-12-31,Available
+CRS-000602,Bootcamp Machine Learning Course 0602,Open Learning,12,2500,58,2026-01-01,2027-12-31,Available
+CRS-000603,Advanced UX Research Course 0603,SkillWorks,16,4000,117,2026-01-01,2027-12-31,Unavailable
+CRS-000604,Applied Process Improvement Course 0604,Open Learning,6,0,59,2026-01-01,2027-12-31,Available
+CRS-000605,Essentials Project Management Course 0605,Open Learning,6,4000,15,2026-01-01,2027-12-31,Available
+CRS-000606,Foundations Process Improvement Course 0606,Open Learning,16,2500,51,2026-01-01,2027-12-31,Unavailable
+CRS-000607,Applied Process Improvement Course 0607,SkillWorks,2,500,65,2026-01-01,2027-12-31,Available
+CRS-000608,Bootcamp Tableau Course 0608,Open Learning,2,0,53,2026-01-01,2027-12-31,Available
+CRS-000609,Bootcamp Project Management Course 0609,SkillWorks,6,4000,81,2026-01-01,2027-12-31,Available
+CRS-000610,Workshop Cloud Fundamentals Course 0610,Open Learning,8,6000,36,2026-01-01,2027-12-31,Unavailable
+CRS-000611,Applied Azure Course 0611,Internal Academy,12,2500,115,2026-01-01,2027-12-31,Available
+CRS-000612,Workshop Azure Course 0612,Tech Academy,32,4000,53,2026-01-01,2027-12-31,Available
+CRS-000613,Advanced Project Management Course 0613,SkillWorks,20,4000,42,2026-01-01,2027-12-31,Unavailable
+CRS-000614,Advanced Cybersecurity Course 0614,Tech Academy,4,1000,64,2026-01-01,2027-12-31,Available
+CRS-000615,Bootcamp Data Analysis Course 0615,Tech Academy,16,1500,35,2026-01-01,2027-12-31,Available
+CRS-000616,Professional Azure Course 0616,Internal Academy,4,1500,119,2026-01-01,2027-12-31,Available
+CRS-000617,Foundations Python Course 0617,Internal Academy,32,6000,41,2026-01-01,2027-12-31,Unavailable
+CRS-000618,Bootcamp Presentation Skills Course 0618,SkillWorks,6,0,110,2026-01-01,2027-12-31,Available
+CRS-000619,Applied Tableau Course 0619,SkillWorks,4,0,30,2026-01-01,2027-12-31,Unavailable
+CRS-000620,Professional Excel Course 0620,Tech Academy,24,1000,77,2026-01-01,2027-12-31,Available
+CRS-000621,Workshop Presentation Skills Course 0621,Tech Academy,6,1500,76,2026-01-01,2027-12-31,Available
+CRS-000622,Applied Problem Solving Course 0622,Internal Academy,2,1000,40,2026-01-01,2027-12-31,Available
+CRS-000623,Professional JavaScript Course 0623,SkillWorks,4,6000,39,2026-01-01,2027-12-31,Available
+CRS-000624,Essentials HTML Course 0624,Tech Academy,2,500,32,2026-01-01,2027-12-31,Available
+CRS-000625,Foundations Tableau Course 0625,Tech Academy,32,4000,95,2026-01-01,2027-12-31,Unavailable
+CRS-000626,Bootcamp Git Course 0626,Open Learning,4,1000,62,2026-01-01,2027-12-31,Available
+CRS-000627,Workshop Kubernetes Course 0627,SkillWorks,8,1000,105,2026-01-01,2027-12-31,Available
+CRS-000628,Workshop UX Research Course 0628,Tech Academy,32,4000,38,2026-01-01,2027-12-31,Unavailable
+CRS-000629,Workshop HTML Course 0629,Internal Academy,4,500,26,2026-01-01,2027-12-31,Available
+CRS-000630,Professional Customer Service Course 0630,Open Learning,8,1000,33,2026-01-01,2027-12-31,Available
+CRS-000631,Applied Machine Learning Course 0631,Internal Academy,4,6000,97,2026-01-01,2027-12-31,Available
+CRS-000632,Applied Figma Course 0632,Open Learning,32,500,81,2026-01-01,2027-12-31,Available
+CRS-000633,Foundations Problem Solving Course 0633,Open Learning,12,500,51,2026-01-01,2027-12-31,Unavailable
+CRS-000634,Applied Azure Course 0634,SkillWorks,24,0,34,2026-01-01,2027-12-31,Available
+CRS-000635,Foundations UX Research Course 0635,Open Learning,4,500,97,2026-01-01,2027-12-31,Unavailable
+CRS-000636,Professional Process Improvement Course 0636,Tech Academy,2,1000,81,2026-01-01,2027-12-31,Unavailable
+CRS-000637,Professional Azure Course 0637,Open Learning,12,500,104,2026-01-01,2027-12-31,Available
+CRS-000638,Advanced Docker Course 0638,Open Learning,32,0,66,2026-01-01,2027-12-31,Available
+CRS-000639,Workshop SQL Course 0639,Tech Academy,4,500,80,2026-01-01,2027-12-31,Available
+CRS-000640,Advanced Kubernetes Course 0640,Open Learning,8,500,12,2026-01-01,2027-12-31,Available
+CRS-000641,Professional Azure Course 0641,SkillWorks,32,2500,101,2026-01-01,2027-12-31,Available
+CRS-000642,Professional Project Management Course 0642,Open Learning,4,1500,80,2026-01-01,2027-12-31,Available
+CRS-000643,Advanced Power BI Course 0643,Internal Academy,8,1500,100,2026-01-01,2027-12-31,Available
+CRS-000644,Bootcamp Docker Course 0644,Internal Academy,16,1000,23,2026-01-01,2027-12-31,Unavailable
+CRS-000645,Advanced Excel Course 0645,Open Learning,4,1500,111,2026-01-01,2027-12-31,Available
+CRS-000646,Bootcamp Technical Writing Course 0646,Internal Academy,8,4000,103,2026-01-01,2027-12-31,Available
+CRS-000647,Advanced Cloud Fundamentals Course 0647,SkillWorks,24,2500,92,2026-01-01,2027-12-31,Unavailable
+CRS-000648,Bootcamp Financial Modeling Course 0648,Tech Academy,8,1000,56,2026-01-01,2027-12-31,Available
+CRS-000649,Essentials Financial Modeling Course 0649,Tech Academy,12,0,83,2026-01-01,2027-12-31,Available
+CRS-000650,Workshop HTML Course 0650,Tech Academy,4,6000,55,2026-01-01,2027-12-31,Available
+CRS-000651,Advanced Technical Writing Course 0651,Open Learning,6,1000,70,2026-01-01,2027-12-31,Available
+CRS-000652,Applied Presentation Skills Course 0652,Internal Academy,24,1500,106,2026-01-01,2027-12-31,Available
+CRS-000653,Professional Project Management Course 0653,Internal Academy,8,6000,29,2026-01-01,2027-12-31,Unavailable
+CRS-000654,Essentials Kubernetes Course 0654,Open Learning,6,500,11,2026-01-01,2027-12-31,Available
+CRS-000655,Applied Communication Course 0655,Internal Academy,6,1500,30,2026-01-01,2027-12-31,Available
+CRS-000656,Bootcamp Power BI Course 0656,Open Learning,20,1500,105,2026-01-01,2027-12-31,Available
+CRS-000657,Essentials Cybersecurity Course 0657,Tech Academy,2,0,44,2026-01-01,2027-12-31,Unavailable
+CRS-000658,Workshop UI Design Course 0658,Open Learning,20,4000,13,2026-01-01,2027-12-31,Unavailable
+CRS-000659,Essentials Process Improvement Course 0659,Open Learning,24,6000,79,2026-01-01,2027-12-31,Available
+CRS-000660,Workshop Cloud Fundamentals Course 0660,Tech Academy,16,6000,31,2026-01-01,2027-12-31,Unavailable
+CRS-000661,Professional Java Course 0661,Internal Academy,20,4000,94,2026-01-01,2027-12-31,Available
+CRS-000662,Bootcamp Stakeholder Management Course 0662,Internal Academy,4,1500,77,2026-01-01,2027-12-31,Available
+CRS-000663,Essentials Cybersecurity Course 0663,SkillWorks,2,6000,119,2026-01-01,2027-12-31,Available
+CRS-000664,Bootcamp Machine Learning Course 0664,Tech Academy,16,0,16,2026-01-01,2027-12-31,Unavailable
+CRS-000665,Essentials Problem Solving Course 0665,Open Learning,24,1500,37,2026-01-01,2027-12-31,Available
+CRS-000666,Essentials HTML Course 0666,Tech Academy,24,0,65,2026-01-01,2027-12-31,Available
+CRS-000667,Professional Kubernetes Course 0667,SkillWorks,24,4000,107,2026-01-01,2027-12-31,Unavailable
+CRS-000668,Advanced Docker Course 0668,Open Learning,8,1500,18,2026-01-01,2027-12-31,Available
+CRS-000669,Workshop Problem Solving Course 0669,Tech Academy,8,6000,89,2026-01-01,2027-12-31,Available
+CRS-000670,Foundations UX Research Course 0670,Tech Academy,12,1500,58,2026-01-01,2027-12-31,Unavailable
+CRS-000671,Workshop SQL Course 0671,Internal Academy,20,2500,61,2026-01-01,2027-12-31,Available
+CRS-000672,Essentials Cloud Fundamentals Course 0672,Internal Academy,32,500,38,2026-01-01,2027-12-31,Unavailable
+CRS-000673,Advanced React Course 0673,Open Learning,16,0,21,2026-01-01,2027-12-31,Unavailable
+CRS-000674,Essentials Java Course 0674,SkillWorks,12,1500,24,2026-01-01,2027-12-31,Available
+CRS-000675,Essentials Tableau Course 0675,Internal Academy,16,4000,107,2026-01-01,2027-12-31,Available
+CRS-000676,Essentials Cloud Fundamentals Course 0676,Open Learning,32,6000,39,2026-01-01,2027-12-31,Available
+CRS-000677,Workshop Machine Learning Course 0677,SkillWorks,20,1500,24,2026-01-01,2027-12-31,Unavailable
+CRS-000678,Bootcamp Leadership Course 0678,Internal Academy,16,4000,49,2026-01-01,2027-12-31,Available
+CRS-000679,Advanced Process Improvement Course 0679,Internal Academy,4,0,104,2026-01-01,2027-12-31,Available
+CRS-000680,Essentials Java Course 0680,SkillWorks,16,6000,101,2026-01-01,2027-12-31,Unavailable
+CRS-000681,Essentials Presentation Skills Course 0681,Open Learning,24,4000,23,2026-01-01,2027-12-31,Available
+CRS-000682,Advanced Presentation Skills Course 0682,Internal Academy,12,500,58,2026-01-01,2027-12-31,Available
+CRS-000683,Applied AWS Course 0683,Internal Academy,20,2500,88,2026-01-01,2027-12-31,Available
+CRS-000684,Workshop JavaScript Course 0684,Internal Academy,20,4000,64,2026-01-01,2027-12-31,Available
+CRS-000685,Workshop Cybersecurity Course 0685,Open Learning,24,1000,43,2026-01-01,2027-12-31,Available
+CRS-000686,Workshop Presentation Skills Course 0686,SkillWorks,24,2500,104,2026-01-01,2027-12-31,Unavailable
+CRS-000687,Professional Figma Course 0687,SkillWorks,4,1500,14,2026-01-01,2027-12-31,Available
+CRS-000688,Workshop Kubernetes Course 0688,Internal Academy,6,0,102,2026-01-01,2027-12-31,Available
+CRS-000689,Professional Technical Writing Course 0689,Internal Academy,20,1500,66,2026-01-01,2027-12-31,Available
+CRS-000690,Essentials Java Course 0690,SkillWorks,16,0,58,2026-01-01,2027-12-31,Available
+CRS-000691,Applied UI Design Course 0691,Internal Academy,16,4000,54,2026-01-01,2027-12-31,Available
+CRS-000692,Workshop React Course 0692,Internal Academy,4,6000,55,2026-01-01,2027-12-31,Available
+CRS-000693,Applied Kubernetes Course 0693,SkillWorks,32,6000,55,2026-01-01,2027-12-31,Unavailable
+CRS-000694,Applied Cybersecurity Course 0694,Tech Academy,2,2500,106,2026-01-01,2027-12-31,Unavailable
+CRS-000695,Applied UX Research Course 0695,Open Learning,12,4000,11,2026-01-01,2027-12-31,Available
+CRS-000696,Essentials JavaScript Course 0696,Tech Academy,32,500,41,2026-01-01,2027-12-31,Unavailable
+CRS-000697,Bootcamp Machine Learning Course 0697,Tech Academy,24,6000,48,2026-01-01,2027-12-31,Available
+CRS-000698,Foundations React Course 0698,Open Learning,12,500,71,2026-01-01,2027-12-31,Available
+CRS-000699,Applied Technical Writing Course 0699,Tech Academy,8,6000,23,2026-01-01,2027-12-31,Available
+CRS-000700,Workshop Kubernetes Course 0700,Internal Academy,24,1000,37,2026-01-01,2027-12-31,Available
+CRS-000701,Essentials Data Analysis Course 0701,Internal Academy,2,4000,42,2026-01-01,2027-12-31,Available
+CRS-000702,Applied Figma Course 0702,Tech Academy,2,2500,75,2026-01-01,2027-12-31,Available
+CRS-000703,Professional React Course 0703,Internal Academy,24,1000,87,2026-01-01,2027-12-31,Available
+CRS-000704,Workshop Excel Course 0704,SkillWorks,8,1500,59,2026-01-01,2027-12-31,Unavailable
+CRS-000705,Essentials Python Course 0705,Tech Academy,4,4000,40,2026-01-01,2027-12-31,Available
+CRS-000706,Advanced Cybersecurity Course 0706,Internal Academy,12,4000,52,2026-01-01,2027-12-31,Available
+CRS-000707,Bootcamp UX Research Course 0707,Tech Academy,16,4000,81,2026-01-01,2027-12-31,Available
+CRS-000708,Workshop Statistics Course 0708,Tech Academy,20,500,42,2026-01-01,2027-12-31,Available
+CRS-000709,Workshop Cybersecurity Course 0709,Tech Academy,6,4000,84,2026-01-01,2027-12-31,Available
+CRS-000710,Workshop Kubernetes Course 0710,Open Learning,32,4000,29,2026-01-01,2027-12-31,Unavailable
+CRS-000711,Applied Technical Writing Course 0711,Open Learning,2,4000,108,2026-01-01,2027-12-31,Available
+CRS-000712,Applied HTML Course 0712,Tech Academy,6,2500,57,2026-01-01,2027-12-31,Available
+CRS-000713,Essentials JavaScript Course 0713,Open Learning,16,0,71,2026-01-01,2027-12-31,Available
+CRS-000714,Foundations Docker Course 0714,Internal Academy,16,4000,47,2026-01-01,2027-12-31,Available
+CRS-000715,Essentials Stakeholder Management Course 0715,Tech Academy,20,2500,96,2026-01-01,2027-12-31,Available
+CRS-000716,Applied Agile Course 0716,SkillWorks,20,6000,107,2026-01-01,2027-12-31,Available
+CRS-000717,Workshop Customer Service Course 0717,SkillWorks,16,500,19,2026-01-01,2027-12-31,Unavailable
+CRS-000718,Workshop SQL Course 0718,Internal Academy,8,1000,73,2026-01-01,2027-12-31,Unavailable
+CRS-000719,Workshop CSS Course 0719,Internal Academy,6,1000,85,2026-01-01,2027-12-31,Available
+CRS-000720,Foundations Process Improvement Course 0720,Tech Academy,2,2500,15,2026-01-01,2027-12-31,Available
+CRS-000721,Professional Stakeholder Management Course 0721,Internal Academy,4,4000,61,2026-01-01,2027-12-31,Available
+CRS-000722,Workshop Statistics Course 0722,Open Learning,16,1000,53,2026-01-01,2027-12-31,Available
+CRS-000723,Applied Azure Course 0723,SkillWorks,16,0,78,2026-01-01,2027-12-31,Available
+CRS-000724,Foundations HTML Course 0724,Open Learning,2,1000,41,2026-01-01,2027-12-31,Available
+CRS-000725,Advanced UX Research Course 0725,Open Learning,16,2500,62,2026-01-01,2027-12-31,Available
+CRS-000726,Essentials UX Research Course 0726,Tech Academy,20,4000,76,2026-01-01,2027-12-31,Available
+CRS-000727,Professional Kubernetes Course 0727,Tech Academy,32,500,105,2026-01-01,2027-12-31,Available
+CRS-000728,Essentials HTML Course 0728,SkillWorks,2,6000,51,2026-01-01,2027-12-31,Available
+CRS-000729,Applied Excel Course 0729,Tech Academy,20,6000,108,2026-01-01,2027-12-31,Unavailable
+CRS-000730,Essentials Customer Service Course 0730,Open Learning,20,4000,27,2026-01-01,2027-12-31,Unavailable
+CRS-000731,Essentials Git Course 0731,Internal Academy,20,2500,80,2026-01-01,2027-12-31,Unavailable
+CRS-000732,Applied Project Management Course 0732,Internal Academy,6,1500,80,2026-01-01,2027-12-31,Available
+CRS-000733,Advanced Java Course 0733,Open Learning,12,1000,13,2026-01-01,2027-12-31,Available
+CRS-000734,Workshop React Course 0734,Internal Academy,32,0,103,2026-01-01,2027-12-31,Unavailable
+CRS-000735,Professional Problem Solving Course 0735,Tech Academy,32,2500,64,2026-01-01,2027-12-31,Available
+CRS-000736,Advanced Git Course 0736,SkillWorks,12,0,94,2026-01-01,2027-12-31,Available
+CRS-000737,Workshop Docker Course 0737,SkillWorks,32,0,34,2026-01-01,2027-12-31,Available
+CRS-000738,Essentials Tableau Course 0738,Internal Academy,4,500,42,2026-01-01,2027-12-31,Available
+CRS-000739,Foundations HTML Course 0739,Tech Academy,6,0,31,2026-01-01,2027-12-31,Available
+CRS-000740,Essentials JavaScript Course 0740,Open Learning,20,500,109,2026-01-01,2027-12-31,Available
+CRS-000741,Foundations Process Improvement Course 0741,SkillWorks,12,1500,59,2026-01-01,2027-12-31,Unavailable
+CRS-000742,Workshop Python Course 0742,Tech Academy,2,2500,80,2026-01-01,2027-12-31,Available
+CRS-000743,Workshop AWS Course 0743,Internal Academy,2,1500,119,2026-01-01,2027-12-31,Available
+CRS-000744,Applied Agile Course 0744,Tech Academy,20,0,42,2026-01-01,2027-12-31,Available
+CRS-000745,Advanced Process Improvement Course 0745,SkillWorks,20,6000,59,2026-01-01,2027-12-31,Unavailable
+CRS-000746,Foundations Kubernetes Course 0746,SkillWorks,20,4000,14,2026-01-01,2027-12-31,Available
+CRS-000747,Essentials UI Design Course 0747,SkillWorks,32,0,74,2026-01-01,2027-12-31,Available
+CRS-000748,Foundations Python Course 0748,SkillWorks,4,500,101,2026-01-01,2027-12-31,Available
+CRS-000749,Professional Cloud Fundamentals Course 0749,Internal Academy,12,6000,120,2026-01-01,2027-12-31,Available
+CRS-000750,Applied Git Course 0750,Tech Academy,6,1000,62,2026-01-01,2027-12-31,Available
+CRS-000751,Bootcamp Figma Course 0751,Tech Academy,20,500,10,2026-01-01,2027-12-31,Unavailable
+CRS-000752,Advanced Cybersecurity Course 0752,SkillWorks,20,0,110,2026-01-01,2027-12-31,Available
+CRS-000753,Professional Problem Solving Course 0753,SkillWorks,12,1000,42,2026-01-01,2027-12-31,Available
+CRS-000754,Workshop Stakeholder Management Course 0754,Internal Academy,12,500,84,2026-01-01,2027-12-31,Available
+CRS-000755,Advanced Presentation Skills Course 0755,SkillWorks,32,4000,92,2026-01-01,2027-12-31,Available
+CRS-000756,Advanced UI Design Course 0756,Open Learning,24,6000,92,2026-01-01,2027-12-31,Available
+CRS-000757,Professional Stakeholder Management Course 0757,Internal Academy,32,1000,50,2026-01-01,2027-12-31,Unavailable
+CRS-000758,Essentials React Course 0758,SkillWorks,4,1000,25,2026-01-01,2027-12-31,Unavailable
+CRS-000759,Professional Presentation Skills Course 0759,Open Learning,2,1000,63,2026-01-01,2027-12-31,Available
+CRS-000760,Applied Git Course 0760,Open Learning,16,1000,49,2026-01-01,2027-12-31,Available
+CRS-000761,Applied Excel Course 0761,SkillWorks,24,500,81,2026-01-01,2027-12-31,Unavailable
+CRS-000762,Applied Agile Course 0762,Tech Academy,8,1500,117,2026-01-01,2027-12-31,Available
+CRS-000763,Essentials Azure Course 0763,Internal Academy,6,1500,42,2026-01-01,2027-12-31,Unavailable
+CRS-000764,Professional Azure Course 0764,Internal Academy,16,1500,113,2026-01-01,2027-12-31,Available
+CRS-000765,Advanced Communication Course 0765,Open Learning,4,2500,109,2026-01-01,2027-12-31,Available
+CRS-000766,Applied Cybersecurity Course 0766,Tech Academy,24,6000,48,2026-01-01,2027-12-31,Unavailable
+CRS-000767,Advanced Statistics Course 0767,Open Learning,8,6000,108,2026-01-01,2027-12-31,Available
+CRS-000768,Applied Git Course 0768,Tech Academy,8,6000,101,2026-01-01,2027-12-31,Unavailable
+CRS-000769,Foundations HTML Course 0769,Internal Academy,16,0,34,2026-01-01,2027-12-31,Available
+CRS-000770,Advanced Problem Solving Course 0770,Open Learning,20,6000,50,2026-01-01,2027-12-31,Unavailable
+CRS-000771,Essentials Agile Course 0771,Internal Academy,20,500,91,2026-01-01,2027-12-31,Available
+CRS-000772,Essentials Presentation Skills Course 0772,Internal Academy,12,1000,82,2026-01-01,2027-12-31,Unavailable
+CRS-000773,Essentials Excel Course 0773,Internal Academy,20,0,85,2026-01-01,2027-12-31,Available
+CRS-000774,Foundations Tableau Course 0774,SkillWorks,24,1500,44,2026-01-01,2027-12-31,Unavailable
+CRS-000775,Foundations Communication Course 0775,Internal Academy,16,1500,29,2026-01-01,2027-12-31,Unavailable
+CRS-000776,Bootcamp AWS Course 0776,SkillWorks,20,6000,66,2026-01-01,2027-12-31,Available
+CRS-000777,Essentials Excel Course 0777,SkillWorks,20,1500,35,2026-01-01,2027-12-31,Available
+CRS-000778,Advanced Cybersecurity Course 0778,Tech Academy,32,2500,37,2026-01-01,2027-12-31,Available
+CRS-000779,Workshop Excel Course 0779,SkillWorks,6,4000,52,2026-01-01,2027-12-31,Available
+CRS-000780,Bootcamp Machine Learning Course 0780,Internal Academy,12,0,84,2026-01-01,2027-12-31,Unavailable
+CRS-000781,Foundations Presentation Skills Course 0781,Tech Academy,20,6000,10,2026-01-01,2027-12-31,Unavailable
+CRS-000782,Workshop AWS Course 0782,Open Learning,2,500,14,2026-01-01,2027-12-31,Unavailable
+CRS-000783,Bootcamp Data Analysis Course 0783,SkillWorks,4,0,99,2026-01-01,2027-12-31,Available
+CRS-000784,Advanced UI Design Course 0784,SkillWorks,4,500,62,2026-01-01,2027-12-31,Unavailable
+CRS-000785,Workshop Tableau Course 0785,Tech Academy,24,6000,101,2026-01-01,2027-12-31,Available
+CRS-000786,Advanced Cybersecurity Course 0786,Open Learning,16,1500,50,2026-01-01,2027-12-31,Available
+CRS-000787,Applied Stakeholder Management Course 0787,SkillWorks,20,500,114,2026-01-01,2027-12-31,Available
+CRS-000788,Applied Problem Solving Course 0788,SkillWorks,24,4000,66,2026-01-01,2027-12-31,Available
+CRS-000789,Professional Azure Course 0789,Tech Academy,8,1500,88,2026-01-01,2027-12-31,Available
+CRS-000790,Bootcamp Cybersecurity Course 0790,SkillWorks,2,6000,97,2026-01-01,2027-12-31,Unavailable
+CRS-000791,Foundations Stakeholder Management Course 0791,Open Learning,16,1500,12,2026-01-01,2027-12-31,Available
+CRS-000792,Workshop AWS Course 0792,Open Learning,8,4000,109,2026-01-01,2027-12-31,Unavailable
+CRS-000793,Advanced Data Analysis Course 0793,Open Learning,16,2500,99,2026-01-01,2027-12-31,Available
+CRS-000794,Applied Communication Course 0794,Tech Academy,32,0,111,2026-01-01,2027-12-31,Unavailable
+CRS-000795,Professional Power BI Course 0795,Open Learning,12,1500,30,2026-01-01,2027-12-31,Available
+CRS-000796,Professional UI Design Course 0796,Open Learning,12,500,74,2026-01-01,2027-12-31,Available
+CRS-000797,Professional Stakeholder Management Course 0797,Tech Academy,12,2500,91,2026-01-01,2027-12-31,Available
+CRS-000798,Professional Docker Course 0798,Internal Academy,2,2500,33,2026-01-01,2027-12-31,Available
+CRS-000799,Workshop Customer Service Course 0799,Open Learning,12,500,53,2026-01-01,2027-12-31,Available
+CRS-000800,Advanced Process Improvement Course 0800,Tech Academy,16,6000,55,2026-01-01,2027-12-31,Available
+CRS-000801,Applied Machine Learning Course 0801,Internal Academy,4,1500,86,2026-01-01,2027-12-31,Unavailable
+CRS-000802,Advanced CSS Course 0802,Internal Academy,2,2500,112,2026-01-01,2027-12-31,Available
+CRS-000803,Advanced Agile Course 0803,Tech Academy,20,1000,79,2026-01-01,2027-12-31,Available
+CRS-000804,Applied Machine Learning Course 0804,SkillWorks,4,0,11,2026-01-01,2027-12-31,Available
+CRS-000805,Foundations Cybersecurity Course 0805,Open Learning,24,1500,90,2026-01-01,2027-12-31,Available
+CRS-000806,Applied React Course 0806,Open Learning,32,2500,33,2026-01-01,2027-12-31,Available
+CRS-000807,Bootcamp HTML Course 0807,Tech Academy,2,2500,68,2026-01-01,2027-12-31,Unavailable
+CRS-000808,Foundations React Course 0808,Open Learning,12,2500,95,2026-01-01,2027-12-31,Unavailable
+CRS-000809,Applied Leadership Course 0809,Internal Academy,12,500,24,2026-01-01,2027-12-31,Unavailable
+CRS-000810,Advanced Financial Modeling Course 0810,Tech Academy,32,1000,12,2026-01-01,2027-12-31,Available
+CRS-000811,Foundations Docker Course 0811,SkillWorks,6,4000,42,2026-01-01,2027-12-31,Unavailable
+CRS-000812,Professional CSS Course 0812,Tech Academy,16,1500,75,2026-01-01,2027-12-31,Unavailable
+CRS-000813,Workshop Python Course 0813,SkillWorks,16,6000,52,2026-01-01,2027-12-31,Available
+CRS-000814,Workshop Azure Course 0814,Tech Academy,8,2500,43,2026-01-01,2027-12-31,Unavailable
+CRS-000815,Foundations HTML Course 0815,SkillWorks,24,6000,61,2026-01-01,2027-12-31,Available
+CRS-000816,Bootcamp SQL Course 0816,Internal Academy,12,4000,61,2026-01-01,2027-12-31,Available
+CRS-000817,Essentials Azure Course 0817,SkillWorks,20,1000,69,2026-01-01,2027-12-31,Available
+CRS-000818,Professional AWS Course 0818,SkillWorks,16,4000,77,2026-01-01,2027-12-31,Available
+CRS-000819,Workshop Agile Course 0819,Internal Academy,2,6000,82,2026-01-01,2027-12-31,Available
+CRS-000820,Professional CSS Course 0820,Open Learning,4,6000,113,2026-01-01,2027-12-31,Available
+CRS-000821,Advanced Statistics Course 0821,Tech Academy,24,2500,55,2026-01-01,2027-12-31,Available
+CRS-000822,Bootcamp Technical Writing Course 0822,Tech Academy,2,0,81,2026-01-01,2027-12-31,Unavailable
+CRS-000823,Advanced Azure Course 0823,Internal Academy,16,1000,93,2026-01-01,2027-12-31,Available
+CRS-000824,Applied Machine Learning Course 0824,Internal Academy,2,0,98,2026-01-01,2027-12-31,Available
+CRS-000825,Foundations CSS Course 0825,Open Learning,12,0,97,2026-01-01,2027-12-31,Available
+CRS-000826,Foundations Communication Course 0826,SkillWorks,4,500,33,2026-01-01,2027-12-31,Available
+CRS-000827,Foundations Java Course 0827,Tech Academy,2,0,30,2026-01-01,2027-12-31,Available
+CRS-000828,Workshop Communication Course 0828,Tech Academy,12,1000,69,2026-01-01,2027-12-31,Unavailable
+CRS-000829,Bootcamp React Course 0829,Open Learning,24,1500,10,2026-01-01,2027-12-31,Available
+CRS-000830,Bootcamp Presentation Skills Course 0830,Open Learning,20,2500,28,2026-01-01,2027-12-31,Available
+CRS-000831,Essentials Communication Course 0831,Internal Academy,12,4000,116,2026-01-01,2027-12-31,Available
+CRS-000832,Professional Java Course 0832,SkillWorks,2,2500,60,2026-01-01,2027-12-31,Available
+CRS-000833,Bootcamp Git Course 0833,SkillWorks,20,500,37,2026-01-01,2027-12-31,Available
+CRS-000834,Bootcamp Docker Course 0834,Internal Academy,8,4000,44,2026-01-01,2027-12-31,Available
+CRS-000835,Workshop Machine Learning Course 0835,Open Learning,16,4000,66,2026-01-01,2027-12-31,Available
+CRS-000836,Bootcamp Excel Course 0836,Open Learning,4,4000,64,2026-01-01,2027-12-31,Available
+CRS-000837,Professional Presentation Skills Course 0837,SkillWorks,24,4000,80,2026-01-01,2027-12-31,Available
+CRS-000838,Essentials Leadership Course 0838,Tech Academy,4,4000,15,2026-01-01,2027-12-31,Available
+CRS-000839,Professional Python Course 0839,Tech Academy,2,4000,11,2026-01-01,2027-12-31,Available
+CRS-000840,Advanced Azure Course 0840,Internal Academy,4,2500,48,2026-01-01,2027-12-31,Available
+CRS-000841,Bootcamp SQL Course 0841,Internal Academy,12,1000,90,2026-01-01,2027-12-31,Available
+CRS-000842,Workshop Azure Course 0842,Internal Academy,32,0,100,2026-01-01,2027-12-31,Available
+CRS-000843,Professional Java Course 0843,SkillWorks,4,1000,46,2026-01-01,2027-12-31,Available
+CRS-000844,Foundations Financial Modeling Course 0844,Open Learning,16,1500,82,2026-01-01,2027-12-31,Available
+CRS-000845,Professional Azure Course 0845,Internal Academy,2,4000,60,2026-01-01,2027-12-31,Available
+CRS-000846,Advanced Figma Course 0846,Internal Academy,16,2500,27,2026-01-01,2027-12-31,Available
+CRS-000847,Essentials Financial Modeling Course 0847,SkillWorks,24,500,110,2026-01-01,2027-12-31,Unavailable
+CRS-000848,Applied Process Improvement Course 0848,Open Learning,32,1500,95,2026-01-01,2027-12-31,Available
+CRS-000849,Essentials Excel Course 0849,Open Learning,8,1000,25,2026-01-01,2027-12-31,Available
+CRS-000850,Advanced Excel Course 0850,SkillWorks,16,6000,77,2026-01-01,2027-12-31,Available
+CRS-000851,Advanced Financial Modeling Course 0851,SkillWorks,20,6000,105,2026-01-01,2027-12-31,Available
+CRS-000852,Essentials HTML Course 0852,Internal Academy,6,2500,70,2026-01-01,2027-12-31,Unavailable
+CRS-000853,Applied Financial Modeling Course 0853,Open Learning,24,1000,37,2026-01-01,2027-12-31,Unavailable
+CRS-000854,Professional JavaScript Course 0854,Open Learning,8,1000,53,2026-01-01,2027-12-31,Available
+CRS-000855,Advanced Java Course 0855,SkillWorks,16,1000,111,2026-01-01,2027-12-31,Available
+CRS-000856,Foundations UI Design Course 0856,Tech Academy,20,500,66,2026-01-01,2027-12-31,Available
+CRS-000857,Essentials SQL Course 0857,SkillWorks,2,2500,55,2026-01-01,2027-12-31,Available
+CRS-000858,Applied Cybersecurity Course 0858,SkillWorks,24,6000,80,2026-01-01,2027-12-31,Unavailable
+CRS-000859,Advanced AWS Course 0859,Tech Academy,8,1500,68,2026-01-01,2027-12-31,Available
+CRS-000860,Foundations Leadership Course 0860,Tech Academy,20,1500,117,2026-01-01,2027-12-31,Available
+CRS-000861,Essentials Customer Service Course 0861,Internal Academy,8,1000,111,2026-01-01,2027-12-31,Available
+CRS-000862,Professional HTML Course 0862,SkillWorks,8,6000,76,2026-01-01,2027-12-31,Unavailable
+CRS-000863,Foundations Python Course 0863,Tech Academy,4,6000,102,2026-01-01,2027-12-31,Unavailable
+CRS-000864,Essentials UI Design Course 0864,Tech Academy,12,4000,42,2026-01-01,2027-12-31,Available
+CRS-000865,Bootcamp Tableau Course 0865,SkillWorks,4,1000,88,2026-01-01,2027-12-31,Available
+CRS-000866,Applied Python Course 0866,Tech Academy,32,500,59,2026-01-01,2027-12-31,Available
+CRS-000867,Workshop UI Design Course 0867,Open Learning,32,2500,14,2026-01-01,2027-12-31,Available
+CRS-000868,Workshop JavaScript Course 0868,Internal Academy,8,4000,92,2026-01-01,2027-12-31,Available
+CRS-000869,Foundations Python Course 0869,Open Learning,24,1500,43,2026-01-01,2027-12-31,Unavailable
+CRS-000870,Bootcamp Project Management Course 0870,Tech Academy,20,0,49,2026-01-01,2027-12-31,Available
+CRS-000871,Applied Figma Course 0871,Tech Academy,16,0,100,2026-01-01,2027-12-31,Unavailable
+CRS-000872,Essentials Process Improvement Course 0872,Tech Academy,4,2500,70,2026-01-01,2027-12-31,Unavailable
+CRS-000873,Essentials Docker Course 0873,Tech Academy,4,2500,16,2026-01-01,2027-12-31,Available
+CRS-000874,Essentials Kubernetes Course 0874,Internal Academy,12,1500,28,2026-01-01,2027-12-31,Available
+CRS-000875,Advanced Python Course 0875,SkillWorks,4,0,19,2026-01-01,2027-12-31,Available
+CRS-000876,Essentials Technical Writing Course 0876,SkillWorks,16,1000,78,2026-01-01,2027-12-31,Available
+CRS-000877,Essentials Docker Course 0877,Open Learning,12,6000,103,2026-01-01,2027-12-31,Unavailable
+CRS-000878,Professional CSS Course 0878,SkillWorks,6,2500,94,2026-01-01,2027-12-31,Available
+CRS-000879,Essentials Cloud Fundamentals Course 0879,Internal Academy,8,1500,19,2026-01-01,2027-12-31,Available
+CRS-000880,Bootcamp Technical Writing Course 0880,Open Learning,16,1500,51,2026-01-01,2027-12-31,Available
+CRS-000881,Essentials Financial Modeling Course 0881,Internal Academy,2,1000,31,2026-01-01,2027-12-31,Available
+CRS-000882,Applied Tableau Course 0882,Internal Academy,20,500,27,2026-01-01,2027-12-31,Unavailable
+CRS-000883,Bootcamp Stakeholder Management Course 0883,Open Learning,20,2500,54,2026-01-01,2027-12-31,Unavailable
+CRS-000884,Workshop React Course 0884,Internal Academy,32,1500,52,2026-01-01,2027-12-31,Available
+CRS-000885,Professional Leadership Course 0885,Open Learning,8,6000,56,2026-01-01,2027-12-31,Available
+CRS-000886,Applied Python Course 0886,Internal Academy,8,500,52,2026-01-01,2027-12-31,Available
+CRS-000887,Workshop CSS Course 0887,Internal Academy,20,1000,21,2026-01-01,2027-12-31,Available
+CRS-000888,Workshop Financial Modeling Course 0888,Open Learning,6,1500,30,2026-01-01,2027-12-31,Unavailable
+CRS-000889,Essentials Java Course 0889,SkillWorks,16,2500,116,2026-01-01,2027-12-31,Available
+CRS-000890,Professional Docker Course 0890,Tech Academy,20,500,47,2026-01-01,2027-12-31,Available
+CRS-000891,Applied JavaScript Course 0891,Open Learning,20,0,107,2026-01-01,2027-12-31,Unavailable
+CRS-000892,Essentials Cybersecurity Course 0892,Tech Academy,6,2500,31,2026-01-01,2027-12-31,Unavailable
+CRS-000893,Workshop Presentation Skills Course 0893,Internal Academy,24,6000,96,2026-01-01,2027-12-31,Available
+CRS-000894,Professional Technical Writing Course 0894,SkillWorks,6,1000,48,2026-01-01,2027-12-31,Available
+CRS-000895,Workshop Presentation Skills Course 0895,SkillWorks,2,1500,99,2026-01-01,2027-12-31,Unavailable
+CRS-000896,Professional AWS Course 0896,Open Learning,8,0,99,2026-01-01,2027-12-31,Unavailable
+CRS-000897,Foundations Project Management Course 0897,Tech Academy,20,1500,65,2026-01-01,2027-12-31,Available
+CRS-000898,Advanced Statistics Course 0898,SkillWorks,6,1500,111,2026-01-01,2027-12-31,Available
+CRS-000899,Foundations Presentation Skills Course 0899,Open Learning,4,500,21,2026-01-01,2027-12-31,Available
+CRS-000900,Professional Git Course 0900,Tech Academy,20,0,79,2026-01-01,2027-12-31,Unavailable
+CRS-000901,Bootcamp Data Analysis Course 0901,Open Learning,2,1000,13,2026-01-01,2027-12-31,Unavailable
+CRS-000902,Bootcamp Figma Course 0902,Internal Academy,6,2500,50,2026-01-01,2027-12-31,Unavailable
+CRS-000903,Applied JavaScript Course 0903,Internal Academy,4,0,100,2026-01-01,2027-12-31,Available
+CRS-000904,Bootcamp Agile Course 0904,Tech Academy,16,1000,11,2026-01-01,2027-12-31,Available
+CRS-000905,Bootcamp UI Design Course 0905,Open Learning,8,500,98,2026-01-01,2027-12-31,Available
+CRS-000906,Essentials HTML Course 0906,SkillWorks,8,6000,119,2026-01-01,2027-12-31,Available
+CRS-000907,Workshop Figma Course 0907,Internal Academy,32,4000,85,2026-01-01,2027-12-31,Available
+CRS-000908,Professional Technical Writing Course 0908,Tech Academy,8,1000,116,2026-01-01,2027-12-31,Available
+CRS-000909,Bootcamp UX Research Course 0909,Tech Academy,2,500,38,2026-01-01,2027-12-31,Available
+CRS-000910,Workshop Stakeholder Management Course 0910,SkillWorks,4,2500,96,2026-01-01,2027-12-31,Unavailable
+CRS-000911,Applied Stakeholder Management Course 0911,Open Learning,16,4000,69,2026-01-01,2027-12-31,Available
+CRS-000912,Bootcamp Technical Writing Course 0912,Open Learning,16,1500,95,2026-01-01,2027-12-31,Available
+CRS-000913,Professional Cybersecurity Course 0913,SkillWorks,32,1000,55,2026-01-01,2027-12-31,Available
+CRS-000914,Workshop Docker Course 0914,Internal Academy,20,500,81,2026-01-01,2027-12-31,Available
+CRS-000915,Essentials Git Course 0915,Tech Academy,16,1000,84,2026-01-01,2027-12-31,Unavailable
+CRS-000916,Advanced Technical Writing Course 0916,Internal Academy,32,1000,55,2026-01-01,2027-12-31,Available
+CRS-000917,Professional CSS Course 0917,Tech Academy,24,6000,82,2026-01-01,2027-12-31,Available
+CRS-000918,Professional Git Course 0918,SkillWorks,4,2500,41,2026-01-01,2027-12-31,Available
+CRS-000919,Bootcamp CSS Course 0919,Tech Academy,6,0,116,2026-01-01,2027-12-31,Available
+CRS-000920,Advanced Docker Course 0920,SkillWorks,12,6000,48,2026-01-01,2027-12-31,Available
+CRS-000921,Workshop CSS Course 0921,Internal Academy,4,0,28,2026-01-01,2027-12-31,Available
+CRS-000922,Professional Process Improvement Course 0922,SkillWorks,4,4000,113,2026-01-01,2027-12-31,Unavailable
+CRS-000923,Advanced Azure Course 0923,SkillWorks,12,2500,101,2026-01-01,2027-12-31,Available
+CRS-000924,Workshop JavaScript Course 0924,Internal Academy,12,500,54,2026-01-01,2027-12-31,Available
+CRS-000925,Advanced Project Management Course 0925,Internal Academy,16,1000,71,2026-01-01,2027-12-31,Available
+CRS-000926,Bootcamp Project Management Course 0926,Open Learning,6,1500,99,2026-01-01,2027-12-31,Available
+CRS-000927,Professional Excel Course 0927,SkillWorks,16,500,120,2026-01-01,2027-12-31,Available
+CRS-000928,Professional Problem Solving Course 0928,Internal Academy,6,1000,49,2026-01-01,2027-12-31,Available
+CRS-000929,Workshop Leadership Course 0929,Internal Academy,4,1000,33,2026-01-01,2027-12-31,Available
+CRS-000930,Applied Leadership Course 0930,Internal Academy,32,0,47,2026-01-01,2027-12-31,Unavailable
+CRS-000931,Workshop Power BI Course 0931,Open Learning,6,0,23,2026-01-01,2027-12-31,Available
+CRS-000932,Advanced Leadership Course 0932,Internal Academy,8,500,42,2026-01-01,2027-12-31,Available
+CRS-000933,Foundations Git Course 0933,Internal Academy,12,0,117,2026-01-01,2027-12-31,Available
+CRS-000934,Advanced Cybersecurity Course 0934,Internal Academy,6,2500,54,2026-01-01,2027-12-31,Available
+CRS-000935,Foundations React Course 0935,Internal Academy,32,1000,79,2026-01-01,2027-12-31,Available
+CRS-000936,Bootcamp Tableau Course 0936,Internal Academy,20,2500,47,2026-01-01,2027-12-31,Unavailable
+CRS-000937,Advanced HTML Course 0937,Internal Academy,24,2500,69,2026-01-01,2027-12-31,Unavailable
+CRS-000938,Workshop CSS Course 0938,Internal Academy,2,6000,11,2026-01-01,2027-12-31,Available
+CRS-000939,Professional Process Improvement Course 0939,Internal Academy,8,1000,66,2026-01-01,2027-12-31,Available
+CRS-000940,Essentials Customer Service Course 0940,Open Learning,16,2500,109,2026-01-01,2027-12-31,Available
+CRS-000941,Advanced Cloud Fundamentals Course 0941,SkillWorks,4,1500,85,2026-01-01,2027-12-31,Available
+CRS-000942,Workshop Statistics Course 0942,Open Learning,8,500,82,2026-01-01,2027-12-31,Available
+CRS-000943,Advanced Communication Course 0943,SkillWorks,16,2500,107,2026-01-01,2027-12-31,Unavailable
+CRS-000944,Applied JavaScript Course 0944,Open Learning,2,0,116,2026-01-01,2027-12-31,Unavailable
+CRS-000945,Bootcamp Presentation Skills Course 0945,Open Learning,20,1500,102,2026-01-01,2027-12-31,Unavailable
+CRS-000946,Professional Process Improvement Course 0946,Open Learning,6,6000,105,2026-01-01,2027-12-31,Unavailable
+CRS-000947,Essentials Python Course 0947,Open Learning,12,6000,118,2026-01-01,2027-12-31,Available
+CRS-000948,Professional Data Analysis Course 0948,SkillWorks,16,1000,120,2026-01-01,2027-12-31,Available
+CRS-000949,Workshop Cloud Fundamentals Course 0949,Internal Academy,20,2500,11,2026-01-01,2027-12-31,Unavailable
+CRS-000950,Bootcamp Machine Learning Course 0950,SkillWorks,16,1000,118,2026-01-01,2027-12-31,Available
+CRS-000951,Bootcamp Data Analysis Course 0951,Open Learning,24,0,109,2026-01-01,2027-12-31,Available
+CRS-000952,Foundations UI Design Course 0952,Internal Academy,6,2500,57,2026-01-01,2027-12-31,Unavailable
+CRS-000953,Foundations Kubernetes Course 0953,Open Learning,12,4000,13,2026-01-01,2027-12-31,Available
+CRS-000954,Workshop Technical Writing Course 0954,Internal Academy,6,1000,27,2026-01-01,2027-12-31,Available
+CRS-000955,Applied UX Research Course 0955,SkillWorks,32,500,91,2026-01-01,2027-12-31,Available
+CRS-000956,Bootcamp Machine Learning Course 0956,Open Learning,16,0,79,2026-01-01,2027-12-31,Unavailable
+CRS-000957,Advanced Excel Course 0957,SkillWorks,20,0,116,2026-01-01,2027-12-31,Available
+CRS-000958,Bootcamp Statistics Course 0958,Tech Academy,2,500,25,2026-01-01,2027-12-31,Unavailable
+CRS-000959,Advanced Docker Course 0959,Open Learning,32,0,56,2026-01-01,2027-12-31,Available
+CRS-000960,Applied UX Research Course 0960,Tech Academy,16,1000,98,2026-01-01,2027-12-31,Available
+CRS-000961,Workshop Docker Course 0961,SkillWorks,32,1500,59,2026-01-01,2027-12-31,Available
+CRS-000962,Workshop Project Management Course 0962,Open Learning,2,1000,20,2026-01-01,2027-12-31,Available
+CRS-000963,Professional Docker Course 0963,Internal Academy,16,6000,116,2026-01-01,2027-12-31,Available
+CRS-000964,Bootcamp Tableau Course 0964,Open Learning,6,500,79,2026-01-01,2027-12-31,Available
+CRS-000965,Advanced Docker Course 0965,Open Learning,4,6000,117,2026-01-01,2027-12-31,Unavailable
+CRS-000966,Foundations Power BI Course 0966,Internal Academy,2,1000,55,2026-01-01,2027-12-31,Unavailable
+CRS-000967,Applied Docker Course 0967,Open Learning,24,4000,40,2026-01-01,2027-12-31,Available
+CRS-000968,Professional Statistics Course 0968,Open Learning,24,1000,90,2026-01-01,2027-12-31,Available
+CRS-000969,Applied HTML Course 0969,Open Learning,20,0,37,2026-01-01,2027-12-31,Available
+CRS-000970,Workshop Figma Course 0970,Tech Academy,20,4000,105,2026-01-01,2027-12-31,Available
+CRS-000971,Workshop Agile Course 0971,SkillWorks,16,1500,116,2026-01-01,2027-12-31,Available
+CRS-000972,Workshop Presentation Skills Course 0972,Internal Academy,4,1500,103,2026-01-01,2027-12-31,Available
+CRS-000973,Essentials Communication Course 0973,SkillWorks,32,500,80,2026-01-01,2027-12-31,Available
+CRS-000974,Applied Technical Writing Course 0974,Open Learning,2,6000,68,2026-01-01,2027-12-31,Available
+CRS-000975,Professional Cybersecurity Course 0975,SkillWorks,8,1000,71,2026-01-01,2027-12-31,Available
+CRS-000976,Applied Machine Learning Course 0976,Open Learning,24,1000,90,2026-01-01,2027-12-31,Available
+CRS-000977,Bootcamp Cloud Fundamentals Course 0977,Open Learning,32,1000,97,2026-01-01,2027-12-31,Available
+CRS-000978,Advanced Project Management Course 0978,Internal Academy,4,0,119,2026-01-01,2027-12-31,Available
+CRS-000979,Professional HTML Course 0979,Open Learning,8,6000,69,2026-01-01,2027-12-31,Available
+CRS-000980,Professional Cybersecurity Course 0980,Open Learning,12,6000,39,2026-01-01,2027-12-31,Available
+CRS-000981,Bootcamp Java Course 0981,Internal Academy,24,1000,54,2026-01-01,2027-12-31,Available
+CRS-000982,Advanced Financial Modeling Course 0982,Tech Academy,8,6000,45,2026-01-01,2027-12-31,Unavailable
+CRS-000983,Workshop Technical Writing Course 0983,Internal Academy,32,6000,37,2026-01-01,2027-12-31,Unavailable
+CRS-000984,Essentials Python Course 0984,SkillWorks,16,500,114,2026-01-01,2027-12-31,Unavailable
+CRS-000985,Professional Azure Course 0985,Open Learning,12,6000,112,2026-01-01,2027-12-31,Unavailable
+CRS-000986,Workshop Azure Course 0986,SkillWorks,8,4000,110,2026-01-01,2027-12-31,Available
+CRS-000987,Advanced Communication Course 0987,Open Learning,16,1500,15,2026-01-01,2027-12-31,Unavailable
+CRS-000988,Essentials Tableau Course 0988,Tech Academy,20,2500,59,2026-01-01,2027-12-31,Unavailable
+CRS-000989,Advanced Statistics Course 0989,SkillWorks,32,1000,28,2026-01-01,2027-12-31,Available
+CRS-000990,Applied Java Course 0990,Tech Academy,2,1500,59,2026-01-01,2027-12-31,Unavailable
+CRS-000991,Advanced CSS Course 0991,Tech Academy,6,6000,67,2026-01-01,2027-12-31,Unavailable
+CRS-000992,Applied Statistics Course 0992,Internal Academy,6,1000,93,2026-01-01,2027-12-31,Available
+CRS-000993,Applied Problem Solving Course 0993,Internal Academy,6,1000,42,2026-01-01,2027-12-31,Available
+CRS-000994,Foundations Cloud Fundamentals Course 0994,SkillWorks,20,1000,100,2026-01-01,2027-12-31,Unavailable
+CRS-000995,Professional Java Course 0995,SkillWorks,12,4000,89,2026-01-01,2027-12-31,Available
+CRS-000996,Foundations SQL Course 0996,SkillWorks,32,1000,91,2026-01-01,2027-12-31,Available
+CRS-000997,Foundations UX Research Course 0997,SkillWorks,24,0,84,2026-01-01,2027-12-31,Available
+CRS-000998,Essentials Data Analysis Course 0998,Open Learning,8,1500,94,2026-01-01,2027-12-31,Available
+CRS-000999,Foundations React Course 0999,Tech Academy,8,500,24,2026-01-01,2027-12-31,Unavailable
+CRS-001000,Advanced Azure Course 1000,Tech Academy,4,4000,25,2026-01-01,2027-12-31,Available
