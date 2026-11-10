@@ -116,7 +116,7 @@ python -m streamlit run app.py
 Visit:
 
 ```text
-http://localhost:8501
+http://localhost:8502
 ```
 
 ## 📊 Application Modules
